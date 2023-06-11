@@ -38,7 +38,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ## Hotkeys (Host Only)
 
-### Usable in Game
+#### Usable in Game
 | Function                       | HotKey               |
 | ------------------------------ | -------------------- |
 | Terminate the game             | `Shift`+`L`+`Enter`  |
@@ -46,7 +46,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 | Force meeting                  | `RShift`+`M`+`Enter` |
 
 
-### Usable In Meeting 
+#### Usable In Meeting 
 | Function                               | HotKey           |
 | -------------------------------------- | ---------------- |
 | Execute clicked player                 | `Ctrl`+`RMB`     |
@@ -54,20 +54,20 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 | Sends *certain* messages to dead       | `RShift`+`Enter` |
 
 
-### Usable During Countdown
+#### Usable During Countdown
 | Function                       | HotKey      |
 | ------------------------------ | ----------- |
 | Cancel game start & autoplay   | `C`         |
 | Start the game immediately     | `Shift`     |
 
 
-### Usable In Settings
+#### Usable In Settings
 | Function                       | HotKey              |
 | ------------------------------ | ------------------- |
 | Reset default settings/options | `Ctrl`+`Delete`     |
 
 
-### Usable In Lobby
+#### Usable In Lobby
 | Function                       | HotKey         |
 | ------------------------------ | -------------- |
 | Reload Lang file updates       | `Ctrl` + `T`   |
@@ -76,20 +76,20 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ## Hotkeys (Mod Clients Only)
 
-### Usable In Lobby
+#### Usable In Lobby
 | Function                       | HotKey          |
 | ------------------------------ | --------------- |
 | Next page in option shower     | `Tab`           |
 | Previous page in option shower | `LCtrl` + `Tab` |
 
-### Usable In Chat
+#### Usable In Chat
 | Function                               | HotKey             |
 | -------------------------------------- | ------------------ |
 | Paste the text                         | `Ctrl`+`V`         |
 | Go back in time of chat send history   | `↑`                |
 | Go future in time of chat send history | `↓`                |
 
-### Usable Anywhere
+#### Usable Anywhere
 | Function                         | HotKey       |
 | -------------------------------- | ------------ |
 | Increase Resolution              | `Ctrl`+`+`   | 
@@ -100,7 +100,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ## Chat Commands
 
-### Host Only
+#### Host Only
 
 | Function                         | Command                    | Aliases     |
 | -------------------------------- | -------------------------- | ----------- |
