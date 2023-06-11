@@ -323,7 +323,7 @@ Suffix:<br>
 __Output__:<br>
 ![Alt text](https://media.discordapp.net/attachments/1109172438006235278/1116595347293220894/Screenshot_2023-05-31_181524.png)
 
- # General Settings
+# General Settings
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -459,6 +459,7 @@ __Output__:<br>
 | [MadSnitch (Madmate)](#madsnitch)	    |	                                     |	                                    |	                               |			               	  |
 | [Parasite (MadMate)](#parasite)	    |	                                     |	                                    |	                               |            					  |
 
+
 # Host Only Roles
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -481,6 +482,9 @@ __Team__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Guess Crewmate Roles To Kill<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: たんぽぽ`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
 Assassin is an evil guesser that is on the impostor team.<br>
@@ -533,6 +537,9 @@ __Base__: Impostor<br>
 __Ability__: Reduced Kill Cooldown<br>
 __Indicatior/Symbols__: Text Indicator Displaying Current Target<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by The Other Roles`<br>
+
 #### Role Description 
 Collect Bounty from Target players (marked by black name).<br>
 If the Bounty Hunter kills their target, their kill cooldown is significantly reduced for their next kill.<br>
@@ -558,6 +565,9 @@ __Base__: Shapeshifter<br>
 __Ability__: Disguise Everyone<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: こう。`<br>
+`Idea by Town of Us Reactivated`<br>
+
 #### Role Description 
 Shapeshift into a player and cause every living player to shapeshift into the chosen player for a short amount of time.<br>
 When the duration is over, or if a meeting is called, players return to their normal form.<br>
@@ -581,6 +591,9 @@ __Team__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Sabotage Meetings<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by yoclobo (Manipulator)`<br>
 
 #### Role Description
 Reporting a body killed by the Conman will sabotage the meeting.<br>
@@ -611,6 +624,9 @@ __Base__: Impostor<br>
 __Ability__: Roleblock Players<br>
 __Indicatior/Symbols__: Text Indicator Displaying Current Mode<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Det`<br>
+
 #### Role Description
 Use the Pet button to alternate between Role-Blocking and Killing. <br>
 Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshifting, and venting.<br>
@@ -633,6 +649,9 @@ __Team__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Mass Distruction<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by Discussions`<br>
 
 #### Role Description
 The Creeper's only job is to cause as much devasation as possible.<br>
@@ -658,6 +677,9 @@ __Base__: Impostor<br>
 __Ability__: Teleport Players<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
+
 #### Role Description 
 Use Pet button to teleport everyone to a random vent.<br>
 
@@ -679,6 +701,9 @@ __Team__: Impostor<br>
 __Base__: Shapeshifter<br>
 __Ability__: Mark A Location & Strategically Escape<br>
 __Indicatior/Symbols__: Text Cooldown Displaying Time Until Able To Escape & Until Next Mark<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
 First use Pet button to mark a location. Then, after a set cooldown, you can re-use the Pet button to teleport back to your marked location.<br> 
@@ -703,6 +728,9 @@ __Team__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Explode Players Within Radius<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: こう。`<br>
+`Idea by こう。`<br>
 
 #### Role Description
 Use Pet button to plant a fireworks (i.e. bombs) around the map until Max Firework Count has been reached.<br>
@@ -735,6 +763,9 @@ __Base__: Shapeshifter<br>
 __Ability__: Shapeshift Into A Player To Freeze Them In Place<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Discussions`<br>
+
 #### Role Description
 The Freezer can freeze a player in place by shapeshifting into them.<br>
 The player will be frozen until the Freezer unshapeshifts.<br>
@@ -759,6 +790,9 @@ __Team__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Blind Nearby Players<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 Using the Pet button sets off a bomb, blinding players in a fixed-distance.<br>
@@ -787,7 +821,8 @@ __Base__: Shapeshifter<br>
 __Ability__: Shapeshift Into Your Victim<br>
 __Indicatior/Symbols__: None<br>
 
-_Idea by CC_
+`Originally Developed by: Discussions`<br>
+`Idea by paigecourtney "CC"`<br>
 
 #### Role Description
 The Identity Thief shifts into whoever they kill.<br>
@@ -810,6 +845,8 @@ __Team__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Clean Bodies With Report Button<br>
 __Indicatior/Symbols__: None<br>
+
+`Idea by Town of Us Reactivated`
 
 #### Role Description
 Choose between killing and cleaning at the end of kill cooldown.<br>
@@ -870,6 +907,9 @@ __Base__: Impostor<br>
 __Ability__: Buffed During Sabotage<br>
 __Indicatior/Symbols__: If Enabled, Your Name Will be Purple During Your Ability<br>
 
+`Originally Developed by: Kihi, しゅー, そうくん, ゆりの`<br>
+`Idea by Kihi`<br>
+
 #### Role Description
 Mare gains special powers during specific sabotages (determined by host). These powers may include: Increased Speed and Decreased Kill-Cooldown.<br>
 Be careful! If enabled in settings, your name will appear Purple while your ability is active.
@@ -926,6 +966,9 @@ __Base__: Impostor<br>
 __Ability__: Teleportation<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
+
 #### Role Description 
 Use the Pet button to teleport to the last vent used.<br>
 Make sure you have enough room for the pet animation.<br>
@@ -949,6 +992,8 @@ __Base__: Shapeshifter<br>
 __Ability__: Can Morph Into Other Players<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Innersloth`<br>
+
 #### Role Description 
 The Morphling can shapeshift themselves into any player that was still alive at the end of the last meeting.<br>
 It is a renamed Shapeshifter role in vanilla Among Us.<br>
@@ -971,6 +1016,9 @@ __Team__: Impostors<br>
 __Base__: Shapeshifter or Impostor<br>
 __Ability__: Teleportation<br>
 __Indicatior/Symbols__: Text indicator Displaying Current Mode<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by The Other Roles`<br>
 
 #### Ninja Ability Activation: Shapeshift Button
 Use Kill Button while shifted to mark target.<br>
@@ -1008,6 +1056,9 @@ __Base__: Impostor<br>
 __Ability__: Steals Votes From Their Kills <br>
 __Indicatior/Symbols__: Counter Displaying Current Vote Increase<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Discussions`<br>
+
 #### Role Description
 The Pickpocket is an Impostor who steals the votes of players they kill.<br>
 These votes stack up, which can make the Pickpocket very powerful.<br>
@@ -1030,6 +1081,9 @@ __Team__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Control Players<br>
 __Indicatior/Symbols__: "◆" Indicator On Puppeted Players<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by The Other Roles`<br>
 
 #### Role Description
 The Puppeteer can control a player and force them to kill the next non-impostor they come near.<br>
@@ -1054,6 +1108,9 @@ __Base__: Impostor<br>
 __Ability__: The Impostor's Groupie
 __Indicatior/Symbols__: Timer Showing When Serial Killer Is Going To Suicide<br>
 
+`Originally Developed by: Town of Host`<br>
+`Idea by Town of Host`<br>
+
 #### Role Description
 Has a reduced Kill-Cooldown (determined by host). Kill players before cooldown expires to avoid suicide.
 
@@ -1077,7 +1134,8 @@ __Base__: Shapeshifter<br>
 __Ability__: Can Kill From A Far Distance<br>
 __Indicatior/Symbols__: None<br>
 
-_Idea by こう。<br>_
+`Originally Developed by: こう。`<br>
+`Idea by Nebula on the Ship`<br>
 
 #### Normal Sniper Mode
 Use Shapeshift button to shift into another player.<br>
@@ -1118,6 +1176,9 @@ __Base__: Impostor<br>
 __Ability__: Invisibility<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
+
 #### Role Description 
 A normal impostor that can go invisible when entering a vent. While invisible, the Swooper can do all normal things (kill, sabotage, vent).<br>
 Be careful! Depending on the host's options you may be revealed when killing another player.<br>
@@ -1144,7 +1205,7 @@ __Base__: Impostor<br>
 __Ability__: Decrease Meeting and Voting Time<br>
 __Indicatior/Symbols__: None<br>
 
-`Created by integral, しゅー, そうくん, ゆりの`<br>
+`Originally Developed by: integral, しゅー, そうくん, ゆりの`<br>
 `Idea by みぃー`<br>
 
 #### Role Description
@@ -1170,6 +1231,9 @@ __Team__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Delayed Kills<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: Town of Host`<br>
+`Idea by The Other Roles`<br>
 
 #### Role Description
 The Vampire bites it's targets, resulting in a delayed kill.<br>
@@ -1221,6 +1285,9 @@ __Base__: Shapeshifter<br>
 __Ability__: Can Curse Players<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by The Other Roles`<br>
+
 #### Role Description
 Use the Kill Button to curse a Player.<br>
 The next time the Warlock shapeshifts, the cursed player will kill the nearest person.<br>
@@ -1244,7 +1311,10 @@ Be Careful! Cursed players can kill Impostors (and even the Warlock themself!).<
 __Team__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Kill & Cast Spells <br>
-__Indicatior/Symbols__:
+__Indicatior/Symbols__: None <br>
+
+`Originally Developed by: Town of Host`<br>
+`Idea by The Other Roles`<br>
 
 #### Role Description
 Alternate between spells and killing by utilizing the Kill Button.<br>
@@ -1269,7 +1339,10 @@ Spell does not self-report [Bait](#Bait).<br>
 __Team__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Make Two Players Kill Each Other<br>
-__Indicatior/Symbols__:
+__Indicatior/Symbols__: None <br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by Discussions`<br>
 
 #### Role Description
 The Yin Yanger is an Impostor with the ability to make two crewmates kill each other.<br>
@@ -1297,6 +1370,9 @@ __Ability__: Kill Nearest Player By Finishing Tasks<br>
 __Indicatior/Symbols__: None<br>
 __Win Condition__: Win With Impostors<br>
 
+`Originally Developed by: Discussions`<br>
+`Idea by crewpostor`<br>
+
 #### Role Description
 Complete a task to instantly kill the player nearest you (even impostors and other killing roles).<br>
 
@@ -1320,6 +1396,9 @@ __Team__: Impostors<br>
 __Base__: Engineer<br>
 __Ability__: None (The Fallen Impostor)<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed by: Discussions`<br>
+`Idea by libhalt`<br>
 
 #### Role Description
 The Madmate is a fallen Impostor with no kill button. They do not know who the Impostors are and the Impostors cannot tell them apart from other crewmates.<br>
@@ -1347,7 +1426,8 @@ __Base__: Crewmate<br>
 __Ability__: Finish Tasks To Become Unkillable<br>
 __Indicatior/Symbols__: None<br>
 
-_Create and idea by 空き瓶/EmptyBottle_<br>
+`Originally Developed by: 空き瓶/EmptyBottle`<br>
+`Idea by 空き瓶/EmptyBottle`<br>
 
 ### Role Description
 The MadGuardian is a fallen Impostor who is subjected to Crewmate tasks. They cannot kill, do not know who the Impostors are, and the Impostors cannot tell who they are from other crewmates.<br>
@@ -1380,7 +1460,8 @@ __Base__: Crewmate or Engineer<br>
 __Ability__: Finish Tasks To See Imps<br>
 __Indicatior/Symbols__: None <br>
 
-_Create and idea by そうくん_<br>
+`Originally Developed by: そうくん`<br>
+`Idea by そうくん`<br>
 
 #### Role Description
 The Mad Snitch is a fallen Impostor who is subjected to Crewmate tasks. They do not know who the Impostors are and the Impostors cannot tell them apart from other crewmates.<br>
@@ -1413,6 +1494,9 @@ __Team__: Impostors (MadMates)<br>
 __Base__: Shapeshifter<br>
 __Ability__: Fallen Impostor (Buffed)<br>
 __Indicatior/Symbols__:
+
+`Originally Developed by: Discussions`<br>
+`Idea by Loonie`<br>
 
 #### Role Description
 The Parasite is a Fallen Impostor who has kept it’s abilities and is coming back for vengeance.<br>
@@ -1460,30 +1544,45 @@ Serene's Grace => Reveals the role of the most nearby player<br>
 Unstable Concoction => Mutates into a random potion<br>
 
 _Potion Ingredients_<br>
-Potion of Death: ⚠ Vial of Decay + ◆ Base Catalyst Amount<br>
-Castling Brew: ◆ (2) Catalyst +  ◆ Base Catalyst Amount<br>
-Potion of Sight: ☀ Essence of Sight + ◆ Base Catalyst Amount<br>
-Warp Potion: Θ Theta Rift + ◆ Base Catalyst Amount<br>
-Mechanic's Mix: ◯ Fragment of Discussions + ◆ Base Catalyst Amount<br>
-Leader Potion: ◯ Fragment of Discussions + ◆ Base Catalyst Amount<br>
-Serene Grace: (2) Shifting Rose + ◆ Base Catalyst Amount<br>
-Unstable Concoction: (2) Theta Rift + ◆ Base Catalyst Amount<br>
+Potion of Death: ⚠ Vial of Decay + ◆ Base Catalyst Amount
+Castling Brew: ◆ (2) Catalyst +  ◆ Base Catalyst Amount
+Potion of Sight: ☀ Essence of Sight + ◆ Base Catalyst Amount
+Warp Potion: Θ Theta Rift + ◆ Base Catalyst Amount
+Mechanic's Mix: Fragment of Discussions + ◆ Base Catalyst Amount
+Leader Potion: Fragment of Discussions + ◆ Base Catalyst Amount
+Serene Grace: (2) Shifting Rose + ◆ Base Catalyst Amount
+Unstable Concoction: (2) Theta Rift + ◆ Base Catalyst Amount
 
 __Actions__: <br>
-__Long Hold Pet Button__: <br>
+__Long Hold Pet Button__*: <br>
 _Outside Crafting_: Brings you to the Crafting Menu<br>
 _Inside Crafting_: Close the Crafting Menu (also creates a potion if selected and all ingredients are collected)<br>
 _With Potion_: Use a crafted potion<br>
 
-__Pet Button__:<br>
+__Pet Button__**:<br>
 _Outside Crafting_: Picks up any ingredients in the area<br>
 _Inside Crafting_: Scrolls through potions<br>
 
-`Created & Idea by 단풍잎`<br>
+*Notes* <br>
+*Hold pet button long enough that you see the petting animation multiple times.<br>
+**Hold pet button just long enough that you only see the petting animation one time.<br>
 
 #### Role Description
-The Alchemist collects ingredients to create potions. While wandering around the map, the Alchemist will be alerted when an ingredient spawns with a text near their name saying 'Found: [Ingredient Name]'. Make sure to use your Pet button to collect the ingredient.<br>
-Refer to the section above for more information on how to collect and use ingredients to create potions.<br>
+Alchemist is a jack-of-all-trades crewmate role that collects "ingredients". Ingredients can be found in the following ways:<br>
+  • Catalyst - Found by completing tasks<br>
+  • Essence of Sight - Found when helping fix lights<br>
+  • Fragment of Discussions - Found randomly in groups of 3 or more players<br>
+  • Shifting Rose - Found after a player shapeshifts<br>
+  • Theta Rift - Found randomly<br>
+  • Vital of Decay - Found off dead bodies<br>
+
+The Alchemist can use their pet button to pick up these ingredients, and will get a message below their name saying: "Found: [Ingredient Name]".<br>
+
+The Alchemist uses ingredients to craft potions, to switch into "crafting mode" the Alchemist must hold down their pet button. Once in crafting mode, the pet button can be used to switch the next crafted potion.<br>
+
+If in the crafting menu, the Alchemist can hold down their pet button to exit it. If the Alchemist has all of the necessary ingredients to craft the potion they were on, the potion will begin crafting as they hold the pet button.<br>
+
+Once the Alchemist has a potion, they can hold down the pet button to use it, consuming it.<br>
 
 ## Game Options
 
@@ -1512,11 +1611,11 @@ __Base__: Engineer<br>
 __Ability__: Plant Bombs In Vents<br>
 __Indicatior/Symbols__: Counter Showing Remaining Amount Of Vents They Can Trap<br>
 
-`Created by Discussions`<br>
-`Original Idea by Mek`<br>
+`Originally Developed By: Discussions`<br>
+`Idea By: Mek`<br>
 
 #### Role Description
-Use the Vent button to plant a bomb in a vent. This will kill the next player who uses that vent (fully, not a half vent).<br>
+Use the Vent button to plant a bomb in a vent. This will kill the next player who uses that vent.<br>
 Bombs last for one round only. Vents will be reset at each meeting.<br><br>
 Be careful! The Bastion can bomb themself by using a vent they've already planted a bomb in.<br>
 
@@ -1538,6 +1637,9 @@ __Team__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Sacrifice's Their Life To Protect Another<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed By: Discussions`<br>
+`Idea By: Det`<br>
 
 #### Role Description
 The first player voted becomes the Bodyguard’s Target. This will not count as a vote.<br>
@@ -1564,18 +1666,21 @@ __Base__: Impostor<br>
 __Ability__: Protect Players From Attacks<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed By: Discussions`<br>
+`Idea By: Det`<br>
+
 #### Role Description
 The Crusader works like a living Guardian Angel from Vanilla Amoung Us.<br>
 Use the Kill button to select a target.<br>
 This target will be protected from attacks.<br>
 
-### Game Options (incomplete)
-|                 Name                   |                                     Description                                 |     Type     | Default | 
-| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :-----: |
-| Bodyguard                              | The probability of the Bodyguard appearing                                      |  Percentage  |   0%    |
-| Maximum                                | How many Bodyguards should spawn                                                |    Number    |    1    |
-| Protect Against Beneficial Interations | Whether the Bodyguard protects against Beneficial Interactions (e.g. Crusader)  |    Toggle    |   OFF   |
-| Protect Against Neutral Interactions   | Whether the Bodyguard protects agianst Neutral Interactions (e.g. Investigator) |    Toggle    |   ON    |
+### Game Options
+|                 Name                    |                                     Description                                 |     Type     | Default | 
+| --------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :-----: |
+| Crusader                                | The probability of the Crusader appearing                                       |  Percentage  |   0%    |
+| Maximum                                 | How many Crusaders should spawn                                                 |    Number    |    1    |
+| Protect Against Beneficial Interactions | Whether the Crusader protects against Beneficial Interactions (e.g. Crusader)   |    Toggle    |   OFF   |
+| Protect Against Neutral Interactions    | Whether the Crusader protects against Neutral Interactions (e.g. Investigator)  |    Toggle    |   ON    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1585,23 +1690,23 @@ This target will be protected from attacks.<br>
 
 __Team__: Crewmate<br>
 __Base__: Crewmate<br>
-__Ability__: Curses Impostor<br>
+__Ability__: Bombs their Killer<br>
 __Indicatior/Symbols__: None<br>
 
-`Created by Discussions`<br>
-`Original Idea by Mek`<br>
+`Originally Developed By: Discussions`<br>
+`Idea By: Mek`<br>
 
 #### Role Description
 When the Demolitionist is killed, they bomb the ground, giving the killer a few seconds to find a vent.<br>
-If the killer does not vent in time, they suicide.<br>
-Killer is notified that they have killed the demolitionist by their name/role.<br>
+If the killer does not vent in time, they are bombed.<br>
+The killer is notified that they have killed the demolitionist by their name/role.<br>
 
 ### Game Options
 |     Name      |                 Description                    |     Type     |  Default  | 
 | ------------- | ---------------------------------------------- | :----------: | :-------: |
 | Demolitionist | The probability of the Demolitionist appearing |  Percentage  |    0%     |
-| Maximum       | How many Demolitionishs should spawn           |    Number    |     1     |
-| Demo Time     | Amont of time the killer has to find a vent    |      Time    |    1.5    |
+| Maximum       | How many Demolitionists should spawn           |    Number    |     1     |
+| Demo Time     | Amount of time the killer has to find a vent   |      Time    |    1.5    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1614,15 +1719,16 @@ __Base__: Crewmate<br>
 __Ability__: Pick Who To Vote Out<br>
 __Indicatior/Symbols__: Counter (During Meetings) Showing Number Of Dictates Before Suicide<br>
 
-`Create and idea by そうくん`<br>
+`Originally Developed By: そうくん`<br>
+`Idea By: そうくん`
 
 #### Role Description
 Three things happen when the Dictator votes for someone in meeting:<br>
-1. They forcibly break the meeting, causing it to end immediately.<br>
+1. They forcibly end the meeting.<br>
 2. The player they voted for is exiled.<br>
-3. Scrifice themself in the name of justice (they die).<br>
+3. Sacrifice themself in the name of justice (they die) if they have no more dictate votes left.<br>
 
-### Game Options (incomplete)
+### Game Options
 |           Name             |                      Description                         |     Type     |  Default  | 
 | -------------------------- | -------------------------------------------------------- | :----------: | :-------: |
 | Dictator                   | The probability of the Dictator appearing                |  Percentage  |    0%     |
@@ -1639,6 +1745,9 @@ __Team__: Crewmate<br>
 __Base__: Scientist<br>
 __Ability__: Can See How Players Died<br>
 __Indicatior/Symbols__: Cause Of Death Displayed In Meetings<br>
+
+`Originally Developed By: Town of Host`<br>
+`Idea By: Nebula on the Ship`<br>
 
 #### Role Description
 The Doctor has a portable vitals panel just like the vanilla role, Scientist. Check this regularly to get an approximated time of death.<br>
@@ -1661,8 +1770,8 @@ __Base__: Impostor<br>
 __Ability__: Role Block Players<br>
 __Indicatior/Symbols__: "RB" Indicator On Roleblocked Player<br>
 
-`Create By Discussions`
-`Idea By Loonie`
+`Originally Developed By: Discussions`<br>
+`Idea By: Loonie`<br>
 
 #### Role Description
 Use the Pet button to roleblock<br>
@@ -1679,7 +1788,7 @@ Cannot roleblock The Glitch.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ExConvict
+## Ex-Convict
 
 <img align="right" width="" height="300" src="">
 
@@ -1694,11 +1803,11 @@ First use Pet button to mark a location, then after a set cooldown, you can re-u
 ### Game Options
 |            Name               |                      Description                       |     Type     | Default | 
 | ----------------------------- | ------------------------------------------------------ | :----------: | :-----: |
-| Escort                        | The probability of the Escort appearing                |  Percentage  |    0%   |
-| Maximum                       | How many Escorts should spawn                          |    Number    |    1    |
-| Cooldown After Mark           | The cooldown of the ExConvict's mark ability           |     Time     |    5s   |
-| Cooldown After Escape         | The cooldown of the ExConvict's escape ability         |     Time     |   40s   |
-| Clear Mark After Meeting      | Whether ExConvict's mark stays after meeting           |    Toggle    |    ON   |
+| Ex-Convict                    | The probability of the Ex-Convict appearing            |  Percentage  |    0%   |
+| Maximum                       | How many Ex-Convicts should spawn                      |    Number    |    1    |
+| Cooldown After Mark           | The cooldown of the Ex-Convict's mark ability          |     Time     |    5s   |
+| Cooldown After Escape         | The cooldown of the Ex-Convict's escape ability        |     Time     |   40s   |
+| Clear Mark After Meeting      | Whether Ex-Convict's mark stays after meeting          |    Toggle    |    ON   |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1711,9 +1820,12 @@ __Base__: Impostor/Crewmate<br>
 __Ability__: Investigate Roles<br>
 __Indicatior/Symbols__: Player's Name Changes Based On "Good" or "Bad"<br>
 
+`Originally Developed By: Discussions`<br>
+`Idea By: Town of Us Reactivated`<br>
+
 #### Role Description
 Use the Kill button to investigate if the player is good or bad. In general, red is bad & green is good.<br>
-Be wary of how 'bad' the player with the red name is. The Sheriff can end up with a red name in some lobbies!<br>
+Be wary of how 'bad' the player with the red name is. The Sheriff or Veteran can end up with a red name in some lobbies!<br>
 
 __*Red = Bad*__ <br>
  - __Impostors__ (always)<br>
@@ -1738,37 +1850,44 @@ __*Green = Good*__ <br>
 | Investigate Cooldown     | The cooldown of the Investigator's Kill button                 |    Time    |   27.5s   |
 | Neutral Passive are Red  | Whether Neutral Passive roles appear red when investigated     |   Toggle   |    None   |
 | ┣ Amnesiac               | Whether Amnesiac will show a red name when investigated        |   Toggle   |    OFF    |
+| ┣ Archangel              | Whether Archangel will show a red name when investigated       |   Toggle   |    OFF    |
+| ┣ Copycat                | Whether Copycat will show a red name when investigated         |   Toggle   |    OFF    | 
 | ┣ Executioner            | Whether Executioner will show a red name when investigated     |   Toggle   |    OFF    |
+| ┣ Hacker                 | Whether Hacker will show a red name when investigated          |   Toggle   |    OFF    |
 | ┣ Jester                 | Whether Jester will show a red name when investigated          |   Toggle   |    OFF    |
 | ┣ Opportunist            | Whether Opporttunist will show a red name when investigated    |   Toggle   |    OFF    |  
 | ┣ Phantom                | Whether Phantom will show a red name when investigated         |   Toggle   |    OFF    |
-| ┗ Survivor               | Whether Survivor will show a red name when investigated        |   Toggle   |    OFF    |
+| ┣ Postman                | Whether Postman will show a red name when investigated         |   Toggle   |    OFF    | 
+| ┣ Survivor               | Whether Survivor will show a red name when investigated        |   Toggle   |    OFF    |
+| ┣ Terrorist              | Whether Terrorist will show a red name when investigated       |   Toggle   |    OFF    | 
+| ┗ Vulture                | Whether Vulture will show a red name when investigated         |   Toggle   |    OFF    |
 | Neutral Killing are Red  | Whether Neutral Killing roles appear red when investigated     |   Toggle   |    None   | 
+| ┣ AgiTater               | Whether AgiTater will show a red name when investiagted        |   Toggle   |    OFF    |
 | ┣ Arsonist               | Whether Arsonist will show a red name when investigated        |   Toggle   |    OFF    |
 | ┣ BloodKnight            | Whether BloodKnight will show a red name when investigated     |   Toggle   |    OFF    |
-| ┣ CrewPostor             | Whether CrewPostor will show a red name when investigated      |   Toggle   |    OFF    |
 | ┣ Egoist                 | Whether Egoist will show a red name when investigated          |   Toggle   |    OFF    |  
-| ┣ Glitch                 | Whether Glitch will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Hacker                 | Whether Hacker will show a red name when investigated          |   Toggle   |    OFF    |
+| ┣ Hitman                 | Whether Hitman will show a red name when investigated          |   Toggle   |    OFF    |
 | ┣ Jackal                 | Whether Jackal will show a red name when investigated          |   Toggle   |    OFF    |
 | ┣ Juggernaut             | Whether Juggernaut will show a red name when investigated      |   Toggle   |    OFF    |
 | ┣ Marksman               | Whether Marksman will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ NeutWitch              | Whether NeutWitch will show a red name when investigated       |   Toggle   |    OFF    |
+| ┣ Occultist              | Whether Occultist will show a red name when investigated       |   Toggle   |    OFF    |
 | ┣ Pestilence             | Whether Pestilence will show a red name when investigated      |   Toggle   |    OFF    |
 | ┣ Pirate                 | Whether Pirate will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ PlagueBearer           | Whether PlagueBearer will show a red name when investigated    |   Toggle   |    OFF    |
-| ┣ Poisoner               | Whether Poisoner will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ Swapper                | Whether Swapper will show a red name when investigated         |   Toggle   |    OFF    |
-| ┣ Vulture                | Whether Vulter will show a red name when investigated          |   Toggle   |    OFF    |
+| ┣ Plague Bearer          | Whether Plague Bearer will show a red name when investigated   |   Toggle   |    OFF    |
+| ┣ The Glitch             | Whether The Glitch will show a red name when investigated      |   Toggle   |    OFF    |
 | ┗ Werewolf               | Whether Werewolf will show a red name when investigated        |   Toggle   |    OFF    | 
 | Crewmate Killing are Red | Whether Crewmate Killing roles appear red when investigated    |   Toggle   |    None   | 
 | ┣ Sheriff                | Whether Sheriff will show a red name when investigated         |   Toggle   |    OFF    |
 | ┗ Veteran                | Whether Veteran will show a red name when investigated         |   Toggle   |    OFF    |
-| Madmate are Red          | Whether Madmate roles appear red when investigated             |   Toggle   |    None   |  
+| Madmate are Red          | Whether Madmate roles appear red when investigated             |   Toggle   |    None   |
+| ┣ CrewPostor             | Whether CrewPostor will show a red name when investigated      |   Toggle   |    OFF    |
 | ┣ Madmate                | Whether Madmate will show a red name when investigated         |   Toggle   |    OFF    |
 | ┣ Mad Guardian           | Whether Mad Guardian will show a red name when investigated    |   Toggle   |    OFF    |
 | ┣ Mad Snitch             | Whether Mad Snitch will show a red name when investigated      |   Toggle   |    OFF    |
 | ┗ Parasite               | Whether Parasite will show a red name when investigated        |   Toggle   |    OFF    |
+| Undead Roles are Red     | Whether Undead roles appear red when investigated              |   Toggle   |    None   | 
+| ┣ Necromancer            | Whether Necromancer will show a red name when investigated     |   Toggle   |    OFF    |
+| ┗ Deathknight            | Whether Deathknight will a red name when investigated          |   Toggle   |    OFF    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1780,6 +1899,9 @@ __Team__: Crewmate<br>
 __Base__: Crewmate or Engineer<br>
 __Ability__: Additional Votes / Venting Calls Meetings<br>
 __Indicatior/Symbols__: Counter Showing Number of Pocket Meetings<br>
+
+`Originally Developed By: Discussions`<br>
+`Idea By: The Other Roles`<br>
 
 #### Role Description
 Mayor’s vote is counted multiple times (predetermined by the host in settings).<br>
@@ -1807,6 +1929,8 @@ __Base__: Engineer<br>
 __Ability__: Use Vents<br>
 __Indicatior/Symbols__: None<br>
 
+`Originally Developed By: Innersloth`<br>
+
 #### Role Description
 The Mechanic can use vents to travel around the map.<br>
 They are restricted by the Vent Use Cooldown & Max Time In Vents Options used for vanilla Engineer.<br>
@@ -1831,10 +1955,13 @@ __Base__: Crewmate<br>
 __Ability__: Shield a Player From Attacks<br>
 __Indicatior/Symbols__: Small "+" Mark Showing Shielded Player<br>
 
+`Originally Developed By: Discussions`<br>
+`Idea By: Town of Us Reactivated`<br>
+
 #### Role Description
 The Medic is able to vote a player to shield. Based on host's options, the Medic may be able to change their protected player during following meetings.
 
-### Game Options (incomplete)
+### Game Options 
 |             Name               |                           Description                       |     Type     |   Default   | 
 | ------------------------------ | ----------------------------------------------------------- | :----------: | :---------: |
 | Medic                          | The probability of the Medic appearing                      |  Percentage  |     0%      |
@@ -1852,20 +1979,21 @@ __Base__: Crewmate<br>
 __Ability__: Reveal The Killers Role When Reporting<br>
 __Indicatior/Symbols__: Medium <br>
 
-`Create By Discussions`
-`Idea By Loonie`
+`Originally Developed By: Discussions`<br>
+`Idea By: Town of Us Reactivated`<br>
 
 #### Role Description
 Use the Report button to report a body.<br>
 In meeting chat, the Medium will receive a message revealing the role of the reported player's killer.<br>
 Medium can only see killer's role if they reported the body themselves.<br>
+Depending on host's settings, they may also see an arrow pointing to bodies.<br>
 
-### Game Options (incomplete)
+### Game Options 
 |             Name               |                           Description                       |     Type     |  Default  | 
 | ------------------------------ | ----------------------------------------------------------- | :----------: | :-------: |
 | Medium                         | The probability of the Medium appearing                     |  Percentage  |    0%     |
 | Maximum                        | How many Mediums should spawn                               |    Number    |     1     |
-
+| Has Arrows to Bodies           | Whether the Medium will see an arrow point to bodies        |    Toggle    |    OFF    | 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1877,6 +2005,9 @@ __Team__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Notified When Players Are Killed<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed By: Discussions`<br>
+`Idea By: Town of Us Reactivated`<br>
 
 #### Role Description
 When a player is killed, Mystic receives a single flash and alert. It is very similar to when the reactor is sabotaged. Use this alert to estimate time of death.
@@ -1900,24 +2031,21 @@ __Base__: Crewmate<br>
 __Ability__: Increased Vision<br>
 __Indicatior/Symbols__: None<br>
 
-`Original create & idea by Town of Host`
-`Rewrite by 단풍잎`
-
 #### Role Description
-Finish tasks to gain vision. Depending on the host's options, you may gain a small vision boost upon completing tasks, or, a large vision boost when all of your tasks are complete.<br>
+Finish tasks to gain vision. Depending on the host's options, you may gain a small vision boost upon completing each task, or, a large vision boost when all tasks have been complete.<br>
 Additionally, if enabled, you'll be able to see even during sabotages.<br>
 
 ### Game Options
-|               Name                |                              Description                           |     Type     |  Default  | 
-| --------------------------------- | ------------------------------------------------------------------ | :----------: | :-------: |
-| Observer                          | The probability of the Observer appearing                          |  Percentage  |    0%     |
-| Maximum                           | How many Obervers should spawn                                     |    Number    |     1     |
-| Slowly Gains Vision               | Whether the Observer gains vision with task completion or not      |    ON/OFF    |    OFF    |
-| Vision Gain On Task Complete      | The amount of vision increase Observer receives on task completion |   Multiplier |   0.15x   |
-| Override Starting Vision          | Whether Observer starts with a vision modifier or not              |    ON/OFF    |    OFF    |
-| Starting Vision Modifier          | The amount of vision increase received with vision modifier        |   Multiplier |   0.25x   |
-| Finished Tasked Vision            | The vision received when tasks have been completed                 |   Multiplier |   2.25x   |
-| Lights Immunity If Tasks Finished | Whether Observer is unaffected by Lights Sabotage or not           |    ON/OFF    |    ON     |
+|               Name                       |                              Description                                            |     Type     |  Default  | 
+| ---------------------------------------- | ----------------------------------------------------------------------------------- | :----------: | :-------: |
+| Observer                                 | The probability of the Observer appearing                                           |  Percentage  |    0%     |
+| Maximum                                  | How many Obervers should spawn                                                      |    Number    |     1     |
+| Slowly Gains Vision                      | Whether the Observer gains vision with each task completed or total task completion |    Toggle    |    OFF    |
+| ┗ Vision Gain With Each Task Completed   | The amount of vision increase the Observer receives for each task they complete     |   Multiplier |   0.15x   |
+| Override Starting Vision                 | Whether Observer starts with a different vision other than default                  |    Toggle    |    OFF    |
+| ┗ Starting Vision Modifier               | How much vision the Observer has before any tasks are completed                     |   Multiplier |   0.25x   |
+| Finished Tasked Vision                   | The final vision distance Observer has when all tasks are completed                 |   Multiplier |   2.25x   |
+| Lights Immunity If Tasks Finished        | Whether Observer is unaffected by Lights Sabotage or not                            |    Toggle    |    ON     |
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1930,11 +2058,14 @@ __Base__: Crewmate<br>
 __Ability__: Reveal A Role Upon Death<br>
 __Indicatior/Symbols__: After the Oracle dies, the targeted player will have their role shown to everyone with a bluish-purple gradient<br>
 
+`Originally Developed By: Discussions`<br>
+`Idea By: Det`<br>
+
 #### Role Description
 The first player voted by the Oracle becomes the Oracle’s Target. This will not count as a vote.<br>
 When the Oracle dies, the Target’s role is revealed to everyone.<br>
 The Oracle may skip freely before their target is locked in and vote freely after their target has been locked in.<br>
-The Oracle can choose to reveal their own role if they wish.<br>
+The Oracle can choose to reveal their own role if they wish by voting themselves.<br>
 
 ### Game Options
 |   Name  |                     Description                        |     Type     |  Default  | 
@@ -1952,6 +2083,8 @@ __Team__: Crewmate<br>
 __Base__: Scientist<br>
 __Ability__: Can See Vitals<br>
 __Indicatior/Symbols__: None<br>
+
+`Originally Developed By: Innersloth`<br>
 
 #### Role Description
 The Physicists have a portable vitals monitor that can be accessed anywhere on the map.<br>
@@ -1974,20 +2107,20 @@ __Base__: Crewmate<br>
 __Ability__: See A Potential Evil Player<br>
 __Indicatior/Symbols__: None<br>
 
-`Create By Discussions `
-`Idea By Loonie`
+`Originally Developed By: Discussions`<br>
+`Idea By: Loonie`
 
 #### Role Description
-The Psychic has ability to see potential evils during a meeting.<br>
-Three players will be highlighted in red, at least one of them is evil.<br>
+The Psychic has the ability to see potential evils during a meeting.<br>
+Three players will be highlighted in red, at least one of them is evil. The number of players highlighted can be adjusted by the host.<br>
 
 ### Game Options (incomplete)
-|              Name             |                      Description                       |    Type    |  Default  | 
-| ----------------------------- | ------------------------------------------------------ | :--------: | :-------: |
-| Psychic                       | The probability of the Psychic appearing               | Percentage |    0%     |
-| Maximum                       | How many Psychics should spawn                         |   Number   |     1     |
-| Highlighted Players           | How many players are highlighted during meeting        |   Number   |     3     |
-| Non-Impostor Killing Are Evil | Whether non-Impostor killing roles are considered evil |   Toggle   |    ON     |
+|              Name             |                      Description                                  |    Type    |  Default  | 
+| ----------------------------- | ----------------------------------------------------------------- | :--------: | :-------: |
+| Psychic                       | The probability of the Psychic appearing                          | Percentage |    0%     |
+| Maximum                       | How many Psychics should spawn                                    |   Number   |     1     |
+| Highlighted Players           | How many players are highlighted during meeting                   |   Number   |     3     |
+| All Killing Roles are Evil    | Whether all killing roles are considered evil (including sheriff) |   Toggle   |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1996,12 +2129,12 @@ Three players will be highlighted in red, at least one of them is evil.<br>
 <img align="right" width="" height="300" src="">
 
 __Team__: Crewmates<br>
-__Base__: Crewmate<br>
+__Base__: Crewmate/Engineer<br>
 __Ability__: Clear Sabotages Without Help<br>
 __Indicatior/Symbols__: None<br>
 
-`Original Create and idea by 空き瓶/EmptyBottle`<br> 
-`Rewrite by 단풍잎`
+`Originally Developed By: 空き瓶/EmptyBottle`<br> 
+`Idea By: 空き瓶/EmptyBottle (SabotageMaster)`
 
 #### Role Description
 Repairman can fast-fix sabotages that typically require two players (e.g. reactor) on their own.<br>
@@ -2013,6 +2146,9 @@ Opening a door in Polus or The Airship will open all the linked doors.<br>
 | ------------------------- | --------------------------------------------- | :----------: | :-------: |
 | Sabotage Master           | The probability of the Repairman appearing    |  Percentage  |    0%     |
 | Maximum                   | How many Repairmans should spawn              |    Number    |     1     |
+| Repairman Can Vent        | Whether the Repairman can vent                |    Toggle    |    ON     | 
+| ┣ Vent Cooldown           | The cooldown of the Repairman's vent button   |     Time     |    40s    | 
+| ┗ Vent Duration           | How long the Repairman can stay inside a vent |     Time     |   14.5s   | 
 | Fast Fixes Lights         | Whether Repairman can fast-fix Lights         |    Toggle    |    ON     |
 | Fast Fixes Reactor        | Whether Repairman can fast-fix Reactor        |    Toggle    |    ON     |
 | Fast Fixes Oxygen         | Whether Repairman can fast-fix Oxygen         |    Toggle    |    ON     |
@@ -2032,22 +2168,22 @@ __Base__: Impostor/Crewmate<br>
 __Ability__: Can Shoot Impostors<br>
 __Indicatior/Symbols__: Counter showing number of bullets<br>
 
-`Create and idea from Town of Host` <br>
-`Rewrite by 단풍잎`
+`Originally Developed By: Town of Host` <br>
+`Idea From: Woodi-dev`
 
 #### Role Description
 The Sheriff can kill Impostors.<br>
-Be Careful, if enabled by host, Sheriff will misfire (kill themself) if they shoot a crewmate.<br>
+Be Careful! The Sheriff will misfire (kill themself) if they shoot a crewmate or a neutral not allowed by host.<br>
 Additionally (depending on settings) they may have no tasks.<br>
 
-### Game Options (incomplete)
+### Game Options
 |           Name           |                           Description                        |         Type        |  Default  | 
 | ------------------------ | ------------------------------------------------------------ | :-----------------: | :-------: |
 | Sheriff                  | The probability of the Sheriff appearing                     |      Percentage     |    0%     |
 | Maximum                  | How many Sheriffs should spawn                               |        Number       |     1     |
-| Can Kill Crewmates       | Whether Sheriff can kill Crewmates or not                    |        Toggle       |    OFF    |
+| Kill Target on Misfire   | Whether Sheriff will kill their target when misfiring        |        Toggle       |    OFF    |
 | Kill Cooldown            | The Cooldown for the Sheriff's Kill/Pet button               |         Time        |    25s    |
-| Total Shots              | The total amount of shots the Sheriff can make               |        Number       |     5     |
+| Total Shots              | The total amount of shots (kills) the Sheriff can make       |        Number       |     5     |
 | One Shot Per Round       | Whether the Sheriff can make multiple shots per round or not |        Toggle       |    ON     |
 | Sheriff Action Button    | Toggles the Kill/Pet Button for the Sheriff's ability        |        Toggle       |   Kill    |
 
@@ -2062,11 +2198,11 @@ __Base__: Crewmate<br>
 __Ability__: Finish Tasks To See Killers<br>
 __Indicatior/Symbols__: ⚠ indicator when on task threshold<br>
 
-`Create and idea from Town of Host`<br>
-`Rewrite by 단풍잎`<br>
+`Originally Developed By: Town of Host`<br>
+`Idea From: The Other Roles`<br>
 
 #### Role Description
-The Snitch can see Impostors (has option to see any Killing player) once tasks are complete.<br>
+The Snitch can see Impostors (has option to see any neutral killers as well) once tasks are complete.<br>
 When the Snitch has a certain number of tasks left (predetermined based on host's settings), they will be revealed to the killers with a ⚠ indicator.<br>
 Depending on the settings, when their tasks are completed, the Snitch may also see arrows pointed in the direction of each player they're tracking.<br>
 
@@ -2079,7 +2215,7 @@ Depending on the settings, when their tasks are completed, the Snitch may also s
 | Evil Have Arrow to Snitch        | Whether evil players will have an arrow to the Snitch                 |    Toggle    |    ON     |
 | Enable Arrow for Snitch          | Whether the Snitch will have arrows to the killers                    |    Toggle    |    ON     |
 | ┗ Colored Arrow                  | Whether the arrows are colored based on role color                    |    Toggle    |    ON     |
-| Snitch can Track Any Killing     | Whether Snitch can track any living killer on the map                 |    Toggle    |    ON     |
+| Snitch can Track Neutral Killers | Whether Snitch can track Neutral Killers                              |    Toggle    |    ON     |
 | Override Snitch's Tasks          | Options to customize Snitch's tasks                                   |    Toggle    |   OFF     |
 | ┣ Allow Common Tasks             | Whether the Snitch will receive Common Tasks                          |    Toggle    |    ON     |
 | ┣ Snitch Long Tasks              | How many Long Tasks will be assigned to the Snitch                    |    Number    |     5     |
@@ -2096,21 +2232,21 @@ __Base__: Crewmate<br>
 __Ability__: Increased Speed Upon Task Completion<br>
 __Indicatior/Symbols__: None<br>
 
-`Original Create & Idea by Town of Host`<br>
-`Rewrite by 단풍잎`<br>
-
 #### Role Description
-Finish tasks to gain a speed boost! Depending on the host's options, you may gain a small speed boost after completing singular tasks, or, get a large speed boost after reaching a task-threshold.
+Finish tasks to gain a speed boost! Depending on the host's options, you may gain a small speed boost (possibly temporarily depending on settings) after completing singular tasks, or, get a large speed boost after reaching a task-threshold.
 
 ### Game Options
-|                Name               |                                         Description                                     |     Type     |  Default  | 
-| --------------------------------- | --------------------------------------------------------------------------------------- | :----------: | :-------: |
-| Speedrunner                       | The probability of the Speedrunner appearing                                            |  Percentage  |    0%     |
-| Maximum                           | How many Speedrunners should spawn                                                      |    Number    |     1     |
-| Small Boost When Finishing a Task | Whether the Speedrunner will receive a temporary boost after finishing each task or not |    ON/OFF    |    OFF    |                  
-| Tasks Until Speed Boost           | How many tasks need to be completed to receive Final Speed Boost                        |    Number    |     6     |                       
-| Slowly Gain Speed Boost           | Whether Speedrunner's Speed Boost can be acheived in increments or not                  |    ON/OFF    |    OFF    |                                    
-| Final Speed Boost                 | Final Player Speed when Speedbooster completes Tasks Until Speed Boost                  |  Multiplier  |   2.25x   |                    
+|                Name                   |                                         Description                                     |     Type     |  Default  | 
+| ------------------------------------- | --------------------------------------------------------------------------------------- | :----------: | :-------: |
+| Speedrunner                           | The probability of the Speedrunner appearing                                            |  Percentage  |    0%     |
+| Maximum                               | How many Speedrunners should spawn                                                      |    Number    |     1     |
+| Temporary Boost When Finishing a Task | Whether the Speedrunner will receive a temporary small boost after finishing each task  |    Toggle    |    OFF    |    
+| ┣ Speed Boost                         | How much of a temporary speed boost the Speedrunner gets after each task                |  Multiplier  |   0.15x   | 
+| ┗ Boost Duration                      | How long the temporary speed boost lasts after each completed task                      |     Time     |    3s     | 
+| Tasks Until Speed Boost               | How many tasks need to be completed to receive Final Speed Boost                        |    Number    |     6     |                       
+| Slowly Gain Speed Boost               | Whether Speedrunner's gains a small permanent speed boost after each completed task     |    Toggle    |    OFF    |
+| ┗ Permanent Gain                      | How much of a permanent boost the Speedrunner gets after completing each task           |  Multiplier  |    0.2x   |
+| Final Speed Boost                     | Final Player Speed when Speedbooster completes Tasks Until Speed Boost                  |  Multiplier  |   2.25x   |                    
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2121,8 +2257,7 @@ __Base__: Crewmate<br>
 __Ability__: Swap Votes During Meeting<br>
 __Indicatior/Symbols__: None<br>
 
-`Create by 단풍잎`
-`Idea by Town of Us Reactivated`
+`Idea From: Town of Us Reactivated`
 
 #### Role Description
 The first two players you vote each meeting will have their votes swapped. After voting those players, you may vote as normal. Alternatively, you can skip at the start and continue to normal voting.
@@ -2145,12 +2280,12 @@ __Base__: Crewmate<br>
 __Ability__: Transport Two Players<br>
 __Indicatior/Symbols__: None<br>
 
-`Create by Discussions`<br>
-`Idea from Town of Us Reactivated`<br>
+`Originally Developed By: Discussions`<br>
+`Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
 Use the Pet button and cause two random players to switch places.<br>
-Consider the pet function while using the button. Do you have enough room for the pet animation?<br>
+Make sure you have enough for the pet animation.<br>
 
 ### Game Options
 |        Name          |                           Description                       |     Type     |  Default  | 
@@ -2168,11 +2303,11 @@ Consider the pet function while using the button. Do you have enough room for th
 
 __Team__: Crewmates<br>
 __Base__: Crewmate<br>
-__Ability__: Can Trap Impostors when Killed<br>
+__Ability__: Trap Their Killers<br>
 __Indicatior/Symbols__: None<br>
 
-`Created by そうくん`<br>
-`Original idea by 宿主ランニング`<br>
+`Originally Developed By: そうくん`<br>
+`Idea By: 宿主ランニング`<br>
 
 #### Role Description
 Upon death, Trapster freezes their killer in place for a few seconds.<br>
@@ -2187,30 +2322,6 @@ Upon death, Trapster freezes their killer in place for a few seconds.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Vigilante 
-
-<img align="right" width="" height="300" src="">
-
-__Team__: Crewmate<br>
-__Base__: Crewmate<br>
-__Ability__: Guess Evil Roles To Eliminate Them<br>
-__Indicatior/Symbols__: None<br>
-
-`Created by たんぽぽ`<br>
-
-#### Role Description
-Vigilante is a nice guesser and part of the crewmate team.<br>
-While in meeting the Vigilante's first vote locks in the player they're going to guess.<br>
-The Vigilante's second guess locks in the role they're guessing.<Br>
-
-### Game Options
-|         Name           |                             Description                             |     Type     |  Default  | 
-| ---------------------- | ------------------------------------------------------------------- | :----------: | :-------: |
-| Vigilante              | The probability of the Vigilante appearing                          |  Percentage  |    0%     |
-| Maximum                | How many Vigilantes should spawn                                    |    Number    |     1     |
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Veteran
 
 <img align="right" width="" height="300" src="">
@@ -2220,8 +2331,8 @@ __Base__: Crewmate<br>
 __Ability__: Counterattacks Players' Kill Button<br>
 __Indicatior/Symbols__: None<br>
 
-`Created by Discussions`<br>
-`Idea by Town of Us Reactivated`<br
+`Originally Developed By: Discussions`<br>
+`Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
 When the Veteran is attacked while on Alert, the attack will backfire resulting in the attacker's death. Use the Pet button to activate the Veteran's ability.<br>
@@ -2238,6 +2349,31 @@ Pro Tip - Make sure you have enough room for the Pet animation!<br>
 | Kill Crewmates         | Whether the Veteran can kill Crewmates or not                       |    Toggle    |    ON     |
 | Kill While Transported | Wether the Veteran can kill the player they're transported with     |    Toggle    |    ON     |
 | Kill Ranged Attackers  | Whether the Veteran can kill Ranged Attackers (e.g. Crewpostor)     |    Toggle    |    ON     |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Vigilante 
+
+<img align="right" width="" height="300" src="">
+
+__Team__: Crewmate<br>
+__Base__: Crewmate<br>
+__Ability__: Guess Evil Roles To Eliminate Them<br>
+__Indicatior/Symbols__: None<br>
+
+`Originally Developed By: たんぽぽ`<br>
+`Idea From: Town of Us Reactivated`<br>
+
+#### Role Description
+Vigilante is a nice guesser and part of the crewmate team.<br>
+While in meeting the Vigilante's first vote locks in the player they're going to guess.<br>
+The Vigilante's second guess locks in the role they're guessing.<Br>
+
+### Game Options
+|         Name           |                             Description                             |     Type     |  Default  | 
+| ---------------------- | ------------------------------------------------------------------- | :----------: | :-------: |
+| Vigilante              | The probability of the Vigilante appearing                          |  Percentage  |    0%     |
+| Maximum                | How many Vigilantes should spawn                                    |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3046,7 +3182,7 @@ Players with the deadly modifier have their kill cooldown reduced by a set perce
 __Indicator__: Green §<br>
 
 `Originally Developed by Discussions`<br>
-`Idea by Town of Us Reworked`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 Multiplies the killer's kill cooldown upon death.<br>
@@ -3066,7 +3202,7 @@ Multiplies the killer's kill cooldown upon death.<br>
 __Indicator__: Yellow ◎ <br>
 
 `Originally Developed by Discussions`<br>
-`Idea by Town of Us Reworked`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 The Flash makes the player move faster.<br>
@@ -3115,7 +3251,7 @@ Grants any role the ability to vent, if they weren't able to previously vent.
 __Indicator__: Maroon ?!<br>
 
 `Originally Developed by Discussions`<br>
-`Idea by Town of Us Reworked`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 Oblivious cannot report bodies.
@@ -3186,7 +3322,7 @@ Use the report button to report a body. In meeting chat, the Sleuth will receive
 __Indicator__: Purple ※<br>
 
 `Originally Developed by Discussions`<br>
-`Idea by Town of Us Reworked`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 If there is a tie between two players in a meeting, the Tiebreaker's vote will decide who to eject or to skip.
@@ -3204,7 +3340,7 @@ If there is a tie between two players in a meeting, the Tiebreaker's vote will d
 __Indicator__: Peach ☀<br>
 
 `Originally Developed by Discussions`<br>
-`Idea by Town of Us Reworked`<br>
+`Idea by Town of Us Reactivated`<br>
 
 #### Role Description
 Torch is unaffected by lights out.
