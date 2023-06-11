@@ -323,51 +323,7 @@ Suffix:<br>
 __Output__:<br>
 ![Alt text](https://media.discordapp.net/attachments/1109172438006235278/1116595347293220894/Screenshot_2023-05-31_181524.png)
 
-
-## Roles
-
-| Impostor                              | Crewmate                             | Neutral Passive                     | Neutral Killing                 | Modifier                  |
-| ------------------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------- | --------------------------| 
-| [Assassin](#assassin)                 | [Alchemist](#alchemist)	             | [Amnesiac](#amnesiac)	            | [Agitater](#agitater)	          | [Bait](#bait)	           |
-| [Blackmailer](#blackmailer)           | [Bastion](#bastion)	                | [Archangel](#archangel)	            | [Arsonist](#arsonist)	          | [Bewilder](#bewilder)     |
-| [Bounty Hunter](#bounty-hunter)       | [Bodyguard](#bodyguard)              | [Copy-Cat](#copy-cat)               | [Blood Knight](#blood-knight)   | [Diseased](#diseased)     |
-| [Camouflager](#camouflager)           | [Crusader](#crusader)                | [Executioner](#executioner)         | [Egoist](#egoist)	             | [Flash](#flash)	        |
-| [Conman](#conman)                     | [Demolitionist](#demolitionist)      | [Hacker](#hacker)	                  | [Hypnotist](#hypnotist)	       | [Lovers](#hex-master)	  | 
-| [Consort](#consort)	                | [Dictator](#dictator)	             | [Hitman](#hitman)                   | [Jackal](#jackal)	             | [Oblivious](#oblivious)   |
-| [Creeper](#creeper)	                | [Doctor](#doctor)                    | [Jester](#jester)	                  | [Juggernaut](#juggernaut)	    | [Obvious](#obvious)	     |
-| [Disperser](#disperser)	             | [Escort](#escort)	                   | [Opportunist](#opportunist)	      | [Marksman](#marksman)	          | [Psychopath](#psychopath) |
-| [Escapist](#escapist)	                | [Ex-Convict](#ex-convict)	          | [Phantom](#phantom)	               | [Pestilence](#pestilence)       | [Sleuth](#sleuth)	        |
-| [FireWorker](#fireworker)	          | [Investigator](#investigator)	       | [Postman](#postman)	               | [Plague Bearer](#plague-bearer) | [Torch](#torch)           |
-| [Freezer](#freezer)	                | [Mayor](#mayor)  	                   | [Survivor](#survivor)	            | [The Glitch](#the-glitch)       | [Watcher](#watcher)       |
-| [Grenadier](#grenadier)	             | [Mechanic](#mechanic)	             | [Terrorist](#terrorist)	            | [Werewolf](#werewolf)|	       |                           |
-| [Identity Thief](#identity-thief)	    | [Medic](#medic)	                   | [Vulture](#vulture)	               | 	                               |	                          |
-| [Janitor](#janitor)	                | [Medium](#medium)	                   |                                     |                                 |	                          |
-| [Mafioso](#mafioso)	                | [Mystic](#mystic) 	                |   	                                 |	                               |	                          |
-| [Mare](#mare)	                      | [Observer](#observer) 	             |      	                              |	                               |	                          |
-| [Mastermind](#mastermind)	          | [Oracle](#oracle) 	                | 	                                 |	                               |	                          |	
-| [Miner](#miner)	                      | [Physicist](#physicist) 	          |               	                     |	                               |                           |	
-| [Morphling](#morphling)	             | [Psychic](#psychic) 	                |                                     |	                               |			          		     |
-| [Ninja](#ninja)	                      | [Repairman](#repairman)	             |                                     |	                               |				   	           |
-| [Pickpocket](#pickpocket)	          | [Sheriff](#sheriff)	                |	                                    |	                               |				                 |
-| [Puppeteer](#puppeteer)	             | [Snitch](#snitch)                    |	                                    |	                               |				           	     |
-| [Serial Killer](#serial-killer)       | [Speedrunner](#speedrunner)	       |	                                    |	                               |			          	        |
-| [Sniper](#sniper)	                   | [Swapper](#swapper) 	                |	                                    |	                               |			          		     |
-| [Swooper](#swooper)                   | [Transporter](#transporter)          |                                     |                                 |                           |
-| [Time Thief](#time-thief)	          | [Trapster](#trapster)   	          |	                                    |	                               |			           		     |
-| [Vampire](#vampire)	                | [Veteran](#veteran)      	          |	                                    |	                               |				           	     |
-| [Vampiress](#vampiress)               | [Vigilante](#vigilante)  	          |	                                    |	                               |   	        				     |
-| [Warlock](#warlock)                   |    	                               |	                                    |	                               |			         	        |
-| [Witch](#witch)	                      |                                      |	                                    |	                               |		          			     |
-| [Yin Yanger](#yin-yanger)             |                                      |                                     |                                 |                           |
-|                                       |                    	    	          |	                                    |	                               |		          			     |
-| [Crewposter (Madmate)](#crewposter)	 |	                                     |	                                    |	                               |		          			     |
-| [MadGuardian (Madmate)](#madguardian) |	                                     |	                                    |	                               |		         		        |
-| [Madmate (Madmate)](#madmate)	       |	                                     |	                                    |	                               |			     	              |
-| [MadSnitch (Madmate)](#madsnitch)	    |	                                     |	                                    |	                               |			               	  |
-| [Parasite (MadMate)](#parasite)	    |	                                     |	                                    |	                               |            					  |
-
-
-# General Settings
+ # General Settings
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -461,6 +417,47 @@ __Output__:<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Roles
+
+| Impostor                              | Crewmate                             | Neutral Passive                     | Neutral Killing                 | Modifier                  |
+| ------------------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------- | --------------------------| 
+| [Assassin](#assassin)                 | [Alchemist](#alchemist)	             | [Amnesiac](#amnesiac)	            | [Agitater](#agitater)	          | [Bait](#bait)	           |
+| [Blackmailer](#blackmailer)           | [Bastion](#bastion)	                | [Archangel](#archangel)	            | [Arsonist](#arsonist)	          | [Bewilder](#bewilder)     |
+| [Bounty Hunter](#bounty-hunter)       | [Bodyguard](#bodyguard)              | [Copy-Cat](#copy-cat)               | [Blood Knight](#blood-knight)   | [Diseased](#diseased)     |
+| [Camouflager](#camouflager)           | [Crusader](#crusader)                | [Executioner](#executioner)         | [Egoist](#egoist)	             | [Flash](#flash)	        |
+| [Conman](#conman)                     | [Demolitionist](#demolitionist)      | [Hacker](#hacker)	                  | [Hypnotist](#hypnotist)	       | [Lovers](#hex-master)	  | 
+| [Consort](#consort)	                | [Dictator](#dictator)	             | [Hitman](#hitman)                   | [Jackal](#jackal)	             | [Oblivious](#oblivious)   |
+| [Creeper](#creeper)	                | [Doctor](#doctor)                    | [Jester](#jester)	                  | [Juggernaut](#juggernaut)	    | [Obvious](#obvious)	     |
+| [Disperser](#disperser)	             | [Escort](#escort)	                   | [Opportunist](#opportunist)	      | [Marksman](#marksman)	          | [Psychopath](#psychopath) |
+| [Escapist](#escapist)	                | [Ex-Convict](#ex-convict)	          | [Phantom](#phantom)	               | [Pestilence](#pestilence)       | [Sleuth](#sleuth)	        |
+| [FireWorker](#fireworker)	          | [Investigator](#investigator)	       | [Postman](#postman)	               | [Plague Bearer](#plague-bearer) | [Torch](#torch)           |
+| [Freezer](#freezer)	                | [Mayor](#mayor)  	                   | [Survivor](#survivor)	            | [The Glitch](#the-glitch)       | [Watcher](#watcher)       |
+| [Grenadier](#grenadier)	             | [Mechanic](#mechanic)	             | [Terrorist](#terrorist)	            | [Werewolf](#werewolf)|	       |                           |
+| [Identity Thief](#identity-thief)	    | [Medic](#medic)	                   | [Vulture](#vulture)	               | 	                               |	                          |
+| [Janitor](#janitor)	                | [Medium](#medium)	                   |                                     |                                 |	                          |
+| [Mafioso](#mafioso)	                | [Mystic](#mystic) 	                |   	                                 |	                               |	                          |
+| [Mare](#mare)	                      | [Observer](#observer) 	             |      	                              |	                               |	                          |
+| [Mastermind](#mastermind)	          | [Oracle](#oracle) 	                | 	                                 |	                               |	                          |	
+| [Miner](#miner)	                      | [Physicist](#physicist) 	          |               	                     |	                               |                           |	
+| [Morphling](#morphling)	             | [Psychic](#psychic) 	                |                                     |	                               |			          		     |
+| [Ninja](#ninja)	                      | [Repairman](#repairman)	             |                                     |	                               |				   	           |
+| [Pickpocket](#pickpocket)	          | [Sheriff](#sheriff)	                |	                                    |	                               |				                 |
+| [Puppeteer](#puppeteer)	             | [Snitch](#snitch)                    |	                                    |	                               |				           	     |
+| [Serial Killer](#serial-killer)       | [Speedrunner](#speedrunner)	       |	                                    |	                               |			          	        |
+| [Sniper](#sniper)	                   | [Swapper](#swapper) 	                |	                                    |	                               |			          		     |
+| [Swooper](#swooper)                   | [Transporter](#transporter)          |                                     |                                 |                           |
+| [Time Thief](#time-thief)	          | [Trapster](#trapster)   	          |	                                    |	                               |			           		     |
+| [Vampire](#vampire)	                | [Veteran](#veteran)      	          |	                                    |	                               |				           	     |
+| [Vampiress](#vampiress)               | [Vigilante](#vigilante)  	          |	                                    |	                               |   	        				     |
+| [Warlock](#warlock)                   |    	                               |	                                    |	                               |			         	        |
+| [Witch](#witch)	                      |                                      |	                                    |	                               |		          			     |
+| [Yin Yanger](#yin-yanger)             |                                      |                                     |                                 |                           |
+|                                       |                    	    	          |	                                    |	                               |		          			     |
+| [Crewposter (Madmate)](#crewposter)	 |	                                     |	                                    |	                               |		          			     |
+| [MadGuardian (Madmate)](#madguardian) |	                                     |	                                    |	                               |		         		        |
+| [Madmate (Madmate)](#madmate)	       |	                                     |	                                    |	                               |			     	              |
+| [MadSnitch (Madmate)](#madsnitch)	    |	                                     |	                                    |	                               |			               	  |
+| [Parasite (MadMate)](#parasite)	    |	                                     |	                                    |	                               |            					  |
 
 # Host Only Roles
 
