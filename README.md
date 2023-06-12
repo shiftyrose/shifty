@@ -396,7 +396,7 @@ __Output__:<br>
 | ┣ Polus                                | Allows for Polus to be included in the list of randomized maps.                                                  |    Toggle    |    OFF    |
 | ┗ Airship                              | Allows for Airship to be included in the list of randomized maps.                                                |    Toggle    |    OFF    |
 | Random Spawn                           | Makes player spawn in random places around the map instead of everyone spawning in the same spot.                |    Toggle    |    OFF    |
-| Camo Comms                             | Makes all players look the same (same color and removes outfits) when Communications are sabotaged.             |    Toggle    |    OFF    |
+| Camo Comms                             | Makes all players look the same (same color and removes outfits) when Communications are sabotaged.              |    Toggle    |    OFF    |
 | All Roles Can Vent                     | Gives all roles the ability to vent.                                                                             |    Toggle    |    OFF    |
 
 
@@ -419,45 +419,45 @@ __Output__:<br>
 
 ## Roles
 
-| Impostor                              | Crewmate                             | Neutral Passive                     | Neutral Killing                 | Modifier                  |
-| ------------------------------------- | ------------------------------------ | ----------------------------------- | ------------------------------- | --------------------------| 
-| [Assassin](#assassin)                 | [Alchemist](#alchemist)	             | [Amnesiac](#amnesiac)	            | [Agitater](#agitater)	          | [Bait](#bait)	           |
-| [Blackmailer](#blackmailer)           | [Bastion](#bastion)	                | [Archangel](#archangel)	            | [Arsonist](#arsonist)	          | [Bewilder](#bewilder)     |
-| [Bounty Hunter](#bounty-hunter)       | [Bodyguard](#bodyguard)              | [Copy-Cat](#copy-cat)               | [Blood Knight](#blood-knight)   | [Diseased](#diseased)     |
-| [Camouflager](#camouflager)           | [Crusader](#crusader)                | [Executioner](#executioner)         | [Egoist](#egoist)	             | [Flash](#flash)	        |
-| [Conman](#conman)                     | [Demolitionist](#demolitionist)      | [Hacker](#hacker)	                  | [Hypnotist](#hypnotist)	       | [Lovers](#hex-master)	  | 
-| [Consort](#consort)	                | [Dictator](#dictator)	             | [Hitman](#hitman)                   | [Jackal](#jackal)	             | [Oblivious](#oblivious)   |
-| [Creeper](#creeper)	                | [Doctor](#doctor)                    | [Jester](#jester)	                  | [Juggernaut](#juggernaut)	    | [Obvious](#obvious)	     |
-| [Disperser](#disperser)	             | [Escort](#escort)	                   | [Opportunist](#opportunist)	      | [Marksman](#marksman)	          | [Psychopath](#psychopath) |
-| [Escapist](#escapist)	                | [Ex-Convict](#ex-convict)	          | [Phantom](#phantom)	               | [Pestilence](#pestilence)       | [Sleuth](#sleuth)	        |
-| [FireWorker](#fireworker)	          | [Investigator](#investigator)	       | [Postman](#postman)	               | [Plague Bearer](#plague-bearer) | [Torch](#torch)           |
-| [Freezer](#freezer)	                | [Mayor](#mayor)  	                   | [Survivor](#survivor)	            | [The Glitch](#the-glitch)       | [Watcher](#watcher)       |
-| [Grenadier](#grenadier)	             | [Mechanic](#mechanic)	             | [Terrorist](#terrorist)	            | [Werewolf](#werewolf)|	       |                           |
-| [Identity Thief](#identity-thief)	    | [Medic](#medic)	                   | [Vulture](#vulture)	               | 	                               |	                          |
-| [Janitor](#janitor)	                | [Medium](#medium)	                   |                                     |                                 |	                          |
-| [Mafioso](#mafioso)	                | [Mystic](#mystic) 	                |   	                                 |	                               |	                          |
-| [Mare](#mare)	                      | [Observer](#observer) 	             |      	                              |	                               |	                          |
-| [Mastermind](#mastermind)	          | [Oracle](#oracle) 	                | 	                                 |	                               |	                          |	
-| [Miner](#miner)	                      | [Physicist](#physicist) 	          |               	                     |	                               |                           |	
-| [Morphling](#morphling)	             | [Psychic](#psychic) 	                |                                     |	                               |			          		     |
-| [Ninja](#ninja)	                      | [Repairman](#repairman)	             |                                     |	                               |				   	           |
-| [Pickpocket](#pickpocket)	          | [Sheriff](#sheriff)	                |	                                    |	                               |				                 |
-| [Puppeteer](#puppeteer)	             | [Snitch](#snitch)                    |	                                    |	                               |				           	     |
-| [Serial Killer](#serial-killer)       | [Speedrunner](#speedrunner)	       |	                                    |	                               |			          	        |
-| [Sniper](#sniper)	                   | [Swapper](#swapper) 	                |	                                    |	                               |			          		     |
-| [Swooper](#swooper)                   | [Transporter](#transporter)          |                                     |                                 |                           |
-| [Time Thief](#time-thief)	          | [Trapster](#trapster)   	          |	                                    |	                               |			           		     |
-| [Vampire](#vampire)	                | [Veteran](#veteran)      	          |	                                    |	                               |				           	     |
-| [Vampiress](#vampiress)               | [Vigilante](#vigilante)  	          |	                                    |	                               |   	        				     |
-| [Warlock](#warlock)                   |    	                               |	                                    |	                               |			         	        |
-| [Witch](#witch)	                      |                                      |	                                    |	                               |		          			     |
-| [Yin Yanger](#yin-yanger)             |                                      |                                     |                                 |                           |
-|                                       |                    	    	          |	                                    |	                               |		          			     |
-| [Crewposter (Madmate)](#crewposter)	 |	                                     |	                                    |	                               |		          			     |
-| [MadGuardian (Madmate)](#madguardian) |	                                     |	                                    |	                               |		         		        |
-| [Madmate (Madmate)](#madmate)	       |	                                     |	                                    |	                               |			     	              |
-| [MadSnitch (Madmate)](#madsnitch)	    |	                                     |	                                    |	                               |			               	  |
-| [Parasite (MadMate)](#parasite)	    |	                                     |	                                    |	                               |            					  |
+| Impostor                               | Crewmate                        | Neutral Killing                   | Neutral Passive                        | Modifier                  |
+| -------------------------------------- | ------------------------------- | --------------------------------- | -------------------------------------- | ------------------------- |
+| [Blackmailer](#blackmailer)            | [Alchemist](#alchemist)         | [Agitater](#agitater)             | [Amnesiac](#amnesiac)                  | [Bait](#bait)             |
+| [Bounty Hunter](#bounty-hunter)        | [Bastion](#bastion)             | [Arsonist](#arsonist)             | [Archangel](#archangel)                | [Bewilder](#bewilder)     |
+| [Camouflager](#camouflager)            | [Bodyguard](#bodyguard)         | [Blood Knight](#blood-knight)     | [Copy-Cat](#copy-cat)                  | [Bloodlust](#bloodlust)   |
+| [Conman](#conman)                      | [Chameleon](#chameleon)         | [Demon](#demon)                   | [Executioner](#executioner)            | [Deadly](#deadly)         |
+| [Consort](#consort)                    | [Charmer](#charmer)             | [Egoist](#egoist)                 | [Hacker](#hacker)                      | [Diseased](#diseased)     |
+| [Creeper](#creeper)                    | [Crusader](#crusader)           | [Hitman](#hitman)                 | [Jester](#jester)                      | [Flash](#flash)           |
+| [Disperser](#disperser)                | [Demolitionist](#demolitionist) | [Jackal](#jackal)                 | [Opportunist](#opportunist)            | [Nimble](#nimble)         |
+| [Escapist](#escapist)                  | [Dictator](#dictator)           | [Juggernaut](#juggernaut)         | [Phantom](#phantom)                    | [Oblivious](#oblivious)   |
+| [FireWorker](#fireworker)              | [Doctor](#doctor)               | [Marksman](#marksman)             | [Postman](#postman)                    | [Romantic](#romantic)     |
+| [Freezer](#freezer)                    | [Escort](#escort)               | [Necromancer](#necromancer)       | [Schrodinger's Cat](#schrodingers-cat) | [Sleuth](#sleuth)         |
+| [Grenadier](#grenadier)                | [Ex-Convict](#ex-convict)       | [Occultist](#occultist)           | [Survivor](#survivor)                  | [Tiebreaker](#tiebreaker) |
+| [Identity Thief](#identity-thief)      | [Herbalist](#herbalist)         | [Pelican](#pelican)               | [Terrorist](#terrorist)                | [Torch](#torch)           |
+| [Janitor](#janitor)                    | [Investigator](#investigator)   | [Retributionist](#retributionist) |                                        | [Watcher](#watcher)       |
+| [Mafioso](#mafioso)                    | [Mayor](#mayor)                 | [The Glitch](#the-glitch)         |                                        | [Workhorse](#workhorse)   |
+| [Mare](#mare)                          | [Mechanic](#mechanic)           | [Werewolf](#werewolf)             |                                        |                           |
+| [Mastermind](#mastermind)              | [Medic](#medic)                 |                                   |                                        |                           |
+| [Miner](#miner)                        | [Medium](#medium)               |                                   |                                        |                           |
+| [Morphling](#morphling)                | [Mystic](#mystic)               |                                   |                                        |                           |
+| [Ninja](#ninja)                        | [Observer](#observer)           |                                   |                                        |                           |
+| [Pickpocket](#pickpocket)              | [Oracle](#oracle)               |                                   |                                        |                           |
+| [Puppeteer](#puppeteer)                | [Physicist](#physicist)         |                                   |                                        |                           |
+| [Serial Killer](#serial-killer)        | [Psychic](#psychic)             |                                   |                                        |                           |
+| [Sniper](#sniper)                      | [Repairman](#repairman)         |                                   |                                        |                           |
+| [Swooper](#swooper)                    | [Sheriff](#sheriff)             |                                   |                                        |                           |
+| [Time Thief](#time-thief)              | [Snitch](#snitch)               |                                   |                                        |                           |
+| [Vampire](#vampire)                    | [Speedrunner](#speedrunner)     |                                   |                                        |                           |
+| [Warlock](#warlock)                    | [Swapper](#swapper)             |                                   |                                        |                           |
+| [Witch](#witch)                        | [Tracker](#tracker)             |                                   |                                        |                           |
+| [Yin Yanger](#yin-yanger)              | [Transporter](#transporter)     |                                   |                                        |                           |
+|                                        | [Trapster](#trapster)           |                                   |                                        |                           |
+| [Crewposter (Madmate)](#crewposter)    | [Veteran](#veteran)             |                                   |                                        |                           |
+| [Mad Guardian (Madmate)](#madguardian) | [Vigilante](#vigilante)         |                                   |                                        |                           |
+| [Madmate (Madmate)](#madmate)          |                                 |                                   |                                        |                           |
+| [Mad Snitch (Madmate)](#madsnitch)     |                                 |                                   |                                        |                           |
+| [Parasite (MadMate)](#parasite)        |                                 |                                   |                                        |                           |
+
+
 
 
 # Host Only Roles
@@ -474,40 +474,11 @@ Always assigned to a host and is ghosted from the start.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Assassin 
-
-<img align="right" width="" height="300" src="">
-
-__Team__: Impostor<br>
-__Base__: Impostor<br>
-__Ability__: Guess Crewmate Roles To Kill<br>
-__Indicatior/Symbols__: None<br>
-
-`Originally Developed by: たんぽぽ`<br>
-`Idea by Town of Us Reactivated`<br>
-
-#### Role Description 
-Assassin is an evil guesser that is on the impostor team.<br>
-While in meeting the Assassin's first vote locks in the player they're going to guess.<br>
-The Assassin's second vote locks in the role they're guessing.<br>
-The Assassin suicides if they misguess.<br>
-The Assassin can kill normally between meetings.<br>
-
-### Game Options (incomplete)
-|                  Name                  |                           Description                       |     Type     |  Default  | 
-| -------------------------------------- | ----------------------------------------------------------- | :----------: | :-------: |
-| Assassin                               | The probability of the Assassin appearing                   |  Percentage  |    0%     |
-| Maximum                                | How many Assassins should spawn                             |    Number    |     1     |
-| Guesser shoot limit                    | The amount of correct guesses Assassin needs to solo win    |    Number    |     1     |
-| Can Kill multiple times during Meeting | Whether Assassin can make multiple guesses during a meeting |    Toggle    |    ON     |
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Blackmailer 
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Blackmail A Player<br>
 __Indicator/Symbols__: "BLACKMAILED" Text Over Targeted Player<br>
@@ -532,7 +503,7 @@ If the player writes a certain number of messages (determined by host) while bla
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Reduced Kill Cooldown<br>
 __Indicatior/Symbols__: Text Indicator Displaying Current Target<br>
@@ -551,8 +522,8 @@ The time it takes for the target to change, the kill cooldown after killing thei
 | BountyHunter                          | The probability of the BountyHunter appearing                             |  Percentage  |    0%     |
 | Maximum                               | How many BountyHunters should spawn                                       |    Number    |     1     |
 | Time Until New Target                 | Time before the BountyHunters target is changed                           |     Time     |    60     |
-| Kill Cooldown After Killing Target    | The cooldown of the BountyHunter's Kill button after killing their target |     Time     |    2.5    |
-| Kill Cooldown After Killing Others    | The cooldown of the BountyHunter's Kill button after killing a non-target |     Time     |    50     |
+| Kill Cooldown After Killing Target    | The cooldown of the BountyHunter's Kill button after killing their target |     Time     |    15     |
+| Kill Cooldown After Killing Other     | The cooldown of the BountyHunter's Kill button after killing a non-target |     Time     |   37.5    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -560,7 +531,7 @@ The time it takes for the target to change, the kill cooldown after killing thei
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
 __Ability__: Disguise Everyone<br>
 __Indicatior/Symbols__: None<br>
@@ -577,8 +548,8 @@ When the duration is over, or if a meeting is called, players return to their no
 | -------------------- | --------------------------------------------------- | :----------: | :-------: |
 | Camouflager          | The probability of the Camouflager appearing        |  Percentage  |    0%     |
 | Maximum              | How many Camouflagers should spawn                  |    Number    |     1     |
-| Camouflage Cool Down | The cooldown of the Camouflager's Shapeshift button |     Time     |   17.5    |
-| Camouflage Duration  | Amount of time players are shifted for              |     Time     |   17.5    |
+| Camouflage Cooldown  | The cooldown of the Camouflager's Shapeshift button |     Time     |   17.5s   |
+| Camouflage Duration  | Amount of time players are shifted for              |     Time     |   17.5s   |
 | Can Vent             | Whether the Camouflager has a Vent button or not    |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -587,7 +558,7 @@ When the duration is over, or if a meeting is called, players return to their no
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Sabotage Meetings<br>
 __Indicatior/Symbols__: None<br>
@@ -599,7 +570,7 @@ __Indicatior/Symbols__: None<br>
 Reporting a body killed by the Conman will sabotage the meeting.<br>
 The Anonymous Voting option may be toggled (if you had this on, it is now off and vice versa) & Voting/Discussion Time will be decreased (amount predetermined by host in settings).<br>
 The Conman’s voting and discussion time overwrites the ones of TimeThief.<br>
-The Conman also has options for a seperate Kill-Cooldown.<br>
+The Conman also has options for a separate Kill-Cooldown.<br>
 
 ### Game Options
 |            Name           |                      Description                   |     Type     | Default | 
@@ -607,11 +578,11 @@ The Conman also has options for a seperate Kill-Cooldown.<br>
 | Conman                    | The probability of the Conman appearing            |  Percentage  |   0%    |
 | Maximum                   | How many Conmans should spawn                      |    Number    |    1    |
 | Kill Cooldown             | The cooldown of the Conman's Kill button           |     Time     | Global  |
-| Discussion Time Descrease | The amount of time removed from Discussion Time    |     Time     |   30s   |
-| Voting Time Decrease      | The amoung of time removed from Voting Time        |     Time     |   15s   |
+| Discussion Time Decrease  | The amount of time removed from Discussion Time    |     Time     |   30s   |
+| Voting Time Decrease      | The amount of time removed from Voting Time        |     Time     |   15s   |
 | Affect Anonymous Voting   | Whether the Conman's kills affect Anonymous Voting |    Toggle    |   ON    |
 
-_The Gobal option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -619,7 +590,7 @@ _The Gobal option for Kill Cooldown means that this setting will be the same as 
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Roleblock Players<br>
 __Indicatior/Symbols__: Text Indicator Displaying Current Mode<br>
@@ -633,10 +604,10 @@ Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshift
 
 ### Game Options
 |        Name             |                      Description                  |     Type     |    Default    | 
-| ----------------------- | ------------------------------------------------- | :----------: | :-----------: |
+| ----------------------- | ------------------------------------------------- | :----------: | :-----------: | 
 | Consort                 | The probability of the Consort appearing          |  Percentage  |      0%       |
 | Maximum                 | How many Consorts should spawn                    |    Number    |       1       |
-| Roleblock/Kill Cooldown | The cooldown of the Consort's Kill button         |     Time     |      45s      |
+| Roleblock Cooldown      | The cooldown of the Consort's Kill button         |     Time     |      45s      |
 | Roleblock Duration      | The duration of the Consort's Role-Block function |    Number    | Until Meeting |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -645,7 +616,7 @@ Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshift
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Mass Distruction<br>
 __Indicatior/Symbols__: None<br>
@@ -663,8 +634,10 @@ You might find yourself lucky and be protected from your bombs with a shield (ex
 | ------------------ | ----------------------------------------------------------------------- | :----------: | :-----------: |
 | Creeper            | The probability of the Creeper appearing                                |  Percentage  |      0%       |
 | Maximum            | How many Creepers should spawn                                          |    Number    |       1       |
+| Can Kill Normally  | Whether the Creeper can kill normally                                   |    Toggle    |      ON       |
 | Can Be Shielded    | Allows Creeper to be shielded by other players                          |    Toggle    |      ON       |
 | Explosion Radius   | The radius at which players will be affected by the Creeper's explosion |    Toggle    |     Small     |
+| Grace Period       | The amount of time before self explosion                                |     Time     |      10s      |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -672,7 +645,7 @@ You might find yourself lucky and be protected from your bombs with a shield (ex
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Teleport Players<br>
 __Indicatior/Symbols__: None<br>
@@ -684,12 +657,12 @@ __Indicatior/Symbols__: None<br>
 Use Pet button to teleport everyone to a random vent.<br>
 
 ### Game Options
-|       Name        |                    Description                    |     Type     |  Default  | 
-| ----------------- | ------------------------------------------------- | :----------: | :-------: |
-| Disperser         | The probability of the Disperser appearing        |  Percentage  |    0%     |
-| Maximum           | How many Dispersers should spawn                  |    Number    |     1     |
-| Disperse Cooldown | The cooldown of the Disperser's Pet Button        |     Time     |   12.5s   | 
-
+|           Name           |                         Description                       |     Type     |  Default  | 
+| ------------------------ | --------------------------------------------------------- | :----------: | :-------: |
+| Disperser                | The probability of the Disperser appearing                |  Percentage  |    0%     |
+| Maximum                  | How many Dispersers should spawn                          |    Number    |     1     |
+| Disperse Cooldown        | The cooldown of the Disperser's Pet Button                |     Time     |   12.5s   | 
+| Disperser Gets Dispersed | Whether Disperser is teleported when ability is activated |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -697,7 +670,7 @@ Use Pet button to teleport everyone to a random vent.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
 __Ability__: Mark A Location & Strategically Escape<br>
 __Indicatior/Symbols__: Text Cooldown Displaying Time Until Able To Escape & Until Next Mark<br>
@@ -714,7 +687,7 @@ This will then put the mark ability back on cooldown.<br>
 | ------------------------ | ----------------------------------------------------- | :----------: | :-------: |
 | Escapist                 | The probability of the Escapist appearing             |  Percentage  |    0%     |
 | Maximum                  | How many Escapists should spawn                       |    Number    |     1     |
-| Cooldown After Mark      | The cooldown of the Escapist's Mark ability           |     Time     |   12.5s   | 
+| Cooldown After Mark      | The cooldown of the Escapist's Mark ability           |     Time     |    5s     | 
 | Cooldown After Escape    | The cooldown of the Escapist's Escape ability         |     Time     |    40s    |
 | Clear Mark After Meeting | This option removes the Escapist's Mark after meeting |    Toggle    |    ON     |
 
@@ -724,7 +697,7 @@ This will then put the mark ability back on cooldown.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Explode Players Within Radius<br>
 __Indicatior/Symbols__: None<br>
@@ -758,7 +731,7 @@ The FireWorker can aslo kill normally between placing fireworks.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Shapeshift Into A Player To Freeze Them In Place<br>
 __Indicatior/Symbols__: None<br>
@@ -786,7 +759,7 @@ Freezer may kill normally shifted or unshifted.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Blind Nearby Players<br>
 __Indicatior/Symbols__: None<br>
@@ -800,15 +773,16 @@ It may also blind allied-Impostors, based on host's settings.<br>
 During this time The Grenadier may kill undetected.<br>
 
 ### Game Options
-|       Name       |                     Description                        |     Type     |  Default  | 
-| ---------------- | ------------------------------------------------------ | :----------: | :-------: |
-| Grenadier        | The probability of the Grenadier appearing             |  Percentage  |    0%     |
-| Maximum          | How many Grenadiers should spawn                       |    Number    |     1     |
-| Blind Cooldown   | The cooldown of the Grenadier's Pet button             |     Time     |    30s    |
-| Blind Duration   | The amount of time that lights are out                 |     Time     |    15s    |
-| Blind Distance   | The radius of which players are affected by lights out |    Number    |    1.8    |
-| Can Blind Allies | Whether Grenadier can blind allies or not              |    Toggle    |    OFF    |
-| Can Vent         | Whether Grenadier has a vent button or not             |    Toggle    |    ON     |
+|        Name         |                     Description                        |     Type     |  Default  | 
+| ------------------- | ------------------------------------------------------ | :----------: | :-------: |
+| Grenadier           | The probability of the Grenadier appearing             |  Percentage  |    0%     |
+| Maximum             | How many Grenadiers should spawn                       |    Number    |     1     |
+| Amount of Grenades  | How many grenades are granted to the Grenadier         |    Number    |     3     |
+| Blind Cooldown      | The cooldown of the Grenadier's Pet button             |     Time     |    30s    |
+| Blind Duration      | The amount of time that lights are out                 |     Time     |    15s    |
+| Blind Effect Radius | The radius of which players are affected by lights out |    Number    |    1.8    |
+| Can Blind Allies    | Whether Grenadier can blind allies or not              |    Toggle    |    OFF    |
+| Can Vent            | Whether Grenadier has a vent button or not             |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -816,7 +790,7 @@ During this time The Grenadier may kill undetected.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
 __Ability__: Shapeshift Into Your Victim<br>
 __Indicatior/Symbols__: None<br>
@@ -829,11 +803,11 @@ The Identity Thief shifts into whoever they kill.<br>
 The disguise lasts until they are ready to kill again, or, optionally, until they kill another player and shift into their next victim.<br>
 
 ### Game Options  
-|              Name              |                    Description                     |     Type     |  Default  | 
-| ------------------------------ | -------------------------------------------------- | :----------: | :-------: |
-| Identity Thief                 | The probability of the Identity Thief appearing    |  Percentage  |    0%     |
-| Maximum                        | How many Identity Thiefs should spawn              |    Number    |     1     |
-| Keeps Disguise Until Next Kill | Identity Thief stays shifted until their next kill |    Toggle    |    OFF    |
+|          Name           |                            Description                          |     Type     |  Default  | 
+| ----------------------- | --------------------------------------------------------------- | :----------: | :-------: |
+| Identity Thief          | The probability of the Identity Thief appearing                 |  Percentage  |    0%     |
+| Maximum                 | How many Identity Thieves should spawn                          |    Number    |     1     |
+| Disguise Settings       | Options for how long the Identity Thief stays disguised for     |    Toggle    |  Kill CD  |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -841,7 +815,7 @@ The disguise lasts until they are ready to kill again, or, optionally, until the
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Clean Bodies With Report Button<br>
 __Indicatior/Symbols__: None<br>
@@ -855,11 +829,12 @@ Use Report button to clean dead bodies, making them unreportable.<br>
 Use Kill button to kill players<br>
 
 ### Game Options (incomplete)
-|     Name      |                    Description                      |     Type     |  Default  | 
-| ------------- | --------------------------------------------------- | :----------: | :-------: |
-| Janitor       | The probability of the Janitor appearing            |  Percentage  |    0%     |
-| Maximum       | How many Janitors should spawn                      |    Number    |     1     |
-| Clean On Kill | Whether Janitor cleans bodies when they kill or not |    Toggle    |    ON     |
+|            Name            |                    Description                      |     Type     |  Default  | 
+| -------------------------- | --------------------------------------------------- | :----------: | :-------: |
+| Janitor                    | The probability of the Janitor appearing            |  Percentage  |    0%     |
+| Maximum                    | How many Janitors should spawn                      |    Number    |     1     |
+| Clean On Kill              | Whether Janitor cleans bodies when they kill or not |    Toggle    |    ON     |
+| ┗ Kill Cooldown Multiplier | Multiplier required when Clean On Kill is ON        |  Multiplier  |   1.5x    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -867,34 +842,37 @@ Use Kill button to kill players<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Engineer<br>
 __Ability__: Gain Cash By Completing Tasks<br>
 __Indicatior/Symbols__: Counter Showing Number of Bullets (striked-through until a gun is achieved) AND Cash Counter<br>
 
 #### Role Description
-The Mafioso is a unique impostor role, who cannot kill off the bat. Instead the Mafioso must complete tasks in order to gain cash. During meetngs, the Mafioso can use their cash to purchase a couple of different items.<br>
+The Mafioso is a unique impostor role, who cannot kill off the bat. Instead the Mafioso must complete tasks in order to gain cash. During meetings, the Mafioso can use their cash to purchase a couple of different items.<br>
 Type /o to see how much each item costs.<br> 
 Only items you are able to use/buy will show up in the shop.<br>
 
-__Tommy Gun__: Allows the Mafioso to kill (one time purcahse)<br>
+__Tommy Gun__: Allows the Mafioso to kill (one time purchase)<br>
 __Bullet__: Required to use with the Tommy Gun<br>
 __Bulletproof Vest__: Gives the Mafioso one-time use invincibility for next round<br>
 __Role Revealer__: Allows the Mafioso to reveal the role of one other player<br>
 
 ### Game Options
-|            Name            |               Description                |     Type     |  Default  |
-| -------------------------- | ---------------------------------------- | :----------: | :-------: |
-| Mafioso                    | The probability of the Mafioso appearing |  Percentage  |    0%     |
-| Maximum                    | How many Mafiosos should spawn           |    Number    |     1     |
-| Modify Shop Costs          | Allows for custom costs for Mafioso Shop |    Toggle    |    OFF    |
-| ┣ Gun Cost                 | The custom cost of the Tommy Gun         |    Number    |     6     |
-| ┣ Bullet Cost              | The custom cost of the bullet            |    Number    |     6     |
-| ┣ Vest Cost                | The custom cost of the bulletproof vest  |    Number    |     6     |
-| ┗ Role Revealer Cost       | The custom cost of the Role Revealer     |    Number    |     5     |
-| Starts Game With Gun       | Whether Mafioso starts with a gun or not |    Toggle    |    OFF    |
-| Gun Cooldown               | The cooldown of the Mafioso's Tommy Gun  |    Number    |  Global   |
-| Cash From Reporting Bodies | Cash received for reporting bodies       |    Number    |     2     |
+|               Name              |               Description                |     Type     |  Default  |
+| ------------------------------- | ---------------------------------------- | :----------: | :-------: |
+| Mafioso                         | The probability of the Mafioso appearing |  Percentage  |    0%     |
+| Maximum                         | How many Mafiosos should spawn           |    Number    |     1     |
+| Modify Shop Costs               | Allows for custom costs for Mafioso Shop |    Toggle    |    OFF    |
+| ┣ Gun Cost                      | The custom cost of the Tommy Gun         |    Number    |     6     |
+| ┣ Bullet Cost                   | The custom cost of the bullet            |    Number    |     6     |
+| ┣ Vest Cost                     | The custom cost of the bulletproof vest  |    Number    |     6     |
+| ┗ Role Revealer Cost            | The custom cost of the Role Revealer     |    Number    |     5     |
+| Starts Game With Gun            | Whether Mafioso starts with a gun or not |    Toggle    |    OFF    |
+| Gun Cooldown                    | The cooldown of the Mafioso's Tommy Gun  |    Number    |  Global   |
+| Cash From Reporting Bodies      | Cash received for reporting bodies       |    Number    |     2     |
+| Refresh Tasks When All Complete | Allows more tasks for Mafioso            |    Toggle    |    ON     |
+
+_The Global option for Gun Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -902,7 +880,7 @@ __Role Revealer__: Allows the Mafioso to reveal the role of one other player<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Buffed During Sabotage<br>
 __Indicatior/Symbols__: If Enabled, Your Name Will be Purple During Your Ability<br>
@@ -929,7 +907,7 @@ Be careful! If enabled in settings, your name will appear Purple while your abil
 | ┣ Communications               | Whether Mare can use it's ability during Communications sabotage (All Maps)    |  Toggle    |      OFF      |
 | ┣ Oxygen                       | Whether Mare can use it's ability during Oxygen sabotage (The Skeld & MIRA HQ) |  Toggle    |      OFF      |
 | ┣ Reactor                      | Whether Mare can use it's ability during Reactor sabotage (All Maps)           |  Toggle    |      OFF      |
-| ┗ Helicopter                   | Whether Mare can use it's ability during Avert Crash Course sabotage (Airship) |  Toggle    |      OFF      |
+| ┗ Crash Course                 | Whether Mare can use it's ability during Avert Crash Course sabotage (Airship) |  Toggle    |      OFF      |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -937,7 +915,7 @@ Be careful! If enabled in settings, your name will appear Purple while your abil
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Sabotage Meetings<br>
 __Indicatior/Symbols__: "Manipulated!" text on manipulated players<br>
@@ -951,9 +929,12 @@ That player must kill another player before their countdown ends (by using eithe
 | ----------------------------- | ------------------------------------------------ | :----------: | :-------: |
 | Mastermind                    | The probability of the Mastermind appearing      |  Percentage  |    0%     |
 | Maximum                       | How many Masterminds should spawn                |    Number    |     1     |
+| Manipulation Cooldown         | The cooldown of the Manipulator's Kill button    |    Number    |  Global   |
 | Manipulated Player Limit      | How many players can be manipulated              |    Number    |     ∞     |
 | Impostors Can See Manipulated | Whether Impostors can see manipulated players    |    Toggle    |    ON     |
 | Time Until Suicide            | How much time the manipulated player has to kill |     Time     |   12.5s   |
+
+_The Global option for Manipulation Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -961,7 +942,7 @@ That player must kill another player before their countdown ends (by using eithe
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Teleportation<br>
 __Indicatior/Symbols__: None<br>
@@ -987,7 +968,7 @@ Kill, vent, and sabotage like any other impostor role.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Can Morph Into Other Players<br>
 __Indicatior/Symbols__: None<br>
@@ -1004,7 +985,7 @@ It is a renamed Shapeshifter role in vanilla Among Us.<br>
 | Morphling           | The probability of the Morphling appearing            |  Percentage  |    0%     |
 | Maximum             | How many Morphlings should spawn                      |    Number    |     1     |
 | Shapeshift Cooldown | The cooldown of the Morphling's Shapeshift button     |     Time     |    30s    |
-| Shapeshift Duration | The amount of time the Morphling can stay shifted for |     Time     |   14.5s   |
+| Shapeshift Duration | The amount of time the Morphling can stay shifted for |     Time     |    15s    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1012,7 +993,7 @@ It is a renamed Shapeshifter role in vanilla Among Us.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter or Impostor<br>
 __Ability__: Teleportation<br>
 __Indicatior/Symbols__: Text indicator Displaying Current Mode<br>
@@ -1051,7 +1032,7 @@ Instead, the target is teleported to the Ninja where the kill will be executed.<
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Steals Votes From Their Kills <br>
 __Indicatior/Symbols__: Counter Displaying Current Vote Increase<br>
@@ -1064,12 +1045,15 @@ The Pickpocket is an Impostor who steals the votes of players they kill.<br>
 These votes stack up, which can make the Pickpocket very powerful.<br>
 
 ### Game Options
-|           Name           |                         Description                         |    Type    |  Default   | 
-| ------------------------ | ----------------------------------------------------------- | :--------: | :--------: |
-| Pickpocket               | The probability of the Pickpocket appearing                 | Percentage |    0%      |
-| Maximum                  | How many Pickpockets should spawn                           |   Number   |     1      |
-| Kill Cooldown            | The cooldown of the Pickpocket's Kill button                |    Time    |   Global   |
-| Maximum Additional Votes | The maximum amount of extra votes the Pickpocket can aquire |   Number   |     5      |
+|             Name            |                         Description                          |    Type    |  Default   | 
+| --------------------------- | ------------------------------------------------------------ | :--------: | :--------: |
+| Pickpocket                  | The probability of the Pickpocket appearing                  | Percentage |    0%      |
+| Maximum                     | How many Pickpockets should spawn                            |   Number   |     1      |
+| Kill Cooldown               | The cooldown of the Pickpocket's Kill button                 |    Time    |   Global   |
+| Maximum Additional Votes    | The maximum amount of extra votes the Pickpocket can acquire |   Number   |     5      |
+| Resets Votes After Meetings | Whether Pickpocket loses votes after meeting                 |   Toggle   |    ON      |
+
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1077,7 +1061,7 @@ These votes stack up, which can make the Pickpocket very powerful.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Control Players<br>
 __Indicatior/Symbols__: "◆" Indicator On Puppeted Players<br>
@@ -1103,7 +1087,7 @@ It is not possible for puppeteer to perform a normal kill.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors <br>
+__Faction__: Impostors <br>
 __Base__: Impostor<br>
 __Ability__: The Impostor's Groupie
 __Indicatior/Symbols__: Timer Showing When Serial Killer Is Going To Suicide<br>
@@ -1129,7 +1113,7 @@ Has a reduced Kill-Cooldown (determined by host). Kill players before cooldown e
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Can Kill From A Far Distance<br>
 __Indicatior/Symbols__: None<br>
@@ -1153,7 +1137,7 @@ To shoot, the Sniper must take a few steps in the direction they aim to shoot, a
 | ---------------------- | ---------------------------------------------------------------- | :--------: | :----------------: |
 | Sniper                 | The probability of the Sniper appearing                          | Percentage |         0%         |
 | Maximum                | How many Snipers should spawn                                    |   Number   |         1          |
-| Sniper Bullet Count    | How many bullets the sniper can shoot                            |   Number   |         6          |
+| Sniper Bullet Count    | How many bullets the sniper can shoot                            |   Number   |         26         |
 | Precise Shooting       | View Precise shooting diagram below                              |   Toggle   |         ON         |
 | Can Be Vetted on Snipe | The Sniper is affected by the Veteran's ability when using Snipe |   Toggle   |         ON         |
 | Sniper Mode            | Whether Sniper uses Normal Sniper Mode or Loaded Bullet Mode     |   Toggle   | Normal Sniper Mode |
@@ -1171,7 +1155,7 @@ To shoot, the Sniper must take a few steps in the direction they aim to shoot, a
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostor<br>
+__Faction__: Impostor<br>
 __Base__: Impostor<br>
 __Ability__: Invisibility<br>
 __Indicatior/Symbols__: None<br>
@@ -1200,7 +1184,7 @@ Be careful! Depending on the host's options you may be revealed when killing ano
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Decrease Meeting and Voting Time<br>
 __Indicatior/Symbols__: None<br>
@@ -1227,7 +1211,7 @@ Option: When TimeThief is expelled or killed, time is restored back to normal.<b
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Delayed Kills<br>
 __Indicatior/Symbols__: None<br>
@@ -1240,6 +1224,22 @@ The Vampire bites it's targets, resulting in a delayed kill.<br>
 The bitten player will die after several seconds or when the next meeting is called.<br>
 If the vampire bites [Bait](#Bait), the player will die immediately and a self-report will be forced.<br>
 
+### Vampiress 
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Impostor<br>
+__Base__ Impostor<br>
+__Ability__: Delayed & Normal Kills<br>
+__Indicatior/Symbols__: Text Indicator Showing Current Mode<br>
+
+`Created by Discussions`<br>
+`Original Idea by shiftyrose`<br>
+
+#### Vampiress Role Description 
+The Vampiress works exactly like the [Vampire](#vampire) with one exception, it can also make direct kills.<br>
+Use the Pet Button to switch between Bites and Kills.<br>
+
 ### Game Options
 |      Name       |                 Description                 |    Type    |  Default   | 
 | --------------- | ------------------------------------------- | :--------: | :--------: |
@@ -1250,29 +1250,7 @@ If the vampire bites [Bait](#Bait), the player will die immediately and a self-r
 | ┣ Kill Cooldown | The cooldown of the Vampiress's Kill button |   Number   |   Global   |
 | ┗ Kill Delay    | The amount of time a kill is delayed        |    Time    |    7.5s    |
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Vampiress 
-
-<img align="right" width="" height="300" src="">
-
-__Team__: Impostor<br>
-__Base__ Impostor<br>
-__Ability__: Delayed & Normal Kills<br>
-__Indicatior/Symbols__: Text Indicator Showing Current Mode<br>
-
-`Created by Discussions`<br>
-`Original Idea by shiftyrose`<br>
-
-#### Role Description 
-The Vampiress works exactly like the [Vampire](#vampire) with one exception, it can also make direct kills.<br>
-Vampiress settings are found under [Vampire](#vampire), and may be chosen to spawn at random times instead of the Vampire making the Vampiress a rarer spawn.<br>
-
-> The Vampiress bites it's targets, resulting in a delayed kill.<br>
-> The bitten player will die after several seconds or when the next meeting is called.<br>
-> If the Vampiress bites [Bait](#Bait), the player will die immediately and a self-report will be forced.<br>
-
-Use the Pet Button to switch between Bites and Kills.<br>
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1280,7 +1258,7 @@ Use the Pet Button to switch between Bites and Kills.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
 __Ability__: Can Curse Players<br>
 __Indicatior/Symbols__: None<br>
@@ -1308,27 +1286,28 @@ Be Careful! Cursed players can kill Impostors (and even the Warlock themself!).<
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
-__Ability__: Kill & Cast Spells <br>
-__Indicatior/Symbols__: None <br>
+__Ability__: Kill & Curse Players<br>
+__Indicatior/Symbols__: Cross On Cursed Players <br>
 
 `Originally Developed by: Town of Host`<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-Alternate between spells and killing by utilizing the Kill Button.<br>
-Players who are spelled by the Witch will be seen with a cross during the meeting.<Br>
-If the Witch is not voted off during this meeting, the spelled player dies.<br>
+Alternate between curses and killing by utilizing the Kill Button.<br>
+Players who are cursed by the Witch will be seen with a cross during the meeting.<Br>
+If the Witch is not voted off during this meeting, the cursed player dies.<br>
 Regular kill self-reports [Bait](#Bait).<br>
-Spell does not self-report [Bait](#Bait).<br>
+Curse does not self-report [Bait](#Bait).<br>
 
 ### Game Options
-|         Name            |                     Description                   |    Type    |  Default   | 
-| ----------------------- | ------------------------------------------------- | :--------: | :--------: |
-| Witch                   | The probability of the Witch appearing            | Percentage |    0%      |
-| Maximum                 | How many Witches should spawn                     |   Number   |     1      |
-| Can Freely Switch Modes | Use Pet Button to switch between Spells and Kills |   Toggle   |     ON     |
+|           Name            |                           Description                       |    Type    |  Default   | 
+| ------------------------- | ----------------------------------------------------------- | :--------: | :--------: |
+| Witch                     | The probability of the Witch appearing                      | Percentage |     0%     |
+| Maximum                   | How many Witches should spawn                               |   Number   |     1      |
+| Freely Switch Modes       | Use Pet Button to switch between Spells and Kills           |   Toggle   |     ON     |
+| Switch Modes After Attack | Whether Kill/Curse mode automatically switches after attack |   Toggle   |     ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1336,7 +1315,7 @@ Spell does not self-report [Bait](#Bait).<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Make Two Players Kill Each Other<br>
 __Indicatior/Symbols__: None <br>
@@ -1356,6 +1335,8 @@ Yin Yanger can kill normally once targets have been set.<br>
 | Maximum           | How many Yin Yangers should spawn            |   Number   |     1      |
 | Yin Yang Cooldown | The cooldown of the Yin Yanger's ability     |    Time    |   Global   |
 
+_The Global option for Yin Yang Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Madmates 
@@ -1364,7 +1345,7 @@ Yin Yanger can kill normally once targets have been set.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Neutral<br>
+__Faction__: Neutral<br>
 __Base__: Crewmate<br>
 __Ability__: Kill Nearest Player By Finishing Tasks<br>
 __Indicatior/Symbols__: None<br>
@@ -1377,22 +1358,25 @@ __Win Condition__: Win With Impostors<br>
 Complete a task to instantly kill the player nearest you (even impostors and other killing roles).<br>
 
 ### Game Options
-|            Name              |                     Description                        |     Type     |  Default  | 
-| ---------------------------- | ------------------------------------------------------ | :----------: | :-------: |
-| CrewPostor                   | The probability of the CrewPostor appearing            |  Percentage  |    0%     |
-| Maximum                      | How many CrewPostors should spawn                      |    Number    |     1     |
-| Override CrewPostor's Tasks  | Allows the Host to add or remove tasks from CrewPostor |    Toggle    |    OFF    |
-| ┣ Allow Common Tasks         | Whether CrewPostor has Common Tasks or not             |    Toggle    |    ON     |
-| ┣ CrewPostor Long Tasks      | How many long tasks CrewPostor has                     |    Number    |     5     |
-| ┗ CrewPostor Short Tasks     | How many short tasks CrewPostor has                    |    Number    |     6     |
-| Can Kill Allies              | Whether Crewpostor can kill allies or not              |    Toggle    |    OFF    |
+|              Name               |                         Description                         |     Type     |  Default  | 
+| ------------------------------- | ----------------------------------------------------------- | :----------: | :-------: |
+| CrewPostor                      | The probability of the CrewPostor appearing                 |  Percentage  |    0%     |
+| Maximum                         | How many CrewPostors should spawn                           |    Number    |     1     |
+| Warp To Target                  | Whether CrewPostor warps to target or kills without warping |    Toggle    |    ON     |
+| Can Kill Allies                 | Whether Crewpostor can kill allies or not                   |    Toggle    |    OFF    |
+| Refresh Tasks When All Complete | Allows more tasks for CrewPostor                            |    Toggle    |    ON     |
+| Override CrewPostor's Tasks     | Allows the Host to add or remove tasks from CrewPostor      |    Toggle    |    OFF    |
+| ┣ Allow Common Tasks            | Whether CrewPostor has Common Tasks or not                  |    Toggle    |    ON     |
+| ┣ CrewPostor Long Tasks         | How many long tasks CrewPostor has                          |    Number    |     5     |
+| ┗ CrewPostor Short Tasks        | How many short tasks CrewPostor has                         |    Number    |     6     |
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Madmate
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Engineer<br>
 __Ability__: None (The Fallen Impostor)<br>
 __Indicatior/Symbols__: None<br>
@@ -1401,7 +1385,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by libhalt`<br>
 
 #### Role Description
-The Madmate is a fallen Impostor with no kill button. They do not know who the Impostors are and the Impostors cannot tell them apart from other crewmates.<br>
+The Madmate is a Impostor sided Crewmate. They are unable to kill and do not know who the Impostors are and the Impostors cannot tell them apart from other Crewmates.<br>
 
 __What To Do:__<br>
 Try to get back into the Impostors good graces.<br>
@@ -1421,7 +1405,7 @@ Act sus. Take suspicion off of Impostors by pretending to fix sabotages, venting
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Crewmate<br>
 __Ability__: Finish Tasks To Become Unkillable<br>
 __Indicatior/Symbols__: None<br>
@@ -1430,7 +1414,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by 空き瓶/EmptyBottle`<br>
 
 ### Role Description
-The MadGuardian is a fallen Impostor who is subjected to Crewmate tasks. They cannot kill, do not know who the Impostors are, and the Impostors cannot tell who they are from other crewmates.<br>
+The Mad Guardian is an Imposter sided Crewmate who has to do tasks to activate their ability. Madmates do not know who the Impostors are and the Impostors cannot tell who they are from other Crewmates.<br>
 
 __What To Do:__<br>
 Finish tasks to become immune from kills.<br>
@@ -1446,8 +1430,8 @@ Finish tasks to become immune from kills.<br>
 | ┗ Vent Duration               | The duration the Mad Guardian can stay in a vent         |     Time     |    9.5s   |
 | Override Mad Guardian's Tasks | Allows the Host to add or remove tasks from Mad Guardian |    Toggle    |    OFF    | 
 | ┣ Allow Common Tasks          | Whether the Mad Guardian has Common Tasks or not         |    Toggle    |    OFF    |
-| ┣ Mad Guardian Long Tasks     | The amount of Long Tasks the Mad Guardian has            |    Number    |     3     |
-| ┗ Mad Guardian Short Tasks    | The amount of Short Tasks the Mad Guardian has           |    Number    |     3     |
+| ┣ Mad Guardian Long Tasks     | The amount of Long Tasks the Mad Guardian has            |    Number    |     5     |
+| ┗ Mad Guardian Short Tasks    | The amount of Short Tasks the Mad Guardian has           |    Number    |     6     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1455,7 +1439,7 @@ Finish tasks to become immune from kills.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors<br>
+__Faction__: Impostors<br>
 __Base__: Crewmate or Engineer<br>
 __Ability__: Finish Tasks To See Imps<br>
 __Indicatior/Symbols__: None <br>
@@ -1464,7 +1448,7 @@ __Indicatior/Symbols__: None <br>
 `Idea by そうくん`<br>
 
 #### Role Description
-The Mad Snitch is a fallen Impostor who is subjected to Crewmate tasks. They do not know who the Impostors are and the Impostors cannot tell them apart from other crewmates.<br>
+The Mad Snitch is an Imposter sided Crewmate who has to do tasks to activate their ability. Much like the Snitch, The Mad Snitch must complete tasks to figure out the Imposters to defend them in meetings. They do not know who the Impostors are and the Impostors cannot tell them apart from other Crewmates.<br>
 
 __What To Do:__<br>
 Finish tasks to see who the Impostors are & defend them in meetings.<br>
@@ -1490,7 +1474,7 @@ Has the option to vent.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Impostors (MadMates)<br>
+__Faction__: Impostors (MadMates)<br>
 __Base__: Shapeshifter<br>
 __Ability__: Fallen Impostor (Buffed)<br>
 __Indicatior/Symbols__:
@@ -1499,12 +1483,7 @@ __Indicatior/Symbols__:
 `Idea by Loonie`<br>
 
 #### Role Description
-The Parasite is a Fallen Impostor who has kept it’s abilities and is coming back for vengeance.<br>
-They do not know who the Impostors are and the Impostors cannot tell them apart from other crewmates.<br>
-
-__What To Do:__<br>
-The Parasite can kill, shapeshift, sabotage, and vent. <br>
-Work with the Impostors - If you haven’t slaughtered them already<br>
+The Parasite is an Impostor Sided Killer who is able to kill but doesn't know who the Imposters are and vice versa. The Parasite is able to do everything that a regular imposter can do, and it must work with the Imposters to win together.. If they're still alive, that is. *wink*
 
 ### Game Options
 |      Name     |                  Description                  |    Type    |  Default   | 
@@ -1512,6 +1491,8 @@ Work with the Impostors - If you haven’t slaughtered them already<br>
 | Parasite      | The probability of the Parasite appearing     | Percentage |    0%      |
 | Maximum       | How many Parasite should spawn                |   Number   |     1      |
 | Kill Cooldown | The cooldown of the Parasites Kill button     |   Number   |   Global   |
+
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1521,7 +1502,7 @@ Work with the Impostors - If you haven’t slaughtered them already<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Collect Ingredients & Create Potions<br>
 __Indicator/Symbols__: <br><br>
@@ -1606,7 +1587,7 @@ Once the Alchemist has a potion, they can hold down the pet button to use it, co
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Engineer<br>
 __Ability__: Plant Bombs In Vents<br>
 __Indicatior/Symbols__: Counter Showing Remaining Amount Of Vents They Can Trap<br>
@@ -1633,7 +1614,7 @@ Be careful! The Bastion can bomb themself by using a vent they've already plante
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Sacrifice's Their Life To Protect Another<br>
 __Indicatior/Symbols__: None<br>
@@ -1647,13 +1628,63 @@ Whenever the Bodyguard’s Target is attacked, the attacker is killed alongside 
 The Bodyguard may skip freely before their target is locked in and vote freely after their target has been locked in.<br>
 
 ### Game Options
-|                 Name                   |                                     Description                                 |     Type     |        Default           | 
-| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :----------------------: |
-| Bodyguard                              | The probability of the Bodyguard appearing                                      |  Percentage  |          0%              |
-| Maximum                                | How many Bodyguards should spawn                                                |    Number    |           1              |
-| Change Guarded Player                  | Options for when to change the Guarded player                                   |    Toggle    | When Guarded Player Dies | 
-| Protect Against Beneficial Interations | Whether the Bodyguard protects against Beneficial Interactions (e.g. Crusader)  |    Toggle    |          OFF             |
-| Protect Against Neutral Interactions   | Whether the Bodyguard protects agianst Neutral Interactions (e.g. Investigator) |    Toggle    |          ON              |
+|                 Name                   |                                     Description                                 |     Type     |   Default   | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :---------: |
+| Bodyguard                              | The probability of the Bodyguard appearing                                      |  Percentage  |     0%      |
+| Maximum                                | How many Bodyguards should spawn                                                |    Number    |     1       |
+| Change Guarded Player                  | Options for when to change the Guarded player                                   |    Toggle    | After Death | 
+| Protect Against Beneficial Interations | Whether the Bodyguard protects against Beneficial Interactions (e.g. Crusader)  |    Toggle    |     OFF     |
+| Protect Against Neutral Interactions   | Whether the Bodyguard protects agianst Neutral Interactions (e.g. Investigator) |    Toggle    |     ON      |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Chameleon
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Crewmate<br>
+__Base__: Engineer<br>
+__Ability__: Camouflage With Your Environment<br>
+__Indicatior/Symbols__: Invisible Duration Counter<br>
+
+#### Role Description
+The Chameleon can use their Vent button to temporarily turn invisible. Their invisible duration is displayed below their name, and after a fixed duration they will re-appear in their current spot.
+
+### Game Options
+|                 Name                   |                                     Description                                 |     Type     |  Default | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :------: |
+| Chameleon                              | The probability of the Chameleon appearing                                      |  Percentage  |    0%    |
+| Maximum                                | How many Chameleons should spawn                                                |    Number    |     1    |
+| Invisibility Duration                  | The duration of the Chameleon's invisibility                                    |     Time     |    10s   |        
+| Invisibility Cooldown                  | The cooldown of the Chameleon's invisibility ability                            |     Time     |    10s   |
+
+_Vent button cooldown = Invisibility Duration + Invisibility Cooldown_
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Charmer
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Crewmate<br>
+__Base__: Crewmate<br>
+__Ability__: Charm Enemies To Join Your Team.<br>
+__Indicatior/Symbols__: Charmed Players Receive Indicator That They've Been Charmed<br>
+
+#### Role Description
+When the Charmer uses their Pet/Kill button on an impostor or neutral killer, they become charmed and join the crewmates team. Charmed players will know they've been charmed, and lose the ability to kill crewmates.  If the Charmer charms a crewmate, they misfire and die.
+
+### Game Options
+|                 Name                   |                                     Description                                 |     Type     |   Default  | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :--------: |
+| Charmer                                | The probability of the Charmer appearing                                        |  Percentage  |    0%      |
+| Maximum                                | How many Charmer should spawn                                                   |    Number    |     1      |
+| Ability Button                         | Choice between Pet/Kill for the Charmer's ability                               |    Toggle    | Pet Button |
+| ┗ Tasks Needed For Ability             | How many tasks need to be completed to use Charm ability                        |    Number    |     0      |
+| Charming Cooldown                      | The cooldown of the Charmer's Charm ability                                     |     Time     |    60s     |
+| Charmed Players Win With Crew          | Whether charmed players win with Crewmates                                      |    Toggle    |    ON      |
+| Break Charm On Charmer Death           | Whether charmed players remain on the Crewmates team upon the Charmer's Death   |    Toggle    |    ON      |
+| Max Charmed Players                    | How many players the Charmer can charm onto the Crewmate team                   |    Number    |     ∞      |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1661,7 +1692,7 @@ The Bodyguard may skip freely before their target is locked in and vote freely a
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Impostor<br>
 __Ability__: Protect Players From Attacks<br>
 __Indicatior/Symbols__: None<br>
@@ -1688,7 +1719,7 @@ This target will be protected from attacks.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Bombs their Killer<br>
 __Indicatior/Symbols__: None<br>
@@ -1714,7 +1745,7 @@ The killer is notified that they have killed the demolitionist by their name/rol
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Pick Who To Vote Out<br>
 __Indicatior/Symbols__: Counter (During Meetings) Showing Number Of Dictates Before Suicide<br>
@@ -1729,11 +1760,13 @@ Three things happen when the Dictator votes for someone in meeting:<br>
 3. Sacrifice themself in the name of justice (they die) if they have no more dictate votes left.<br>
 
 ### Game Options
-|           Name             |                      Description                         |     Type     |  Default  | 
-| -------------------------- | -------------------------------------------------------- | :----------: | :-------: |
-| Dictator                   | The probability of the Dictator appearing                |  Percentage  |    0%     |
-| Maximum                    | How many Dictators should spawn                          |    Number    |     1     |
-| Number of Dictates         | How many times Dictator can use their ability            |    Number    |     1     |
+|               Name               |                            Description                           |     Type     |  Default  | 
+| -------------------------------- | ---------------------------------------------------------------- | :----------: | :-------: |
+| Dictator                         | The probability of the Dictator appearing                        |  Percentage  |    0%     |
+| Maximum                          | How many Dictators should spawn                                  |    Number    |     1     |
+| Number of Dictates               | How many times Dictator can use their ability                    |    Number    |     1     |
+| ┗ Show Dictate at End of Meeting | Shows Dictate message at end of meeting (rather than right away) |    Toggle    |    ON     |
+| Suicide if Crewmate Executed     | Whether Dictator suicides when executing a Crewmate              |    Toggle    |    OFF    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1741,7 +1774,7 @@ Three things happen when the Dictator votes for someone in meeting:<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Scientist<br>
 __Ability__: Can See How Players Died<br>
 __Indicatior/Symbols__: Cause Of Death Displayed In Meetings<br>
@@ -1758,6 +1791,8 @@ While in meeting (and by closing the chat), the Doctor can see a player’s caus
 | ----------------------- | ------------------------------------------------------ | :----------: | :-------: |
 | Doctor                  | The probability of the Doctor appearing                |  Percentage  |    0%     |
 | Maximum                 | How many Doctors should spawn                          |    Number    |     1     |
+| Vitals Cooldown         | The Cooldown of the Doctor's Vitals button             |     Time     |    40s    |
+| Vitals Battery Charge   | The amount of time the Doctor can View portable vitals |     Time     |   14.5s   |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1765,7 +1800,7 @@ While in meeting (and by closing the chat), the Doctor can see a player’s caus
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Impostor<br>
 __Ability__: Role Block Players<br>
 __Indicatior/Symbols__: "RB" Indicator On Roleblocked Player<br>
@@ -1792,7 +1827,7 @@ Cannot roleblock The Glitch.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Prepare A Location, Then Escape!<br>
 __Indicatior/Symbols__: Text Cooldown Displaying Time Until Able to Escape & Until Next Mark<br>
@@ -1811,11 +1846,35 @@ First use Pet button to mark a location, then after a set cooldown, you can re-u
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Herbalist
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Crewmate<br>
+__Base__: Crewmate<br>
+__Ability__: Plant Blooms to Slowly Gather Info<br>
+__Indicatior/Symbols__: Bloom Counter On Seeded Players & Plant Bloom Cooldown Counter<br>
+
+#### Role Description
+Use your Pet button to plant a seed on a player. After a set period of time, that player's "bloom counter" will increase. After a set number of blooms, use your pet button to reveal that player's role. After a player's role has been revealed, you can continue to reveal it to the nearest player by using the pet button on the same player.
+
+### Game Options
+|                 Name                   |                                     Description                                           |     Type     |  Default  | 
+| -------------------------------------- | ----------------------------------------------------------------------------------------- | :----------: | :-------: |
+| Herbalist                              | The probability of the Herbalist appearing                                                |  Percentage  |     0%    |
+| Maximum                                | How many Herbalists should spawn                                                          |    Number    |     1     |
+| Time Until Bloom                       | The amount of time it takes for the seed to bloom                                         |     Time     |    15s    |
+| Blooms Until Role Reveal               | How many blooms are needed before role reveal                                             |    Number    |     3     |
+| Plant Bloom Cooldown                   | The cooldown of the Herbalist's seed planting ability                                     |     Time     |    20s    |
+| Reveal on Bloom                        | Whether the Herbalist needs to use the pet button to reveal the role on the seeded player |    Toggle    |    OFF    |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Investigator
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmates<br>
+__Faction__: Crewmates<br>
 __Base__: Impostor/Crewmate<br>
 __Ability__: Investigate Roles<br>
 __Indicatior/Symbols__: Player's Name Changes Based On "Good" or "Bad"<br>
@@ -1843,51 +1902,50 @@ __*Green = Good*__ <br>
  - __Madmate__ (predetermined by host)<br><br>
 
 ### Game Options
-|          Name            |                          Description                           |    Type    |  Default  | 
-| ------------------------ | -------------------------------------------------------------- | :--------: | :-------: |
-| Investigator             | The probability of the Investigator appearing                  | Percentage |     0%    |
-| Maximum                  | How many Investigators should spawn                            |   Number   |     1     |
-| Investigate Cooldown     | The cooldown of the Investigator's Kill button                 |    Time    |   27.5s   |
-| Neutral Passive are Red  | Whether Neutral Passive roles appear red when investigated     |   Toggle   |    None   |
-| ┣ Amnesiac               | Whether Amnesiac will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ Archangel              | Whether Archangel will show a red name when investigated       |   Toggle   |    OFF    |
-| ┣ Copycat                | Whether Copycat will show a red name when investigated         |   Toggle   |    OFF    | 
-| ┣ Executioner            | Whether Executioner will show a red name when investigated     |   Toggle   |    OFF    |
-| ┣ Hacker                 | Whether Hacker will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Jester                 | Whether Jester will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Opportunist            | Whether Opporttunist will show a red name when investigated    |   Toggle   |    OFF    |  
-| ┣ Phantom                | Whether Phantom will show a red name when investigated         |   Toggle   |    OFF    |
-| ┣ Postman                | Whether Postman will show a red name when investigated         |   Toggle   |    OFF    | 
-| ┣ Survivor               | Whether Survivor will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ Terrorist              | Whether Terrorist will show a red name when investigated       |   Toggle   |    OFF    | 
-| ┗ Vulture                | Whether Vulture will show a red name when investigated         |   Toggle   |    OFF    |
-| Neutral Killing are Red  | Whether Neutral Killing roles appear red when investigated     |   Toggle   |    None   | 
-| ┣ AgiTater               | Whether AgiTater will show a red name when investiagted        |   Toggle   |    OFF    |
-| ┣ Arsonist               | Whether Arsonist will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ BloodKnight            | Whether BloodKnight will show a red name when investigated     |   Toggle   |    OFF    |
-| ┣ Egoist                 | Whether Egoist will show a red name when investigated          |   Toggle   |    OFF    |  
-| ┣ Hitman                 | Whether Hitman will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Jackal                 | Whether Jackal will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Juggernaut             | Whether Juggernaut will show a red name when investigated      |   Toggle   |    OFF    |
-| ┣ Marksman               | Whether Marksman will show a red name when investigated        |   Toggle   |    OFF    |
-| ┣ Occultist              | Whether Occultist will show a red name when investigated       |   Toggle   |    OFF    |
-| ┣ Pestilence             | Whether Pestilence will show a red name when investigated      |   Toggle   |    OFF    |
-| ┣ Pirate                 | Whether Pirate will show a red name when investigated          |   Toggle   |    OFF    |
-| ┣ Plague Bearer          | Whether Plague Bearer will show a red name when investigated   |   Toggle   |    OFF    |
-| ┣ The Glitch             | Whether The Glitch will show a red name when investigated      |   Toggle   |    OFF    |
-| ┗ Werewolf               | Whether Werewolf will show a red name when investigated        |   Toggle   |    OFF    | 
-| Crewmate Killing are Red | Whether Crewmate Killing roles appear red when investigated    |   Toggle   |    None   | 
-| ┣ Sheriff                | Whether Sheriff will show a red name when investigated         |   Toggle   |    OFF    |
-| ┗ Veteran                | Whether Veteran will show a red name when investigated         |   Toggle   |    OFF    |
-| Madmate are Red          | Whether Madmate roles appear red when investigated             |   Toggle   |    None   |
-| ┣ CrewPostor             | Whether CrewPostor will show a red name when investigated      |   Toggle   |    OFF    |
-| ┣ Madmate                | Whether Madmate will show a red name when investigated         |   Toggle   |    OFF    |
-| ┣ Mad Guardian           | Whether Mad Guardian will show a red name when investigated    |   Toggle   |    OFF    |
-| ┣ Mad Snitch             | Whether Mad Snitch will show a red name when investigated      |   Toggle   |    OFF    |
-| ┗ Parasite               | Whether Parasite will show a red name when investigated        |   Toggle   |    OFF    |
-| Undead Roles are Red     | Whether Undead roles appear red when investigated              |   Toggle   |    None   | 
-| ┣ Necromancer            | Whether Necromancer will show a red name when investigated     |   Toggle   |    OFF    |
-| ┗ Deathknight            | Whether Deathknight will a red name when investigated          |   Toggle   |    OFF    |
+|          Name            |                          Description                             |    Type    |  Default  | 
+| ------------------------ | ---------------------------------------------------------------- | :--------: | :-------: |
+| Investigator             | The probability of the Investigator appearing                    | Percentage |     0%    |
+| Maximum                  | How many Investigators should spawn                              |   Number   |     1     |
+| Investigate Cooldown     | The cooldown of the Investigator's Kill button                   |    Time    |   27.5s   |
+| Neutral Killing are Red  | Whether Neutral Killing roles appear red when investigated       |   Toggle   |    OFF    | 
+| ┣ AgiTater               | Whether AgiTater will show a red name when investiagted          |   Toggle   |  Enabled  |
+| ┣ Arsonist               | Whether Arsonist will show a red name when investigated          |   Toggle   |  Enabled  |
+| ┣ Blood Knight           | Whether Blood Knight will show a red name when investigated      |   Toggle   |  Enabled  |
+| ┣ Demon                  | Whether Demon will show a red name when investigated             |   Toggle   |  Enabled  |
+| ┣ Egoist                 | Whether Egoist will show a red name when investigated            |   Toggle   |  Enabled  |
+| ┣ The Glitch             | Whether The Glitch will show a red name when investigated        |   Toggle   |  Enabled  |
+| ┣ Hitman                 | Whether Hitman will show a red name when investigated            |   Toggle   |  Enabled  |
+| ┣ Jackal                 | Whether Jackal will show a red name when investigated            |   Toggle   |  Enabled  |
+| ┣ Juggernaut             | Whether Juggernaut will show a red name when investigated        |   Toggle   |  Enabled  |
+| ┣ Marksman               | Whether Marksman will show a red name when investigated          |   Toggle   |  Enabled  |
+| ┣ Occultist              | Whether Occultist will show a red name when investigated         |   Toggle   |  Enabled  |
+| ┣ Pelican                | Whether Pelican will show a red name when investigated           |   Toggle   |  Enabled  |
+| ┣ Pestilence             | Whether Pestilence will show a red name when investigated        |   Toggle   |  Enabled  |
+| ┣ Plague Bearer          | Whether Plague Bearer will show a red name when investigated     |   Toggle   |  Enabled  |
+| ┣ Retributionist         | Whether Retributionish will show a red name when investigated    |   Toggle   |  Enabled  |
+| ┣ Ruthless Romantic      | Whether Ruthless Romantic will show a red name when investigated |   Toggle   |  Enabled  |
+| ┗ Werewolf               | Whether Werewolf will show a red name when investigated          |   Toggle   |  Enabled  | 
+| Neutral Passive are Red  | Whether Neutral Passive roles appear red when investigated       |   Toggle   |    OFF    |
+| ┣ Amalgamation           | Whether Amalgamation will show a red name when investigated      |   Toggle   |  Enabled  |
+| ┣ Amnesiac               | Whether Amnesiac will show a red name when investigated          |   Toggle   |  Enabled  |
+| ┣ Archangel              | Whether Archangel will show a red name when investigated         |   Toggle   |  Enabled  |
+| ┣ Copycat                | Whether Copycat will show a red name when investigated           |   Toggle   |  Enabled  | 
+| ┣ Executioner            | Whether Executioner will show a red name when investigated       |   Toggle   |  Enabled  |
+| ┣ Hacker                 | Whether Hacker will show a red name when investigated            |   Toggle   |  Enabled  |
+| ┣ Jester                 | Whether Jester will show a red name when investigated            |   Toggle   |  Enabled  |
+| ┣ Opportunist            | Whether Opporttunist will show a red name when investigated      |   Toggle   |  Enabled  | 
+| ┣ Phantom                | Whether Phantom will show a red name when investigated           |   Toggle   |  Enabled  |
+| ┣ Postman                | Whether Postman will show a red name when investigated           |   Toggle   |  Enabled  |
+| ┣ Schrodinger's Cat      | Whether Schrodinger's Cat will show a red name when investigated |   Toggle   |  Enabled  |
+| ┣ Survivor               | Whether Survivor will show a red name when investigated          |   Toggle   |  Enabled  |
+| ┣ Terrorist              | Whether Terrorist will show a red name when investigated         |   Toggle   |  Enabled  | 
+| ┗ Vulture                | Whether Vulture will show a red name when investigated           |   Toggle   |  Enabled  |
+| Madmates are Red         | Whether Madmate roles appear red when investigated               |   Toggle   |    OFF    |
+| ┣ CrewPostor             | Whether CrewPostor will show a red name when investigated        |   Toggle   |  Enabled  |
+| ┣ Mad Guardian           | Whether Mad Guardian will show a red name when investigated      |   Toggle   |  Enabled  |
+| ┣ Madmate                | Whether Madmate will show a red name when investigated           |   Toggle   |  Enabled  |
+| ┣ Mad Snitch             | Whether Mad Snitch will show a red name when investigated        |   Toggle   |  Enabled  |
+| ┗ Parasite               | Whether Parasite will show a red name when investigated          |   Toggle   |  Enabled  |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1895,7 +1953,7 @@ __*Green = Good*__ <br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate or Engineer<br>
 __Ability__: Additional Votes / Venting Calls Meetings<br>
 __Indicatior/Symbols__: Counter Showing Number of Pocket Meetings<br>
@@ -1924,7 +1982,7 @@ Additionally, there's an option where Mayor has to reveal before gaining additio
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Engineer<br>
 __Ability__: Use Vents<br>
 __Indicatior/Symbols__: None<br>
@@ -1950,7 +2008,7 @@ The Mechanic is a renamed Engineer from vanilla Among Us.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Shield a Player From Attacks<br>
 __Indicatior/Symbols__: Small "+" Mark Showing Shielded Player<br>
@@ -1974,7 +2032,7 @@ The Medic is able to vote a player to shield. Based on host's options, the Medic
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Reveal The Killers Role When Reporting<br>
 __Indicatior/Symbols__: Medium <br>
@@ -2001,7 +2059,7 @@ Depending on host's settings, they may also see an arrow pointing to bodies.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Notified When Players Are Killed<br>
 __Indicatior/Symbols__: None<br>
@@ -2013,12 +2071,13 @@ __Indicatior/Symbols__: None<br>
 When a player is killed, Mystic receives a single flash and alert. It is very similar to when the reactor is sabotaged. Use this alert to estimate time of death.
 
 ### Game Options
-|      Name        |                      Description                       |     Type     |  Default  | 
-| ---------------- | ------------------------------------------------------ | :----------: | :-------: |
-| Mystic           | The probability of the Mystic appearing                |  Percentage  |    0%     |
-| Maximum          | How many Mystics should spawn                          |    Number    |     1     |
-| Flash Duration   | Amount of time a Flash alert is present                |     Time     |    0.4s   |
-| Send Audio Alert | Whether there is an audio alert                        |    ON/OFF    |    ON     |
+|         Name         |                      Description                       |     Type     |  Default  | 
+| -------------------- | ------------------------------------------------------ | :----------: | :-------: |
+| Mystic               | The probability of the Mystic appearing                |  Percentage  |    0%     |
+| Maximum              | How many Mystics should spawn                          |    Number    |     1     |
+| Mystic is a Modifier | Whether Mystic is a Modifier instead of a role         |    Toggle    |    OFF    |
+| Flash Duration       | Amount of time a Flash alert is present                |     Time     |    0.5s   |
+| Send Audio Alert     | Whether there is an audio alert                        |    ON/OFF    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2026,7 +2085,7 @@ When a player is killed, Mystic receives a single flash and alert. It is very si
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Increased Vision<br>
 __Indicatior/Symbols__: None<br>
@@ -2041,7 +2100,7 @@ Additionally, if enabled, you'll be able to see even during sabotages.<br>
 | Observer                                 | The probability of the Observer appearing                                           |  Percentage  |    0%     |
 | Maximum                                  | How many Obervers should spawn                                                      |    Number    |     1     |
 | Slowly Gains Vision                      | Whether the Observer gains vision with each task completed or total task completion |    Toggle    |    OFF    |
-| ┗ Vision Gain With Each Task Completed   | The amount of vision increase the Observer receives for each task they complete     |   Multiplier |   0.15x   |
+| ┗ Vision Gain On Task Complete           | The amount of vision increase the Observer receives for each task they complete     |   Multiplier |   0.15x   |
 | Override Starting Vision                 | Whether Observer starts with a different vision other than default                  |    Toggle    |    OFF    |
 | ┗ Starting Vision Modifier               | How much vision the Observer has before any tasks are completed                     |   Multiplier |   0.25x   |
 | Finished Tasked Vision                   | The final vision distance Observer has when all tasks are completed                 |   Multiplier |   2.25x   |
@@ -2053,7 +2112,7 @@ Additionally, if enabled, you'll be able to see even during sabotages.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Reveal A Role Upon Death<br>
 __Indicatior/Symbols__: After the Oracle dies, the targeted player will have their role shown to everyone with a bluish-purple gradient<br>
@@ -2079,7 +2138,7 @@ The Oracle can choose to reveal their own role if they wish by voting themselves
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Scientist<br>
 __Ability__: Can See Vitals<br>
 __Indicatior/Symbols__: None<br>
@@ -2091,10 +2150,13 @@ The Physicists have a portable vitals monitor that can be accessed anywhere on t
 The Physicist is a renamed Scientist from vanilla Amoung Us.<br>
 
 ### Game Options
-|    Name   |                        Description                        |     Type     |  Default  | 
-| --------- | --------------------------------------------------------- | :----------: | :-------: |
-| Physicist | The probability of the Physicist appearing                |  Percentage  |    0%     |
-| Maximum   | How many Physicists should spawn                          |    Number    |     1     |
+|          Name           |                        Description                        |     Type     |  Default  | 
+| ----------------------- | --------------------------------------------------------- | :----------: | :-------: |
+| Physicist               | The probability of the Physicist appearing                |  Percentage  |    0%     |
+| Maximum                 | How many Physicists should spawn                          |    Number    |     1     |
+| Vitals Cooldown         | The Cooldown of the Physicist's Vitals button             |     Time     |    40s    |
+| Vitals Battery Charge   | The amount of time the Physicist can View portable vitals |     Time     |   14.5s   |
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2102,7 +2164,7 @@ The Physicist is a renamed Scientist from vanilla Amoung Us.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmates<br>
+__Faction__: Crewmates<br>
 __Base__: Crewmate<br>
 __Ability__: See A Potential Evil Player<br>
 __Indicatior/Symbols__: None<br>
@@ -2128,7 +2190,7 @@ Three players will be highlighted in red, at least one of them is evil. The numb
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmates<br>
+__Faction__: Crewmates<br>
 __Base__: Crewmate/Engineer<br>
 __Ability__: Clear Sabotages Without Help<br>
 __Indicatior/Symbols__: None<br>
@@ -2148,7 +2210,7 @@ Opening a door in Polus or The Airship will open all the linked doors.<br>
 | Maximum                   | How many Repairmans should spawn              |    Number    |     1     |
 | Repairman Can Vent        | Whether the Repairman can vent                |    Toggle    |    ON     | 
 | ┣ Vent Cooldown           | The cooldown of the Repairman's vent button   |     Time     |    40s    | 
-| ┗ Vent Duration           | How long the Repairman can stay inside a vent |     Time     |   14.5s   | 
+| ┗ Vent Duration           | How long the Repairman can stay inside a vent |     Time     |    15s    | 
 | Fast Fixes Lights         | Whether Repairman can fast-fix Lights         |    Toggle    |    ON     |
 | Fast Fixes Reactor        | Whether Repairman can fast-fix Reactor        |    Toggle    |    ON     |
 | Fast Fixes Oxygen         | Whether Repairman can fast-fix Oxygen         |    Toggle    |    ON     |
@@ -2163,7 +2225,7 @@ Opening a door in Polus or The Airship will open all the linked doors.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Impostor/Crewmate<br>
 __Ability__: Can Shoot Impostors<br>
 __Indicatior/Symbols__: Counter showing number of bullets<br>
@@ -2181,7 +2243,7 @@ Additionally (depending on settings) they may have no tasks.<br>
 | ------------------------ | ------------------------------------------------------------ | :-----------------: | :-------: |
 | Sheriff                  | The probability of the Sheriff appearing                     |      Percentage     |    0%     |
 | Maximum                  | How many Sheriffs should spawn                               |        Number       |     1     |
-| Kill Target on Misfire   | Whether Sheriff will kill their target when misfiring        |        Toggle       |    OFF    |
+| Kill Target On Misfire   | Whether Sheriff will kill their target when misfiring        |        Toggle       |    OFF    |
 | Kill Cooldown            | The Cooldown for the Sheriff's Kill/Pet button               |         Time        |    25s    |
 | Total Shots              | The total amount of shots (kills) the Sheriff can make       |        Number       |     5     |
 | One Shot Per Round       | Whether the Sheriff can make multiple shots per round or not |        Toggle       |    ON     |
@@ -2193,7 +2255,7 @@ Additionally (depending on settings) they may have no tasks.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Finish Tasks To See Killers<br>
 __Indicatior/Symbols__: ⚠ indicator when on task threshold<br>
@@ -2215,7 +2277,7 @@ Depending on the settings, when their tasks are completed, the Snitch may also s
 | Evil Have Arrow to Snitch        | Whether evil players will have an arrow to the Snitch                 |    Toggle    |    ON     |
 | Enable Arrow for Snitch          | Whether the Snitch will have arrows to the killers                    |    Toggle    |    ON     |
 | ┗ Colored Arrow                  | Whether the arrows are colored based on role color                    |    Toggle    |    ON     |
-| Snitch can Track Neutral Killers | Whether Snitch can track Neutral Killers                              |    Toggle    |    ON     |
+| Snitch can Track Any Killing     | Whether Snitch can track any killers                                  |    Toggle    |    ON     |
 | Override Snitch's Tasks          | Options to customize Snitch's tasks                                   |    Toggle    |   OFF     |
 | ┣ Allow Common Tasks             | Whether the Snitch will receive Common Tasks                          |    Toggle    |    ON     |
 | ┣ Snitch Long Tasks              | How many Long Tasks will be assigned to the Snitch                    |    Number    |     5     |
@@ -2227,7 +2289,7 @@ Depending on the settings, when their tasks are completed, the Snitch may also s
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmates<br>
+__Faction__: Crewmates<br>
 __Base__: Crewmate<br>
 __Ability__: Increased Speed Upon Task Completion<br>
 __Indicatior/Symbols__: None<br>
@@ -2236,23 +2298,21 @@ __Indicatior/Symbols__: None<br>
 Finish tasks to gain a speed boost! Depending on the host's options, you may gain a small speed boost (possibly temporarily depending on settings) after completing singular tasks, or, get a large speed boost after reaching a task-threshold.
 
 ### Game Options
-|                Name                   |                                         Description                                     |     Type     |  Default  | 
-| ------------------------------------- | --------------------------------------------------------------------------------------- | :----------: | :-------: |
-| Speedrunner                           | The probability of the Speedrunner appearing                                            |  Percentage  |    0%     |
-| Maximum                               | How many Speedrunners should spawn                                                      |    Number    |     1     |
-| Temporary Boost When Finishing a Task | Whether the Speedrunner will receive a temporary small boost after finishing each task  |    Toggle    |    OFF    |    
-| ┣ Speed Boost                         | How much of a temporary speed boost the Speedrunner gets after each task                |  Multiplier  |   0.15x   | 
-| ┗ Boost Duration                      | How long the temporary speed boost lasts after each completed task                      |     Time     |    3s     | 
-| Tasks Until Speed Boost               | How many tasks need to be completed to receive Final Speed Boost                        |    Number    |     6     |                       
-| Slowly Gain Speed Boost               | Whether Speedrunner's gains a small permanent speed boost after each completed task     |    Toggle    |    OFF    |
-| ┗ Permanent Gain                      | How much of a permanent boost the Speedrunner gets after completing each task           |  Multiplier  |    0.2x   |
-| Final Speed Boost                     | Final Player Speed when Speedbooster completes Tasks Until Speed Boost                  |  Multiplier  |   2.25x   |                    
+|                 Name                   |                                         Description                                     |     Type     |  Default  | 
+| -------------------------------------- | --------------------------------------------------------------------------------------- | :----------: | :-------: |
+| Speedrunner                            | The probability of the Speedrunner appearing                                            |  Percentage  |    0%     |
+| Maximum                                | How many Speedrunners should spawn                                                      |    Number    |     1     |
+| Temporary Boost Upon Finishing Task    | Whether the Speedrunner will receive a temporary small boost after finishing each task  |  Multiplier  |   0.1x    |    
+| ┗ Temporary Boost Duration             | How long the temporary speed boost lasts after each completed task                      |     Time     |    3s     | 
+| Permanent Speed Gain per Task          | How much of a permanent boost the Speedrunner gets after completing each task           |  Multiplier  |    0.1x   | 
+| Tasks Remaining Until Main Speed Boost | How many tasks need to be completed to receive Final Speed Boost                        |    Number    |     2     |                       
+| ┗ Final Speed Boost                    | Final Player Speed when Speedrunner completes Tasks Until Speed Boost                   |  Multiplier  |   2.25x   |                    
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Swapper 
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Swap Votes During Meeting<br>
 __Indicatior/Symbols__: None<br>
@@ -2271,11 +2331,36 @@ The first two players you vote each meeting will have their votes swapped. After
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Tracker 
+
+__Faction__: Crewmate<br>
+__Base__: Crewmate<br>
+__Ability__: Track a player's movements<br>
+__Indicatior/Symbols__: Arrow Pointing Towards Tracked Player<br>
+
+`Idea From: Town of Us Reactivated`
+
+#### Role Description
+Once per meeting, select a player to track. You will have an arrow pointing towards that player until they die. If enabled, you may also use your pet button to temporarily track all dead bodies.
+
+### Game Options
+|               Name              |                       Description                       |     Type     |  Default  | 
+| ------------------------------- | ------------------------------------------------------- | :----------: | :-------: |
+| Tracker                         | The probability of the Tracker appearing                |  Percentage  |    0%     |
+| Maximum                         | How many Trackers should spawn                          |    Number    |     1     |
+| Arrow Update Rate               | The rate at which your tracking arrown updates          |     Time     |    1s     |
+| Can Track Bodies                | If the Pet button ca nbe used to track bodies           |    Toggle    |    OFF    | 
+| ┣ Can Track Unreportable Bodies | If, when tracking bodies, unreportable bodies are shown |    Toggle    |    ON     | 
+| ┣ Track Body Duration           | The duration of the body tracking ability               |     Time     |   12.5s   |
+| ┗ Track Body Cooldown           | The cooldown of the body tracking ability               |     Time     |    40s    |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Transporter
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Transport Two Players<br>
 __Indicatior/Symbols__: None<br>
@@ -2293,7 +2378,7 @@ Make sure you have enough for the pet animation.<br>
 | Transporter          | The probability of the Transporter appearing                |  Percentage  |    0%     |
 | Maximum              | How many Transporters should spawn                          |    Number    |     1     |
 | Number of Transports | How many times the Transporter may use it's ability         |    Number    |    25     |
-| Transport Cooldown   | The cooldown of the Transport ability                       |     Time     |    30s    |      
+| Transport Cooldown   | The cooldown of the Transport ability                       |     Time     |    30     |      
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2301,7 +2386,7 @@ Make sure you have enough for the pet animation.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmates<br>
+__Faction__: Crewmates<br>
 __Base__: Crewmate<br>
 __Ability__: Trap Their Killers<br>
 __Indicatior/Symbols__: None<br>
@@ -2326,7 +2411,7 @@ Upon death, Trapster freezes their killer in place for a few seconds.<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Counterattacks Players' Kill Button<br>
 __Indicatior/Symbols__: None<br>
@@ -2356,7 +2441,7 @@ Pro Tip - Make sure you have enough room for the Pet animation!<br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Crewmate<br>
+__Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Guess Evil Roles To Eliminate Them<br>
 __Indicatior/Symbols__: None<br>
@@ -2383,7 +2468,7 @@ The Vigilante's second guess locks in the role they're guessing.<Br>
 
 <img align="right" width="" height="300" src="">
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Pass The Bomb (Hot Potato)<br>
 __Win Condition__: Be The Last Man Standing<br>
@@ -2406,13 +2491,15 @@ This continues until a meeting is called (or optionally after a duration) where 
 | Explode After Duration       | Whether bombed players will explode after a specific amount of time has passed |    Toggle    |    OFF    |
 | Explode When Bombed Twice    | Whether bombed players will explode if they get a bomb for the second time     |    Toggle    |    OFF    |
 | Bombs per Round              | How many bombs can be placed per round                                         |    Number    |     3     |
+| Bomb Transfer Rate           | The time someone needs to be next to a player for the bomb to transfer         |     Time     |     1s    |
 
+_The Global option for Place Bomb Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Arsonist
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Can Douse & Ignite Players<br>
 __Win Condition__: Douse & Ignite All Living Players<br>
@@ -2436,7 +2523,7 @@ To win, douse all players and ignite them by using the Pet button.<br>
 
 ## Blood Knight
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Blood Knight<br>
 __Ability__: Shielded With Each Kill<br>
 __Win Condition__: Solo (be the last killer alive) <br>
@@ -2456,11 +2543,37 @@ Each kill the Bloodknight does will protect them from attacks for a few seconds.
 | Protection Duration          | The amount of time the Blood Knight is protected after they kill |     Time     |    15s    |
 | Can Vent                     | Whether the Blood Knight can vent or not                         |    ON/OFF    |    ON     |
 
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Demon
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Neutral Killing<br>
+__Base__: Impostor<br>
+__Ability__: Attack Players To Reduce Their Health<br>
+__Win Condition__: Solo (be the last player alive)<br>
+
+#### Role Description
+Demon is a neutral killing role whose goal is to kill all other players. When Demon is in the game all players spawn in with a green health bar over their heads. When the Demon attacks a player, their health bar will drop some health points. After fully reducing a player's health bar, that player will die. When Demon gets attacked, their health bar also decreases. The Demon heals some health when they kill players.
+
+### Game Options
+|                 Name                   |                                     Description                                 |     Type     |  Default  | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :-------: |
+| Demon                                  | The probability of the Demon appearing                                          |  Percentage  |    0%     |
+| Maximum                                | How many Demons should spawn                                                    |    Number    |     1     |
+| Attack Cooldown                        | The cooldown of the Demon's Kill button                                         |     Time     |    2s     |    
+| Damage Per Attack                      | The amount of damage given per attack (x/100)                                   |    Number    |    15     |
+| Healing On Kill                        | The amount of health regained upon a victim's death (x/100)                     |    Number    |    20     |
+| Damage Taken Per Attack                | The amount of damage the Demon receives when attacked (x/100)                   |    Number    |    35     |
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Egoist
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Shapeshifter<br>
 __Ability__: Can See Impostors<br>
 __Win Condition__: Must Be Final Impostor<br>
@@ -2479,12 +2592,14 @@ Impostors and Egoist cannot kill each other.<br>
 | Egoist                       | The probability of the Egoist appearing                    |  Percentage  |    0%     |
 | Maximum                      | How many Egoists should spawn                              |    Number    |     1     |
 | Egoist is Shapeshifter       | Whether the base of Egoist is Shapeshifter                 |    Toggle    |    ON     |
+| ┣ Shapeshift Cooldown        | The cooldown of the Egoist's Shapeshift button             |     Time     |    30s    |
+| ┗ Shapeshift Duration        | The duration the Egoist can be shifted for                 |     Time     |    15s    |  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hitman
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Kill Players & Win With Anyone <br>
 __Win Condition__: Stay Alive Until The End To Win<br>
@@ -2495,21 +2610,22 @@ __Win Condition__: Stay Alive Until The End To Win<br>
 #### Role Description
 Stay Alive! Hitman can win with most teams so long as they are alive at the end of the game.<br>
 Use Kill button on anyone without consequence.<br>
-Can be chosen to become a Traitor for impostors.<br>
-Host can choose whether Hitman wins with Executioner/Jester/Swapper/Lovers.<br>
+Host can choose whether Hitman wins with Executioner/Jester.<br>
 
 ### Game Options (incomplete)
 |            Name              |                          Description                       |     Type     |  Default  | 
 | ---------------------------- | ---------------------------------------------------------- | :----------: | :-------: |
 | Hitman                       | The probability of the Hitman appearing                    |  Percentage  |    0%     |
 | Maximum                      | How many Hitmans should spawn                              |    Number    |     1     |
-| Wins with Absolute Winners   | Whether Hitman wins with Absolute Winners (e.g. Jester)    |    Toggle    |    
+| Wins with Absolute Winners   | Whether Hitman wins with Absolute Winners (e.g. Jester)    |    Toggle    |   None    |
+| ┣ Executioner                | Whether Hitman wins with Executioner                       |    Toggle    |    ON     |
+| ┗ Jester                     | Whether Hitman wins with Jester                            |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Jackal
 
-__Team__: Neutral Killer<br>
+__Faction__: Neutral Killer<br>
 __Base__: Impostor<br>
 __Ability__: Can Kill Any Player Without Consequence<br>
 __Win Condition__: Eliminate All Players to Win<br>
@@ -2529,11 +2645,13 @@ Kill everyone, including impostors, and be the last player standing.
 | Can Sabotage                 | Whether the Jackal can sabotage                            |    Toggle    |    ON     |
 | Impostor Vision              | Whether the Jackal has Impostor vision                     |    Toggle    |    ON     |
 
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Juggernaut
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Decreased Kill Cooldown With Each Kill<br>
 __Win Condition__: Kill Everyone & Be Last Player Alive<br>
@@ -2550,16 +2668,18 @@ The Juggernaut starts with a higher kill cooldown, but with every kill, their co
 | Juggernaut                   | The probability of the Juggernaut appearing                              |  Percentage  |    0%     |
 | Maximum                      | How many Juggernauts should spawn                                        |    Number    |     1     |
 | Kill Cooldown                | The cooldown of the Juggernaut's Kill button                             |    Number    |   Global  |     
-| Decrease Amount Each Kill    | The amount of time taken off the Juggernaut's Kill button with each kill |     Time     |    2.5    |
+| Cooldown Reduction per Kill  | The amount of time taken off the Juggernaut's Kill button with each kill |     Time     |    2.5    |
 | Can Vent                     | Whether the Juggernaut can vent                                          |    Toggle    |    ON     |
 | Can Sabotage                 | Whether the Juggernaut can sabotage                                      |    Toggle    |    ON     |
 | Impostor Vision              | Whether the Juggernaut has Impostor vision                               |    Toggle    |    ON     |
+
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Marksman
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Receive A Longer Kill Distance With Each Kill<br>
 __Win Condition__: Be The Last Player Alive<br>
@@ -2575,18 +2695,21 @@ The Marksman gets a longer kill distance for each kill they make.<br>
 | ------------------------------ | ---------------------------------------------------------------------- | :----------: | :-------: |
 | Marksman                       | The probability of the Marksman appearing                              |  Percentage  |    0%     |
 | Maximum                        | How many Marksmen should spawn                                         |    Number    |     1     |
-| Kill Cooldown                  | The cooldown of the Marksman's Kill button                             |    Number    |   Global  |
-| Kills Before Distance Increase | How many kills the Marksman needs before their kill distance increases |    Number    |    0      |
+| Kill Cooldown                  | The cooldown of the Marksman's Kill button                             |    Number    |  Global   |
+| Kills Before Distance Increase | How many kills the Marksman needs before their kill distance increases |    Number    |    2      |
 | Starting Kill Distance         | The kill distance that the Marksman begins with                        |    Number    |  Global   |
 | Can Vent                       | Whether the Marksman can vent                                          |    Toggle    |    ON     |
 | Can Sabotage                   | Whether the Marksman can sabotage                                      |    Toggle    |    ON     |
 | Impostor Vision                | Whether the Marksman has Impostor vision                               |    Toggle    |    ON     |
 
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+_The Global option for Starting Kill Distance means that this setting will be the same as the Kill Distance in Custom Settings from vanilla Among Us_
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Necromancer
 
-__Team__: The Undead<br>
+__Faction__: The Undead<br>
 __Base__: Impostor<br>
 __Ability__: Convert Roles to the Undead<br>
 __Win Condition__: Convert Roles to the Undead<br>
@@ -2617,7 +2740,7 @@ There can only be one Deathknight at a time, and if the Necromancer dies, the De
 
 ## Occultist
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Curse Players<br>
 __Win Condition__: Curse & Kill Everyone & Be Last Player Alive<br>
@@ -2637,35 +2760,33 @@ Regular kill self-reports Bait.\nSpell does not self-report Bait.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Pestilence
+## Pelican 
 
-__Team__: Neutral Killing<br>
+<img align="right" width="" height="300" src="">
+
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
-__Ability__: Immune To (most) Attacks<br>
-__Win Condition__: Kill Everyone & Be The Last Player Alive<br>
+__Ability__: Gulp Down the Competiton<br>
+__Win Condition__: Gulp All Players For A Solo Win<br>
 
-`Originally Developed by Discussions`<br>
-`Idea by Town of Us Reactivated`<br>
+#### Role Description
+The Pelican gulps players by using their kill button. Gulped players are teleported out of the map and are unable to interact with the game (including Sabotages). Upon a meeting being called, all gulped players will instantly die. If the Pelican dies or disconnects, all gulped players will return to where the Pelican last was.
 
-#### Pestilence Role Description
-Plague Bearer becomes Pestilence when they finish infecting all players. Pestilence cannot be killed (for the most part). Anyone who tries to kill the pestilence will backfire instead. Pestilence can be voted off or killed indirectly (like Warlock or Puppeteer).
+### Game Options
+|                 Name                   |                                     Description                                 |     Type     |  Default  | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :-------: |
+| Pelican                                | The probability of the Pelican appearing                                        |  Percentage  |    0%     |
+| Maximum                                | How many Pelicans should spawn                                                  |    Number    |     1     |
+| Gulp Cooldown                          | The cooldown of the Pelican's Kill button                                       |    Number    |   Global  |
+| Allow Escape from Pelican              | Allows players with teleportation abilities to teleport back onto the map       |    Toggle    |    ON     |
+
+_The Global option for Gulp Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Plague Bearer
 
-__Team__: Neutral<br>
-__Base__: Impostor<br>
-Victory Condition : Be the last one standing with a crewmate<br>
-
-When an Plague Bearer tries to use the kill button, they infect the crewmate.<br>
-To win as Plague Bearer, you must be the last one alive with a crewmember.<br>
-To infect, you just have to press the kill button. No infecting timer. <br>
-After infecting everyone, you turn into Pestilence.
-
-* As a measure against blackout, after death, the Plaguebearer can only see the motion of committing suicide at each meeting. There is no corpse. <br>
-
-__Team__: Neutral Killing <br>
+__Faction__: Neutral Killing <br>
 __Base__: Impostor<br>
 __Ability__: Infect Players & Become Pestilence<br>
 __Win Condition__: None (must become Pestilence)<br>
@@ -2676,6 +2797,16 @@ __Win Condition__: None (must become Pestilence)<br>
 #### Role Description
 Use the Kill button to infect everyone. Once everyone is infected, the Plague Bearer turns into Pestilence.
 
+### Pestilence
+
+__Faction__: Neutral Killing<br>
+__Base__: Impostor<br>
+__Ability__: Immune To (most) Attacks<br>
+__Win Condition__: Kill Everyone & Be The Last Player Alive<br>
+
+#### Pestilence Role Description
+Plague Bearer becomes Pestilence when they finish infecting all players. Pestilence cannot be killed (for the most part). Anyone who tries to kill the pestilence will backfire instead. Pestilence can be voted off or killed indirectly (like Warlock or Puppeteer).
+
 ### Game Options
 |          Name             |                            Description                             |     Type     |  Default  | 
 | --------------------------| ------------------------------------------------------------------ | :----------: | :-------: |
@@ -2683,14 +2814,18 @@ Use the Kill button to infect everyone. Once everyone is infected, the Plague Be
 | Maximum                   | How many Plague Bearers should spawn                               |    Number    |     1     |
 | Infect Cooldown           | The cooldown of the Plague Bearer's Kill button                    |    Number    |  Global   | 
 | Pestilence                | The options associated with Pestilence                             |    Toggle    |   Show    |
+| ┣ Kill Cooldown           | The cooldown of Pestilence's Kill button                           |    Number    |  Global   |
 | ┣ Unblockable Kill        | Whether Pestilence's kill can break through shields (e.g. Phantom) |    Toggle    |    OFF    |
 | ┗ Invincibility Settings  | Whether Pestilence is invincible from player's attacks             |    Toggle    |    ON     |
+
+_The Global option for Infect Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
+_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Retributionist
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Get A Second Chance At Living
 __Win Condition__: Be The Last Player
@@ -2704,15 +2839,15 @@ The Retributionist is a Neutral Killer with a twist. If the Retributionist were 
 | ---------------------------- | ----------------------------------------------------------------------- | :----------: | :-------: |
 | Retributionist               | The probability of the Retributionist appearing                         |  Percentage  |    0%     |
 | Maximum                      | How many Retributionists should spawn                                   |    Number    |     1     |
-| Revenge Time Limit           | The amount of time the Retributionist has to find and kill their killer |     Time     |    5s     |
-| Invisible During Revenge     | Whether the Retributionist is invisible during revenge period           |    Toggle    |    ON     |
+| Revenge Time Limit           | The amount of time the Retributionist has to find and kill their killer |     Time     |    10s    |
+| Invisible During Revenge     | Whether the Retributionist is invisible during revenge period           |    Toggle    |    OFF    |
 | Number of Revenges           | How many times the Retributionist can seek revenge on their killer      |    Number    |     ∞     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## The Glitch
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Shapeshift & Roleblock Players<br>
 __Win Condition__: Be The Last Player Alive<br>
@@ -2734,7 +2869,7 @@ Use the Kill button to Hack or Kill players. The Pet button can be used to switc
 
 ## Werewolf
 
-__Team__: Neutral Killing<br>
+__Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Rampage: Kill With A Shorter Kill Cooldown<br>
 __Win Condition__: Be The Last Player Alive<br>
@@ -2765,7 +2900,7 @@ NOTE: Werewolf can only kill during rampage!<br>
 
 ## Amnesiac
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Impostor<br>
 __Ability__: Report a Body and Join Their Team<br>
 __Win Condition__: Wins With The Team They Joined Or Crewmates (if chosen)<br>
@@ -2784,20 +2919,36 @@ If `Steals Exact Role` is OFF then the Amnesiac becomes:
  Crewmate = Sheriff<br>
  Else (e.g. Impostor Madmate, etc.) = Jester<br>
 
+### Amalgamation
+
+__Faction__: Neutral Passive<br>
+__Base__: Impostor<br>
+__Ability__: Report a Body and Gain Their Abilities<br>
+__Win Condition__: Determined In Settings<br>
+
+`Idea by Town of Us Reactivated`<br>
+
+#### Amalgamation Role Description 
+The Amalgamation gains (becomes) the abilities of every player they report.<br>
 
 ### Game Options
-|            Name              |                                  Description                              |     Type     |  Default  | 
-| ---------------------------- | ------------------------------------------------------------------------- | :----------: | :-------: |
-| Amnesiac                     | The probability of the Amnesiac appearing                                 |  Percentage  |    0%     |
-| Maximum                      | How many Amnesiacs should spawn                                           |    Number    |     1     |
-| Steals Exact Role            | Whether the Amnesiac commandeers the exact role of the player they report |    Toggle    |    OFF    |
-| Has Arrows to Bodies         | Whether the Amnesiac has arrows to reportable bodies                      |    Toggle    |    ON     |
+|            Name              |                                  Description                              |     Type     |   Default   | 
+| ---------------------------- | ------------------------------------------------------------------------- | :----------: | :---------: |
+| Amnesiac                     | The probability of the Amnesiac appearing                                 |  Percentage  |     0%      |
+| Maximum                      | How many Amnesiacs should spawn                                           |    Number    |      1      |
+| Steals Exact Role            | Whether the Amnesiac commandeers the exact role of the player they report |    Toggle    |     OFF     |
+| Has Arrows to Bodies         | Whether the Amnesiac has arrows to reportable bodies                      |    Toggle    |     ON      |
+| Amalgamation                 | The probability of Amalgamation appearing                                 |  Percentage  |     0%      |
+| ┣ Has Arrows to Bodies       | Whether the Amalgamation has arrows to reportable bodies                  |    Toggle    |     OFF     |
+| ┣ Win Condition Determiner   | What role determines the Amalgamation's win condition                     |    Toggle    | Oldest Role |
+| ┣ Max Absorbed Roles         | The max number of roles the Amalgamation can gain                         |    Number    |      ∞      |
+| ┗ Absorb Modifiers           | If the Amalgamation also gains the modifiers (Oblivious is banned)        |    Toggle    |     OFF     |    
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Archangel
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Engineer <br>
 __Ability__: Protects Their Target <br>
 __Win Condition__: Win With Their Target <br>
@@ -2825,7 +2976,7 @@ If they win, you win.<br>
 
 ## Copycat
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
 __Ability__: Copies Killer's Role When Killed<br>
 __Win Condition__: Win's With Killer's Team<br>
@@ -2842,14 +2993,12 @@ Depending on the host's options, you may gain their 'progress' as well.
 | Copy Role's Progress                | Whether Copycat copies players progress (e.g. tasks completed)    |    Toggle    |    OFF    |
 | Shapeshift Into Attacker            | Whether Copycat shapeshifts into their attacker                   |    Toggle    |    OFF    |
 | Killer Knows Copycat                | Whether killer knows they've tried to kill the copycat            |    Toggle    |    ON     |
-| Schrodingers Cat                    | The probability of the Schrodingers Cat appearing                 |  Percentage  |    0%     |
-| ┗ Number of Lives                   | The amount of lives given to Schrodingers Cat                     |    Number    |     9     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Executioner
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
 __Ability__: None <br>
 __Win Condition__: Get Target Voted Off To Win<br>
@@ -2875,7 +3024,7 @@ If the target is the Jester, the Executioner can be an additional winner.
 
 ## Hacker
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: None <br>
 __Win Condition__: Fix Sabotages to Win<br>
@@ -2909,7 +3058,7 @@ Hacker can be killed by Sheriff.<br>
 
 ## Jester
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate/Engineer<br>
 __Ability__: Options For Impostor Abilities (Venting & Impostor Vision)<br>
 __Win Condition__: Get Voted Off<br>
@@ -2922,19 +3071,20 @@ Jester gets a solo win if they can be voted out.<br>
 Troll players in meetings, act sus in game.<br>
 
 ### Game Options
-|            Name              |                       Description                      |     Type     |  Default  | 
-| ---------------------------- | ------------------------------------------------------ | :----------: | :-------: |
-| Jester                       | The probability of the Jester appearing                |  Percentage  |    0%     |
-| Maximum                      | How many Jesters should spawn                          |    Number    |     1     |
-| Has Impostor Vision          | Whether Jester has Impostor vision or not              |    Toggle    |    ON     |
-| Can Use Vents                | Whether Jester can use vents or not                    |    Toggle    |    ON     |
-
+|                  Name                  |                       Description                      |     Type     |  Default  | 
+| -------------------------------------- | ------------------------------------------------------ | :----------: | :-------: |
+| Jester                                 | The probability of the Jester appearing                |  Percentage  |    0%     |
+| Maximum                                | How many Jesters should spawn                          |    Number    |     1     |
+| Has Impostor Vision                    | Whether Jester has Impostor vision or not              |    Toggle    |    ON     |
+| Can Use Vents                          | Whether Jester can use vents or not                    |    Toggle    |    ON     |
+| Can't Call Emergency Meetings          | Whether Jester can call Emergency Meetings             |    Toggle    |    OFF    | 
+| Minimum Meetings Before Ability To Win | How meetings must pass before Jester can win           |    Number    |     0     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Opportunist
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: None<br>
 __Win Condition__: Remain Alive Until Game End<br>
@@ -2955,7 +3105,7 @@ Regardless of the game outcome, Opportunist wins if they survive to the end of t
 
 ## Phantom
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: Unkillable & Cannot Be Voted Out Until Last Few Tasks <br>
 __Win Condition__: Complete Tasks To Win <br>
@@ -2978,14 +3128,14 @@ Kill the Phantom before they finish tasks to stop them.<br>
 | Remaining Tasks for Targetability | The amount of remaining tasks that will trigger an alert to killers (arrow pointing to phantom)        |    Number    |     1     |
 | Override Phantom's Tasks          | Options to customize Phantom's tasks                                                                   |    Toggle    |   OFF     |
 | ┣ Allow Common Tasks              | Whether the Phantom will receive Common Tasks                                                          |    Toggle    |    ON     |
-| ┣ Phantom Long Tasks              | How many Long Tasks will be assigned to the Phantom                                                    |    Number    |     0     |
-| ┗ Phantom Short Tasks             | How many Short Tasks will be assigned to the Phantom                                                   |    Number    |     1     |
+| ┣ Phantom Long Tasks              | How many Long Tasks will be assigned to the Phantom                                                    |    Number    |     5     |
+| ┗ Phantom Short Tasks             | How many Short Tasks will be assigned to the Phantom                                                   |    Number    |     6     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Postman 
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
 __Ability__: Deliver Messages To Other Players <br>
 __Win Condition__: Deliver All Messages & Avoid Getting Voted Out <br>
@@ -3009,14 +3159,38 @@ If the living players do not eject the Postman during this meeting, the Postman 
 | When Target Dies             | Options for what happens when the Postman's target dies    |    Toggle    | Deliver To Body |
 | Override Postman's Tasks     | Options to customize Postman's tasks                       |    Toggle    |       OFF       |
 | ┣ Allow Common Tasks         | Whether the Postman will receive Common Tasks              |    Toggle    |        ON       |
-| ┣ Postman Long Tasks         | How many Long Tasks will be assigned to the Postman        |    Number    |        0        |
-| ┗ Postman Short Tasks        | How many Short Tasks will be assigned to the Postman       |    Number    |        1        |
+| ┣ Postman Long Tasks         | How many Long Tasks will be assigned to the Postman        |    Number    |        5        |
+| ┗ Postman Short Tasks        | How many Short Tasks will be assigned to the Postman       |    Number    |        6        |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Schrodinger's Cat
+
+<img align="right" width="" height="300" src="">
+
+__Faction__: Neutral Passive<br>
+__Base__: Crewmate<br>
+__Ability__: Changes Affiliation When Attacked<br>
+__Win Condition__: Wins With Faction They Convert To<br>
+
+`Originally Developed by Discussions`<br>
+`Idea by The Other Roles: GM Edition`<br>
+
+#### Role Description
+The Schrödinger's Cat changes their affiliation with each attack against them! Win with the faction you convert into, but be careful! Cats only have so many lives!
+
+### Game Options
+|                 Name                   |                                     Description                                 |     Type     | Default | 
+| -------------------------------------- | ------------------------------------------------------------------------------- | :----------: | :-----: |
+| Schrodinger's Cat                      | The probability of the Schrodinger's Cat appearing                              |  Percentage  |    0%   |
+| Maximum                                | How many Schrodinger's Cats should spawn                                        |    Number    |    1    |
+| Number of Lives                        | How many attacks the Schrodinger's Cat can receive before death                 |    Number    |    9    | 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Survivor 
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: Can Protect Self From Attacks<br>
 __Win Condition__:Survive Until The End To Win<br>
@@ -3042,7 +3216,7 @@ Survive to the end to win. Use your Pet button to protect yourself from attacks 
 
 Create and original idea by 空き瓶/EmptyBottle<br>
 
-__Team__: Neutral<br>
+__Faction__: Neutral<br>
 __Base__: Engineer<br>
 Victory Conditions : Finish All Tasks, Then Die<br>
 
@@ -3050,7 +3224,7 @@ The Terrorist are the Neutral Role where they win the game alone if they die wit
 Any cause of death is acceptable except vote.<br>
 If they die before completing their tasks, or if they survive at the game end, they lose.<br>
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: 
 __Ability__:
 __Win Condition__:
@@ -3069,15 +3243,15 @@ Finish all tasks and get killed to win. The Terrorist can also be voted out to w
 | Can Win By Suicide           | Whether the Terrorist can win by suicide or not        |    Toggle    |    OFF    |
 | Override Terrorist's Tasks   | Options to customize Terrorist's tasks                 |    Toggle    |    OFF    |
 | ┣ Allow Common Tasks         | Whether the Terrorist will receive Common tasks        |    ON/OFF    |    ON     |
-| ┣ Terrorist Long Tasks       | How many Long Tasks will be assigned to the Terrorist  |    Number    |     0     |
-| ┗ Terroris Short Tasks       | How many Short Tasks will be assigned to the Terrorist |    Number    |     1     |
+| ┣ Terrorist Long Tasks       | How many Long Tasks will be assigned to the Terrorist  |    Number    |     5     |
+| ┗ Terroris Short Tasks       | How many Short Tasks will be assigned to the Terrorist |    Number    |     6     |
 | Can Win By Exile             | Whether the Terrorist can win by Exile                 |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Vulture
 
-__Team__: Neutral Passive<br>
+__Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: Can Make Bodies Unreportable<br>
 __Win Condition__: Eat Bodies To Win<br>
@@ -3094,15 +3268,13 @@ The Vulture wins when they've eaten a set amount of bodies, and they may also ha
 | ------------------------------- | ---------------------------------------------------------- | :----------: | :-------: |
 | Vulture                         | The probability of the Vulture appearing                   |  Percentage  |    0%     |
 | Maximum                         | How many Vulture should spawn                              |    Number    |     1     |
-| Required Bodies                 | Amount of bodies needed for solo win                       |    Number    |     1     |
+| Required Bodies                 | Amount of bodies needed for solo win                       |    Number    |     3     |
 | Has Impostor Vision             | Whether the Vulture has Impostor vision                    |    Toggle    |    ON     |
 | Can Switch Between Eat & Report | Whether the Vulture has the ability to report dead bodies  |    Toggle    |    ON     |
 | Can Use Vents                   | Whether the Vulture can use vents                          |    Toggle    |    ON     |
 | Has Arrows to Bodies            | Whether the Vulture has arrows to dead bodies              |    Toggle    |    ON     |
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 # Modifiers
 
@@ -3173,7 +3345,8 @@ Players with the deadly modifier have their kill cooldown reduced by a set perce
 | ---------------------------- | ------------------------------------------------------------------------- | :----------: | :-------: |
 | Deadly                       | The probability of the Deadly modifier appearing                          |  Percentage  |    0%     |
 | Maximum                      | How many Deadly modifiers should spawn                                    |    Number    |     1     |
-| Cooldown Reduction           | The percentage the player's kill cooldown is reduced                      |  Percentage  |    0%     |
+| Cooldown Reduction           | The percentage the player's kill cooldown is reduced                      |  Percentage  |    25%    |
+| Assignable to Non-Killing    | Whether Deadly can be assigned to Non-Killing roles                       |    Toggle    |    ON     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3225,7 +3398,7 @@ Players with the Escalation modifier gain a static speed boost per kill.
 | Maximum                      | How many Flash modifiers should spawn                                     |    Number    |     1     |
 | Speed Increase               | The increase in speed granted to the Flash                                |    Number    |   0.25    |
 | Escalation                   | The probability of the Escalation modifier appearing                      |  Percentage  |    0%     |
-| ┗ Additional Speed Per Kill  | The increase in speed granted per kill                                    |    Number    |   0.1     |
+| ┗ Additional Speed Per Kill  | The increase in speed granted per kill                                    |    Number    |   0.4     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -3271,15 +3444,11 @@ __Indicator__: Pink ♥<br>
 #### Role Description
 During the first meeting of the game, the Romantic MUST vote a player to become their partner (otherwise they'll die). Once a partner has been chosen, the Romantic can use their Pet Button to temporarily grant a shield to their partner. The Romantic wins if their partner wins (and is alive) at the end of the game. If their partner dies, the Romantic will transform into either the Vengeful Romantic or the Ruthless Romantic.
 
-### Vengeful Romantic
-
-#### Role Description
+#### Vengeful Romantic Role Description
 The Vengeful Romantic had their love stripped away from them. Their goal is to now hunt down their partner's killer and to kill them. The Vengeful Romantic may use either their Pet Button or Kill Button to kill another player. But, if they target an innocent player, the Vengeful Romantic will die from misfire. After successfully avenging their partner, the Vengeful Romantic regains its normal win 
 
-### Ruthless Romantic
-
-#### Role Description
-The ruthless romantic doesn't care about anything anymore, and just wants everyone dead. They act as a normal neutral killer, winning by themselves. If player of this role was originally a crewmate, the pet button functions as their kill button with a `CD: Xs` indicator for kill cooldown.
+#### Ruthless Romantic Role Description
+The Ruthless Romantic doesn't care about anything anymore, and just wants everyone dead. They act as a normal neutral killer, winning by themselves. If player of this role was originally a crewmate, the pet button functions as their kill button with a `CD: Xs` indicator for kill cooldown.
 
 ### Game Options
 |            Name              |                                          Description                                        |     Type     |  Default  | 
@@ -3400,6 +3569,8 @@ Gives even more tasks to a player.
 | ---------------------------- | ------------------------------------------------------------------------- | :----------: | :-------: |
 | Workhorse                    | The probability of the Workhorse  modifier appearing                      |  Percentage  |    0%     |
 | Maximum                      | How many Workhorse modifiers should spawn                                 |    Number    |     1     |
+| Restricted to Crewmates      | Whether the Workhorse modifier is restricted to Crewmates                 |    Toggle    |    OFF    |
+| Additional Short Tasks       | How many additional Short Tasks the Workhorse receives                    |    Number    |     1     |
+| Additional Long Tasks        | How many additional Long Tasks the Workhorse receives                     |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
