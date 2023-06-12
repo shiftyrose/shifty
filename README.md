@@ -1394,7 +1394,7 @@ Act sus. Take suspicion off of Impostors by pretending to fix sabotages, venting
 ### Game Options
 
 |     Name     |              Description                 |     Type     |  Default  | 
-| ------------ | --------------------------- ------------ | :----------: | :-------: |
+| ------------ | ---------------------------------------- | :----------: | :-------: |
 | Madmate      | The probability of the Madmate appearing |  Percentage  |    0%     |
 | Maximum      | How many Madmates should spawn           |    Number    |     1     |
 | Can Sabotage | Whether the Madmate can sabotage         |    Toggle    |    ON     |
