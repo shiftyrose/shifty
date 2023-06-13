@@ -183,7 +183,7 @@ Project Lotus has a number of built-in tags. These tags will automatically be di
 | meeting-subsequent | The template to show during all meetings after the first.                                                                                                                                   |
 | meeting-start      | The template to show during each meeting.                                                                                                                                                   |
 
-### Usable Variables
+#### Usable Variables
 
 This table serves as a quick reference for the different variables that can be utilized in templates.
 
