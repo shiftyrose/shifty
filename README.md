@@ -100,7 +100,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ## Chat Commands
 
-#### Host Only
+### Host Only
 
 | Function                         | Command                    | Aliases     |
 | -------------------------------- | -------------------------- | ----------- |
