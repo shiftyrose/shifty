@@ -711,9 +711,7 @@ __Indicator/Symbols__: "BLACKMAILED" Text Over Targeted Player<br>
 
 #### Role Description
 
-Shapeshift into a player to blackmail them.<br>
-During meeting, the blackmailed player will have text displaying "BLACKMAILED" to all players.<br>
-If the player writes a certain number of messages (determined by host) while blackmailed, they will be executed.<br>
+Shapeshift into a player to blackmail them. During meeting, the blackmailed player will have text displaying "BLACKMAILED" to all players. If the player writes a certain number of messages (determined by host) while blackmailed, they will be executed.
 
 ### Game Options
 |               Name                    |                                  Description                              |     Type     |  Default  | 
@@ -738,9 +736,7 @@ __Indicatior/Symbols__: Text Indicator Displaying Current Target<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description 
-Collect Bounty from Target players (marked by black name).<br>
-If the Bounty Hunter kills their target, their kill cooldown is significantly reduced for their next kill.<br>
-The time it takes for the target to change, the kill cooldown after killing their target, and kill cooldown after killing a non-target are predetermined by host in settings.<br>
+Collect Bounty from Target players (marked by black name). If the Bounty Hunter kills their target, their kill cooldown is significantly reduced for their next kill. The time it takes for the target to change, the kill cooldown after killing their target, and kill cooldown after killing a non-target are predetermined by host in settings.<br>
 
 ### Game Options
 |               Name                    |                                  Description                               |     Type     |  Default  | 
@@ -766,8 +762,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
-Shapeshift into a player and cause every living player to shapeshift into the chosen player for a short amount of time.<br>
-When the duration is over, or if a meeting is called, players return to their normal form.<br>
+Shapeshift into a player and cause every living player to shapeshift into the chosen player for a short amount of time. When the duration is over, or if a meeting is called, players return to their normal form.<br>
 
 ### Game Options
 |       Name           |                  Description                        |     Type     |  Default  | 
@@ -793,10 +788,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by yoclobo (Manipulator)`<br>
 
 #### Role Description
-Reporting a body killed by the Conman will sabotage the meeting.<br>
-The Anonymous Voting option may be toggled (if you had this on, it is now off and vice versa) & Voting/Discussion Time will be decreased (amount predetermined by host in settings).<br>
-The Conman’s voting and discussion time overwrites the ones of TimeThief.<br>
-The Conman also has options for a separate Kill-Cooldown.<br>
+Reporting a body killed by the Conman will sabotage the meeting. The Anonymous Voting option may be toggled (if you had this on, it is now off and vice versa) & Voting/Discussion Time will be decreased (amount predetermined by host in settings). The Conman’s voting and discussion time overwrites the ones of TimeThief. The Conman also has options for a separate Kill-Cooldown.<br>
 
 ### Game Options
 |            Name           |                      Description                   |     Type     | Default | 
@@ -825,8 +817,7 @@ __Indicatior/Symbols__: Text Indicator Displaying Current Mode<br>
 `Idea by Det`<br>
 
 #### Role Description
-Use the Pet button to alternate between Role-Blocking and Killing. <br>
-Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshifting, and venting.<br>
+Use the Pet button to alternate between Role-Blocking and Killing. Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshifting, and venting.<br>
 
 ### Game Options
 |        Name             |                      Description                  |     Type     |    Default    | 
@@ -851,9 +842,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Discussions`<br>
 
 #### Role Description
-The Creeper's only job is to cause as much devasation as possible.<br>
-Use either your Pet or Shapeshift button to kill yourself and any player within a radius.<br>
-You might find yourself lucky and be protected from your bombs with a shield (ex. medic shield) and live to see another day. If the option is off however, not even the medic shield will protect you.<br>
+The Creeper's only job is to cause as much devasation as possible. Use either your Pet or Shapeshift button to kill yourself and any player within a radius. You might find yourself lucky and be protected from your bombs with a shield (ex. medic shield) and live to see another day. If the option is off however, not even the medic shield will protect you.<br>
 
 ### Game Options
 |        Name        |                               Description                               |     Type     |    Default    | 
@@ -905,8 +894,7 @@ __Indicatior/Symbols__: Text Cooldown Displaying Time Until Able To Escape & Unt
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
-First use Pet button to mark a location. Then, after a set cooldown, you can re-use the Pet button to teleport back to your marked location.<br> 
-This will then put the mark ability back on cooldown.<br>
+First use Pet button to mark a location. Then, after a set cooldown, you can re-use the Pet button to teleport back to your marked location. This will then put the mark ability back on cooldown.<br>
 
 ### Game Options
 |           Name           |                      Description                      |     Type     |  Default  | 
@@ -932,11 +920,10 @@ __Indicatior/Symbols__: None<br>
 `Idea by こう。`<br>
 
 #### Role Description
-Use Pet button to plant a fireworks (i.e. bombs) around the map until Max Firework Count has been reached.<br>
-Make sure you have enough room for the pet animation.<br>
-Shapeshift to detonate all of the Fireworks, killing everyone within radius of each one.<br>
+Use Pet button to plant a fireworks (i.e. bombs) around the map until Max Firework Count has been reached. Make sure you have enough room for the pet animation. Shapeshift to detonate all of the Fireworks, killing everyone within radius of each one. <br><br>
+
 Note: The explosion goes through walls.<br>
-The FireWorker can aslo kill normally between placing fireworks.<br>
+The FireWorker can also kill normally between placing fireworks.<br>
 
 ### Game Options
 |              Name               |                                                Description                                                |      Type      |  Default   | 
@@ -966,9 +953,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Discussions`<br>
 
 #### Role Description
-The Freezer can freeze a player in place by shapeshifting into them.<br>
-The player will be frozen until the Freezer unshapeshifts.<br>
-Freezer may kill normally shifted or unshifted.<br>
+The Freezer can freeze a player in place by shapeshifting into them. The player will be frozen until the Freezer unshapeshifts. Freezer may kill normally shifted or unshifted.<br>
 
 ### Game Options
 |      Name       |                    Description                  |     Type     |  Default  | 
@@ -994,9 +979,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-Using the Pet button sets off a bomb, blinding players in a fixed-distance.<br>
-It may also blind allied-Impostors, based on host's settings.<br>
-During this time The Grenadier may kill undetected.<br>
+Using the Pet button sets off a bomb, blinding players in a fixed-distance. It may also blind allied-Impostors, based on host's settings. During this time The Grenadier may kill undetected.<br>
 
 ### Game Options
 |        Name         |                     Description                        |     Type     |  Default  | 
@@ -1025,8 +1008,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by paigecourtney "CC"`<br>
 
 #### Role Description
-The Identity Thief shifts into whoever they kill.<br>
-The disguise lasts until they are ready to kill again, or, optionally, until they kill another player and shift into their next victim.<br>
+The Identity Thief shifts into whoever they kill. The disguise lasts until they are ready to kill again, or, optionally, until they kill another player and shift into their next victim.<br>
 
 ### Game Options  
 |          Name           |                            Description                          |     Type     |  Default  | 
@@ -1049,10 +1031,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Town of Us Reactivated`
 
 #### Role Description
-Choose between killing and cleaning at the end of kill cooldown.<br>
-Once the choice is made, the Janitor's Kill Button is reset.<br>
-Use Report button to clean dead bodies, making them unreportable.<br>
-Use Kill button to kill players<br>
+Choose between killing and cleaning at the end of kill cooldown. Once the choice is made, the Janitor's Kill Button is reset. Use Report button to clean dead bodies, making them unreportable. Use Kill button to kill players<br>
 
 ### Game Options (incomplete)
 |            Name            |                    Description                      |     Type     |  Default  | 
@@ -1115,8 +1094,7 @@ __Indicatior/Symbols__: If Enabled, Your Name Will be Purple During Your Ability
 `Idea by Kihi`<br>
 
 #### Role Description
-Mare gains special powers during specific sabotages (determined by host). These powers may include: Increased Speed and Decreased Kill-Cooldown.<br>
-Be careful! If enabled in settings, your name will appear Purple while your ability is active.
+Mare gains special powers during specific sabotages (determined by host). These powers may include: Increased Speed and Decreased Kill-Cooldown. Be careful! If enabled in settings, your name will appear Purple while your ability is active.<br>
 
 ### Game Options
 |               Name             |                                 Description                                    |    Type    |    Default    |
@@ -1147,8 +1125,7 @@ __Ability__: Sabotage Meetings<br>
 __Indicatior/Symbols__: "Manipulated!" text on manipulated players<br>
 
 #### Role Description
-Mastermind marks a player with their Kill button. After a delay, that player will gain text saying they've been Manipulated, and a countdown will begin.<br> 
-That player must kill another player before their countdown ends (by using either Pet or Kill), otherwise they suicide.
+Mastermind marks a player with their Kill button. After a delay, that player will gain text saying they've been Manipulated, and a countdown will begin. That player must kill another player before their countdown ends (by using either Pet or Kill), otherwise they suicide.
 
 ### Game Options
 |              Name             |                   Description                    |     Type     |  Default  |
@@ -1177,9 +1154,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
-Use the Pet button to teleport to the last vent used.<br>
-Make sure you have enough room for the pet animation.<br>
-Kill, vent, and sabotage like any other impostor role.<br>
+Use the Pet button to teleport to the last vent used. Make sure you have enough room for the pet animation. Kill, vent, and sabotage like any other impostor role.<br>
 
 ### Game Options
 |           Name         |                   Description                     |     Type     |  Default  | 
@@ -1202,8 +1177,7 @@ __Indicatior/Symbols__: None<br>
 `Originally Developed by: Innersloth`<br>
 
 #### Role Description 
-The Morphling can shapeshift themselves into any player that was still alive at the end of the last meeting.<br>
-It is a renamed Shapeshifter role in vanilla Among Us.<br>
+The Morphling can shapeshift themselves into any player that was still alive at the end of the last meeting. It is a renamed Shapeshifter role in vanilla Among Us.<br>
 
 ### Game Options
 |         Name        |                     Description                       |     Type     |  Default  | 
@@ -1228,20 +1202,13 @@ __Indicatior/Symbols__: Text indicator Displaying Current Mode<br>
 `Idea by The Other Roles`<br>
 
 #### Ninja Ability Activation: Shapeshift Button
-Use Kill Button while shifted to mark target.<br>
-When the Ninja unshifts, they will be teleported to their target and complete the kill.<br>
-Use Kill Button while unshifted to kill normally.<br>
-Shapeshift duration and cooldown is infinite.<br>
+Use Kill Button while shifted to mark target. When the Ninja unshifts, they will be teleported to their target and complete the kill. Use Kill Button while unshifted to kill normally. Shapeshift duration and cooldown is infinite.<br>
 
 #### Ninja Ability Activation: Pet Button
-Use Pet Button to mark target.<br>
-Use Pet Button again to teleport to the target and execute the kill.<br>
-Make sure you have enough room for the pet animation.<br>
-Use Kill Button like normal if you haven't used the Pet Button to mark a target yet.<br>
+Use Pet Button to mark target. Use Pet Button again to teleport to the target and execute the kill. Make sure you have enough room for the pet animation. Use Kill Button like normal if you haven't used the Pet Button to mark a target yet.<br>
 
 #### Players Teleport to Ninja
-With this option the Ninja no longer teleports to the target.<br>
-Instead, the target is teleported to the Ninja where the kill will be executed.<br>
+With this option the Ninja no longer teleports to the target. Instead, the target is teleported to the Ninja where the kill will be executed.<br>
 
 
 ### Game Options 
@@ -1267,8 +1234,7 @@ __Indicatior/Symbols__: Counter Displaying Current Vote Increase<br>
 `Idea by Discussions`<br>
 
 #### Role Description
-The Pickpocket is an Impostor who steals the votes of players they kill.<br>
-These votes stack up, which can make the Pickpocket very powerful.<br>
+The Pickpocket is an Impostor who steals the votes of players they kill. These votes stack up, which can make the Pickpocket very powerful.<br>
 
 ### Game Options
 |             Name            |                         Description                          |    Type    |  Default   | 
@@ -1296,10 +1262,7 @@ __Indicatior/Symbols__: "◆" Indicator On Puppeted Players<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-The Puppeteer can control a player and force them to kill the next non-impostor they come near.<br>
-Use the Kill button next to a player to gain control over them.<br>
-If the killed player has an ability that activates upon death, the effect will land on the controlled player instead of the Puppeteer.<br>
-It is not possible for puppeteer to perform a normal kill.<br>
+The Puppeteer can control a player and force them to kill the next non-impostor they come near. Use the Kill button next to a player to gain control over them. If the killed player has an ability that activates upon death, the effect will land on the controlled player instead of the Puppeteer. It is not possible for puppeteer to perform a normal kill.<br>
 
 ### Game Options 
 |   Name    |                Description                 |    Type    |  Default   | 
@@ -1348,15 +1311,10 @@ __Indicatior/Symbols__: None<br>
 `Idea by Nebula on the Ship`<br>
 
 #### Normal Sniper Mode
-Use Shapeshift button to shift into another player.<br>
-Take 1-2 steps in the direction you want to fire.<br>
-Unshift to shoot. A bullet will travel in that direction until it kills a player.<br>
-When out of bullets, Sniper turns to normal impostor role.<br>
+Use Shapeshift button to shift into another player. Take 1-2 steps in the direction you want to fire. Unshift to shoot. A bullet will travel in that direction until it kills a player. When out of bullets, Sniper turns to normal impostor role.<br>
 
 #### Load Bullet Mode
-Use Pet Button to load a bullet and get ready to shoot.<br>
-Make sure you have enough room to use your pet button.<br>
-To shoot, the Sniper must take a few steps in the direction they aim to shoot, and then shapeshift.<br>
+Use Pet Button to load a bullet and get ready to shoot. Make sure you have enough room to use your pet button. To shoot, the Sniper must take a few steps in the direction they aim to shoot, and then shapeshift.<br>
 
 ### Game Options
 |          Name          |                         Description                              |    Type    |      Default       | 
@@ -1390,8 +1348,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
-A normal impostor that can go invisible when entering a vent. While invisible, the Swooper can do all normal things (kill, sabotage, vent).<br>
-Be careful! Depending on the host's options you may be revealed when killing another player.<br>
+A normal impostor that can go invisible when entering a vent. While invisible, the Swooper can do all normal things (kill, sabotage, vent). Be careful! Depending on the host's options you may be revealed when killing another player.<br>
 
 ### Game Options 
 |               Name            |                         Description                              |    Type    | Default | 
@@ -1419,8 +1376,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by みぃー`<br>
 
 #### Role Description
-Killing a player decreases meeting/voting time.<br>
-Option: When TimeThief is expelled or killed, time is restored back to normal.<br>
+Killing a player decreases meeting/voting time. Option: When TimeThief is expelled or killed, time is restored back to normal.<br>
 
 ### Game Options
 |              Name              |                              Description                                     |    Type    |  Default   | 
@@ -1446,9 +1402,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-The Vampire bites it's targets, resulting in a delayed kill.<br>
-The bitten player will die after several seconds or when the next meeting is called.<br>
-If the vampire bites [Bait](#Bait), the player will die immediately and a self-report will be forced.<br>
+The Vampire bites it's targets, resulting in a delayed kill. The bitten player will die after several seconds or when the next meeting is called. If the vampire bites [Bait](#Bait), the player will die immediately and a self-report will be forced.<br>
 
 ### Vampiress 
 
@@ -1463,8 +1417,7 @@ __Indicatior/Symbols__: Text Indicator Showing Current Mode<br>
 `Idea by shiftyrose`<br>
 
 #### Vampiress Role Description 
-The Vampiress works exactly like the [Vampire](#vampire) with one exception, it can also make direct kills.<br>
-Use the Pet Button to switch between Bites and Kills.<br>
+The Vampiress works exactly like the [Vampire](#vampire) with one exception, it can also make direct kills. Use the Pet Button to switch between Bites and Kills.<br>
 
 ### Game Options
 |      Name       |                 Description                 |    Type    |  Default   | 
@@ -1493,10 +1446,7 @@ __Indicatior/Symbols__: None<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-Use the Kill Button to curse a Player.<br>
-The next time the Warlock shapeshifts, the cursed player will kill the nearest person.<br>
-The Warlock may kill normally while shapeshifted.<br>
-Be Careful! Cursed players can kill Impostors (and even the Warlock themself!).<br>
+Use the Kill Button to curse a Player. The next time the Warlock shapeshifts, the cursed player will kill the nearest person. The Warlock may kill normally while shapeshifted. Be Careful! Cursed players can kill Impostors (and even the Warlock themself!).<br>
 
 ### Game Options
 |              Name               |                Description               |    Type    |  Default   | 
@@ -1521,11 +1471,7 @@ __Indicatior/Symbols__: Cross On Cursed Players <br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-Alternate between curses and killing by utilizing the Kill Button.<br>
-Players who are cursed by the Witch will be seen with a cross during the meeting.<Br>
-If the Witch is not voted off during this meeting, the cursed player dies.<br>
-Regular kill self-reports [Bait](#Bait).<br>
-Curse does not self-report [Bait](#Bait).<br>
+Alternate between curses and killing by utilizing the Kill Button. Players who are cursed by the Witch will be seen with a cross during the meeting. If the Witch is not voted off during this meeting, the cursed player dies. Regular kill self-reports [Bait](#Bait). Curse does not self-report [Bait](#Bait).<br>
 
 ### Game Options
 |           Name            |                           Description                       |    Type    |  Default   | 
@@ -1550,9 +1496,7 @@ __Indicatior/Symbols__: None <br>
 `Idea by Discussions`<br>
 
 #### Role Description
-The Yin Yanger is an Impostor with the ability to make two crewmates kill each other.<br>
-Use the Kill button to tag two players. When they come within kill distance, they will kill each other.<br>
-Yin Yanger can kill normally once targets have been set.<br>
+The Yin Yanger is an Impostor with the ability to make two crewmates kill each other. Use the Kill button to tag two players. When they come within kill distance, they will kill each other. Yin Yanger can kill normally once targets have been set.<br>
 
 ### Game Options
 |        Name       |                  Description                 |    Type    |  Default   | 
@@ -1826,7 +1770,7 @@ __Indicatior/Symbols__: Counter Showing Remaining Amount Of Vents They Can Trap<
 `Idea By: Mek`<br>
 
 #### Role Description
-Use the Vent button to plant a bomb in a vent. This will kill the next player who uses that vent.<br>
+Use the Vent button to plant a bomb in a vent. This will kill the next player who uses that vent. 
 Bombs last for one round only. Vents will be reset at each meeting.<br><br>
 Be careful! The Bastion can bomb themself by using a vent they've already planted a bomb in.<br>
 
@@ -1853,9 +1797,7 @@ __Indicatior/Symbols__: None<br>
 `Idea By: Det`<br>
 
 #### Role Description
-The first player voted becomes the Bodyguard’s Target. This will not count as a vote.<br>
-Whenever the Bodyguard’s Target is attacked, the attacker is killed alongside the Bodyguard.<br>
-The Bodyguard may skip freely before their target is locked in and vote freely after their target has been locked in.<br>
+The first player voted becomes the Bodyguard’s Target. This will not count as a vote. Whenever the Bodyguard’s Target is attacked, the attacker is killed alongside the Bodyguard. The Bodyguard may skip freely before their target is locked in and vote freely after their target has been locked in.<br>
 
 ### Game Options
 |                 Name                   |                                     Description                                 |     Type     |   Default   | 
@@ -1931,9 +1873,7 @@ __Indicatior/Symbols__: None<br>
 `Idea By: Det`<br>
 
 #### Role Description
-The Crusader works like a living Guardian Angel from Vanilla Amoung Us.<br>
-Use the Kill button to select a target.<br>
-This target will be protected from attacks.<br>
+The Crusader works like a living Guardian Angel from Vanilla Amoung Us. Use the Kill button to select a target. This target will be protected from attacks.<br>
 
 ### Game Options
 |                 Name                    |                                     Description                                 |     Type     | Default | 
@@ -1958,9 +1898,7 @@ __Indicatior/Symbols__: None<br>
 `Idea By: Mek`<br>
 
 #### Role Description
-When the Demolitionist is killed, they bomb the ground, giving the killer a few seconds to find a vent.<br>
-If the killer does not vent in time, they are bombed.<br>
-The killer is notified that they have killed the demolitionist by their name/role.<br>
+When the Demolitionist is killed, they bomb the ground, giving the killer a few seconds to find a vent. If the killer does not vent in time, they are bombed. The killer is notified that they have killed the demolitionist by their name/role.<br>
 
 ### Game Options
 |     Name      |                 Description                    |     Type     |  Default  | 
@@ -2013,8 +1951,7 @@ __Indicatior/Symbols__: Cause Of Death Displayed In Meetings<br>
 `Idea By: Nebula on the Ship`<br>
 
 #### Role Description
-The Doctor has a portable vitals panel just like the vanilla role, Scientist. Check this regularly to get an approximated time of death.<br>
-While in meeting (and by closing the chat), the Doctor can see a player’s cause of death in parentheses next to their name.<br>
+The Doctor has a portable vitals panel just like the vanilla role, Scientist. Check this regularly to get an approximated time of death. While in meeting (and by closing the chat), the Doctor can see a player’s cause of death in parentheses next to their name.<br>
 
 ### Game Options
 |          Name           |                    Description                         |     Type     |  Default  | 
@@ -2113,8 +2050,7 @@ __Indicatior/Symbols__: Player's Name Changes Based On "Good" or "Bad"<br>
 `Idea By: Town of Us Reactivated`<br>
 
 #### Role Description
-Use the Kill button to investigate if the player is good or bad. In general, red is bad & green is good.<br>
-Be wary of how 'bad' the player with the red name is. The Sheriff or Veteran can end up with a red name in some lobbies!<br>
+Use the Kill button to investigate if the player is good or bad. In general, red is bad & green is good. Be wary of how 'bad' the player with the red name is. The Sheriff or Veteran can end up with a red name in some lobbies!<br>
 
 __*Red = Bad*__ <br>
  - __Impostors__ (always)<br>
@@ -2192,9 +2128,7 @@ __Indicatior/Symbols__: Counter Showing Number of Pocket Meetings<br>
 `Idea By: The Other Roles`<br>
 
 #### Role Description
-Mayor’s vote is counted multiple times (predetermined by the host in settings).<br>
-Depending on the options, they can call emergency meetings by using the Pet button.<br>
-Additionally, there's an option where Mayor has to reveal before gaining additional votes (reveal by voting yourself)<br>
+Mayor’s vote is counted multiple times (predetermined by the host in settings). Depending on the options, they can call emergency meetings by using the Pet button. Additionally, there's an option where Mayor has to reveal before gaining additional votes (reveal by voting yourself)<br>
 
 ### Game Options
 |         Name           |                       Description                       |     Type     |  Default  | 
@@ -2220,9 +2154,7 @@ __Indicatior/Symbols__: None<br>
 `Originally Developed By: Innersloth`<br>
 
 #### Role Description
-The Mechanic can use vents to travel around the map.<br>
-They are restricted by the Vent Use Cooldown & Max Time In Vents Options used for vanilla Engineer.<br>
-The Mechanic is a renamed Engineer from vanilla Among Us.<br>
+The Mechanic can use vents to travel around the map. They are restricted by the Vent Use Cooldown & Max Time In Vents Options used for vanilla Engineer. The Mechanic is a renamed Engineer from vanilla Among Us.<br>
 
 ### Game Options
 |           Name             |                           Description                       |     Type     |  Default  | 
@@ -2272,9 +2204,7 @@ __Indicatior/Symbols__: Medium <br>
 
 #### Role Description
 Use the Report button to report a body.<br>
-In meeting chat, the Medium will receive a message revealing the role of the reported player's killer.<br>
-Medium can only see killer's role if they reported the body themselves.<br>
-Depending on host's settings, they may also see an arrow pointing to bodies.<br>
+In meeting chat, the Medium will receive a message revealing the role of the reported player's killer. Medium can only see killer's role if they reported the body themselves. Depending on host's settings, they may also see an arrow pointing to bodies.<br>
 
 ### Game Options 
 |             Name               |                           Description                       |     Type     |  Default  | 
@@ -2322,7 +2252,6 @@ __Indicatior/Symbols__: None<br>
 
 #### Role Description
 Finish tasks to gain vision. Depending on the host's options, you may gain a small vision boost upon completing each task, or, a large vision boost when all tasks have been complete.<br>
-Additionally, if enabled, you'll be able to see even during sabotages.<br>
 
 ### Game Options
 |               Name                       |                              Description                                            |     Type     |  Default  | 
@@ -2351,10 +2280,7 @@ __Indicatior/Symbols__: After the Oracle dies, the targeted player will have the
 `Idea By: Det`<br>
 
 #### Role Description
-The first player voted by the Oracle becomes the Oracle’s Target. This will not count as a vote.<br>
-When the Oracle dies, the Target’s role is revealed to everyone.<br>
-The Oracle may skip freely before their target is locked in and vote freely after their target has been locked in.<br>
-The Oracle can choose to reveal their own role if they wish by voting themselves.<br>
+The first player voted by the Oracle becomes the Oracle’s Target. This will not count as a vote. When the Oracle dies, the Target’s role is revealed to everyone. The Oracle may skip freely before their target is locked in and vote freely after their target has been locked in. The Oracle can choose to reveal their own role if they wish by voting themselves.<br>
 
 ### Game Options
 |   Name  |                     Description                        |     Type     |  Default  | 
@@ -2376,8 +2302,7 @@ __Indicatior/Symbols__: None<br>
 `Originally Developed By: Innersloth`<br>
 
 #### Role Description
-The Physicists have a portable vitals monitor that can be accessed anywhere on the map.<br>
-The Physicist is a renamed Scientist from vanilla Amoung Us.<br>
+The Physicists have a portable vitals monitor that can be accessed anywhere on the map. The Physicist is a renamed Scientist from vanilla Amoung Us.<br>
 
 ### Game Options
 |          Name           |                        Description                        |     Type     |  Default  | 
@@ -2403,8 +2328,7 @@ __Indicatior/Symbols__: None<br>
 `Idea By: Loonie`
 
 #### Role Description
-The Psychic has the ability to see potential evils during a meeting.<br>
-Three players will be highlighted in red, at least one of them is evil. The number of players highlighted can be adjusted by the host.<br>
+The Psychic has the ability to see potential evils during a meeting. Three players will be highlighted in red, at least one of them is evil. The number of players highlighted can be adjusted by the host.<br>
 
 ### Game Options (incomplete)
 |              Name             |                      Description                                  |    Type    |  Default  | 
@@ -2429,9 +2353,7 @@ __Indicatior/Symbols__: None<br>
 `Idea By: 空き瓶/EmptyBottle (SabotageMaster)`
 
 #### Role Description
-Repairman can fast-fix sabotages that typically require two players (e.g. reactor) on their own.<br>
-Lights can be fixed by touching a single lever.<br>
-Opening a door in Polus or The Airship will open all the linked doors.<br>
+Repairman can fast-fix sabotages that typically require two players (e.g. reactor) on their own. Lights can be fixed by touching a single lever. Opening a door in Polus or The Airship will open all the linked doors.<br>
 
 ### Game Options
 |            Name           |                   Description                 |     Type     |  Default  | 
@@ -2464,9 +2386,7 @@ __Indicatior/Symbols__: Counter showing number of bullets<br>
 `Idea From: Woodi-dev`
 
 #### Role Description
-The Sheriff can kill Impostors.<br>
-Be Careful! The Sheriff will misfire (kill themself) if they shoot a crewmate or a neutral not allowed by host.<br>
-Additionally (depending on settings) they may have no tasks.<br>
+The Sheriff can kill Impostors. Be Careful! The Sheriff will misfire (kill themself) if they shoot a crewmate or a neutral not allowed by host. Additionally (depending on settings) they may have no tasks.<br>
 
 ### Game Options
 |           Name           |                           Description                        |         Type        |  Default  | 
@@ -2494,9 +2414,7 @@ __Indicatior/Symbols__: ⚠ indicator when on task threshold<br>
 `Idea From: The Other Roles`<br>
 
 #### Role Description
-The Snitch can see Impostors (has option to see any neutral killers as well) once tasks are complete.<br>
-When the Snitch has a certain number of tasks left (predetermined based on host's settings), they will be revealed to the killers with a ⚠ indicator.<br>
-Depending on the settings, when their tasks are completed, the Snitch may also see arrows pointed in the direction of each player they're tracking.<br>
+The Snitch can see Impostors (has option to see any neutral killers as well) once tasks are complete. When the Snitch has a certain number of tasks left (predetermined based on host's settings), they will be revealed to the killers with a ⚠ indicator. Depending on the settings, when their tasks are completed, the Snitch may also see arrows pointed in the direction of each player they're tracking.<br>
 
 ### Game Options
 |               Name               |                              Description                              |     Type     |  Default  | 
@@ -2603,8 +2521,7 @@ __Indicatior/Symbols__: None<br>
 `Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
-Use the Pet button and cause two random players to switch places.<br>
-Make sure you have enough for the pet animation.<br>
+Use the Pet button and cause two random players to switch places. Make sure you have enough for the pet animation.<br>
 
 ### Game Options
 |        Name          |                           Description                       |     Type     |  Default  | 
@@ -2654,8 +2571,7 @@ __Indicatior/Symbols__: None<br>
 `Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
-When the Veteran is attacked while on Alert, the attack will backfire resulting in the attacker's death. Use the Pet button to activate the Veteran's ability.<br>
-Pro Tip - Make sure you have enough room for the Pet animation!<br>      
+When the Veteran is attacked while on Alert, the attack will backfire resulting in the attacker's death. Use the Pet button to activate the Veteran's ability. Pro Tip - Make sure you have enough room for the Pet animation!<br>      
 
 ### Game Options
 |         Name           |                             Description                             |     Type     |  Default  | 
@@ -2684,9 +2600,7 @@ __Indicatior/Symbols__: None<br>
 `Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
-Vigilante is a nice guesser and part of the crewmate team.<br>
-While in meeting the Vigilante's first vote locks in the player they're going to guess.<br>
-The Vigilante's second guess locks in the role they're guessing.<Br>
+Vigilante is a nice guesser and part of the crewmate team. While in meeting the Vigilante's first vote locks in the player they're going to guess. The Vigilante's second guess locks in the role they're guessing.<Br>
 
 ### Game Options
 |         Name           |                             Description                             |     Type     |  Default  | 
@@ -2711,9 +2625,7 @@ __Win Condition__: Be The Last Man Standing<br>
 `Idea by Aaron Stuart`<br>
 
 #### Role Description
-As an AgiTater your goal is to give your bomb to another player using your kill button.<br>
-Once another player is in range, the bomb will automatically be passed to them.<br>
-This continues until a meeting is called (or optionally after a duration) where the last person holding the bomb is then eliminated.<br>
+As an AgiTater your goal is to give your bomb to another player using your kill button. Once another player is in range, the bomb will automatically be passed to them. This continues until a meeting is called (or optionally after a duration) where the last person holding the bomb is then eliminated.<br>
 
 ### Game Options (incomplete)
 |            Name              |                                    Description                                 |     Type     |  Default  | 
@@ -2744,8 +2656,7 @@ __Win Condition__: Douse & Ignite All Living Players<br>
 `Idea by TOR`
 
 #### Role Description
-Use the Kill button repeatedly next to a player to douse oil onto them. The player is doused when they are marked by a full orange circle.<br>
-To win, douse all players and ignite them by using the Pet button.<br>
+Use the Kill button repeatedly next to a player to douse oil onto them. The player is doused when they are marked by a full orange circle. To win, douse all players and ignite them by using the Pet button.<br>
 
 ### Game Options
 |            Name              |                                        Description                                      |     Type     |  Default  | 
@@ -2822,9 +2733,7 @@ __Win Condition__: Must Be Final Impostor<br>
 `Original Idea by しゅー`<br>
 
 #### Role Description
-Kill as a normal Impostor on the Impostor team . . . but Egoist is a traitor to the Impostors.<br>
-Use Impostor-Seeing attribute to get them voted out (end game) and achieve a solo win.<br>
-Impostors and Egoist cannot kill each other.<br>
+Kill as a normal Impostor on the Impostor team . . . but Egoist is a traitor to the Impostors. Use Impostor-Seeing attribute to get them voted out (end game) and achieve a solo win. Impostors and Egoist cannot kill each other.<br>
 
 ### Game Options
 |            Name              |                          Description                       |     Type     |  Default  | 
@@ -2850,9 +2759,7 @@ __Win Condition__: Stay Alive Until The End To Win<br>
 `Idea by Loonie`<br>
 
 #### Role Description
-Stay Alive! Hitman can win with most teams so long as they are alive at the end of the game.<br>
-Use Kill button on anyone without consequence.<br>
-Host can choose whether Hitman wins with Executioner/Jester.<br>
+Stay Alive! Hitman can win with most teams so long as they are alive at the end of the game. Use Kill button on anyone without consequence. Host can choose whether Hitman wins with Executioner/Jester.<br>
 
 ### Game Options (incomplete)
 |            Name              |                          Description                       |     Type     |  Default  | 
@@ -2965,13 +2872,10 @@ __Ability__: Convert Roles to the Undead<br>
 __Win Condition__: Convert Roles to the Undead<br>
 
 #### Role Description
-The Necromancer is the main recruiter for the Undead faction. The first person it kills will become a Deathknight.<br>
-With the help of the Deathknight, they must work together to convert others to the Undead.<br>
-If the Necromancer were to die, The Deathknight would turn into Necromancer.<br>
+The Necromancer is the main recruiter for the Undead faction. The first person it kills will become a Deathknight. With the help of the Deathknight, they must work together to convert others to the Undead. If the Necromancer were to die, The Deathknight would turn into Necromancer.<br>
 
 #### Deathknight Role Description
-The Deathknight must help the Necromancer convert players to the Undead. By using your pet button by someone who the Necromancer had used their kill button on, they will be converted.<br>
-There can only be one Deathknight at a time, and if the Necromancer dies, the Deathknight will be the new Necromancer.<br>
+The Deathknight must help the Necromancer convert players to the Undead. By using your pet button by someone who the Necromancer had used their kill button on, they will be converted. There can only be one Deathknight at a time, and if the Necromancer dies, the Deathknight will be the new Necromancer.<br>
 
 ### Game Options 
 |             Name               |                                   Description                                 |     Type     |    Default    | 
@@ -2998,9 +2902,7 @@ __Ability__: Curse Players<br>
 __Win Condition__: Curse & Kill Everyone & Be Last Player Alive<br>
 
 #### Role Description
-The Occultist's Kill/Curse Button alternates between cursing and killing players.<br>
-Players will who are cursed by the Occultist will be seen with a cross during the meeting. If the Occultist is not voted off during this meeting, the cursed player dies.<br>
-Regular kill self-reports Bait.\nSpell does not self-report Bait.<br>
+The Occultist's Kill/Curse Button alternates between cursing and killing players. Players will who are cursed by the Occultist will be seen with a cross during the meeting. If the Occultist is not voted off during this meeting, the cursed player dies. Regular kill self-reports Bait.\nSpell does not self-report Bait.<br>
 
 ### Game Options
 |            Name              |                          Description                       |     Type     |  Default  | 
@@ -3140,7 +3042,7 @@ __Win Condition__: Be The Last Player Alive<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-Use Pet button to begin a rampage and kill with a shorter Kill Cooldown.<br>
+Use Pet button to begin a rampage and kill with a shorter Kill Cooldown.<br><br>
 NOTE: Werewolf can only kill during rampage!<br>
 
 ### Game Options
@@ -3225,9 +3127,7 @@ __Win Condition__: Win With Their Target <br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description 
-The Archangel’s Target is marked by a light blue diamond next to their name.<br>
-Vent to temporarily protect your target from getting killed.<br>
-If they win, you win.<br>				
+The Archangel’s Target is marked by a light blue diamond next to their name. Vent to temporarily protect your target from getting killed. If they win, you win.<br>				
 
 ### Game Options
 |                Name                 |                              Description                          |     Type     |  Default  | 
@@ -3279,9 +3179,7 @@ __Win Condition__: Get Target Voted Off To Win<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-Executioner’s Target is marked with a black name & win if their target is voted out.<br>
-If the target dies before being voted out, the Executioner changes their Role and becomes Crewmate, Jester, or Opportunist according to a game option.<br>
-If the target is the Jester, the Executioner can be an additional winner.
+Executioner’s Target is marked with a black name & win if their target is voted out. If the target dies before being voted out, the Executioner changes their Role and becomes Crewmate, Jester, or Opportunist according to a game option. If the target is the Jester, the Executioner can be an additional winner.
 
 ### Game Options
 |            Name              |                             Description                            |     Type     |  Default  | 
@@ -3307,9 +3205,7 @@ __Win Condition__: Fix Sabotages to Win<br>
 `Idea by The Other Roles`<br>
 
 #### Role Description
-As a Hacker, your goal is earn a number of points by fixing sabotages.<br>
-Has powers of Sabotage Master. Each sabotage fixed earns you one point.<br>
-Hacker can be killed by Sheriff.<br>
+As a Hacker, your goal is earn a number of points by fixing sabotages. Has powers of Sabotage Master. Each sabotage fixed earns you one point. Hacker can be killed by Sheriff.<br>
 
 ### Game Options (incomplete)
 |            Name              |                          Description                       |     Type     |  Default  | 
@@ -3343,8 +3239,7 @@ __Win Condition__: Get Voted Off<br>
 `Idea by libhalt`
 
 #### Role Description
-Jester gets a solo win if they can be voted out.<br>
-Troll players in meetings, act sus in game.<br>
+Jester gets a solo win if they can be voted out. Troll players in meetings, act sus in game.<br>
 
 ### Game Options
 |                  Name                  |                       Description                      |     Type     |  Default  | 
@@ -3394,9 +3289,7 @@ __Win Condition__: Complete Tasks To Win <br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-The Phantom cannot die until a set number of tasks (predetermined by host in settings) have been completed.<br>
-When they are on their final tasks, everyone gets an arrow pointing straight toward them.<br>
-Kill the Phantom before they finish tasks to stop them.<br>
+The Phantom cannot die until a set number of tasks (predetermined by host in settings) have been completed. When they are on their final tasks, everyone gets an arrow pointing straight toward them. Kill the Phantom before they finish tasks to stop them.<br>
 
 ### Game Options (incomplete)
 |               Name                |                                                 Description                                            |     Type     |  Default  | 
@@ -3426,11 +3319,7 @@ __Win Condition__: Deliver All Messages & Avoid Getting Voted Out <br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description (incomplete)
-Complete tasks to receive Target information (arrows pointing to Target is an option for this role).<br>
-Once Target is obtained (indicated by black name) Postman must deliver their message (touch the Target).<br>
-Complete another task to get a new Target. Doing this before the last target's mail is delivered, results in suicide.<br>
-The Postman will be revealed during the first meeting after they have completed deliveries to all living players.<br>
-If the living players do not eject the Postman during this meeting, the Postman wins.<br>
+Complete tasks to receive Target information (arrows pointing to Target is an option for this role). Once Target is obtained (indicated by black name) Postman must deliver their message (touch the Target). Complete another task to get a new Target. Doing this before the last target's mail is delivered, results in suicide. The Postman will be revealed during the first meeting after they have completed deliveries to all living players. If the living players do not eject the Postman during this meeting, the Postman wins.<br>
 
 ### Game Options (incomplete)
 |            Name              |                          Description                       |     Type     |     Default     | 
@@ -3538,8 +3427,7 @@ __Win Condition__: Eat Bodies To Win<br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-Use the Report button to eat dead bodies and make them unreportable. The vulture can switch between eating bodies and reporting them using the Pet button.<br>
-The Vulture wins when they've eaten a set amount of bodies, and they may also have an arrow pointing to dead bodies if enabled by host.<br>
+Use the Report button to eat dead bodies and make them unreportable. The vulture can switch between eating bodies and reporting them using the Pet button. The Vulture wins when they've eaten a set amount of bodies, and they may also have an arrow pointing to dead bodies if enabled by host.<br>
 
 ### Game Options
 |               Name              |                          Description                       |     Type     |  Default  | 
@@ -3656,8 +3544,7 @@ __Indicator__: Yellow ◎ <br>
 `Idea by Town of Us Reactivated`<br>
 
 #### Role Description
-The Flash makes the player move faster.<br>
-Due to technical limitations, flash moves at normal speed for other players, and flash sees other players moving at the speed of Flash.<br>
+The Flash makes the player move faster. Due to technical limitations, flash moves at normal speed for other players, and flash sees other players moving at the speed of Flash.<br>
 
 ### Escalation
 
@@ -3852,4 +3739,3 @@ Gives even more tasks to a player.
 | Additional Long Tasks        | How many additional Long Tasks the Workhorse receives                     |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
