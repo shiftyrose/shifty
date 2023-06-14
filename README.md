@@ -2607,7 +2607,7 @@ When the Veteran is attacked while on Alert, the attack will backfire resulting 
 
 ## Vigilante 
 
-<img align="right" width="" height="200" src="">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118396580534419526/image.png?width=1193&height=671">
 
 __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
