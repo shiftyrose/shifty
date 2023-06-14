@@ -702,7 +702,7 @@ Always assigned to a host and is ghosted from the start.<br>
 
 ## Blackmailer 
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1034687568643641354/1118603471340453938/image.png?width=1193&height=671">
+<img align="right" width="" height="100" src="https://media.discordapp.net/attachments/1034687568643641354/1118603471340453938/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -725,7 +725,7 @@ Shapeshift into a player to blackmail them. During meeting, the blackmailed play
 
 ## Bounty Hunter
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118396726483615794/image.png?width=1193&height=671">
+<img align="right" width="" height="100" src="https://media.discordapp.net/attachments/1108944832493277264/1118396726483615794/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -751,7 +751,7 @@ Collect Bounty from Target players (marked by black name). If the Bounty Hunter 
 
 ## Camouflager
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955164213264384/Screenshot_2023-05-18_at_11.11.47_PM.png?width=1074&height=671">
+<img align="right" width="" height="100" src="https://media.discordapp.net/attachments/1108944832493277264/1108955164213264384/Screenshot_2023-05-18_at_11.11.47_PM.png?width=1074&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
@@ -777,7 +777,7 @@ Shapeshift into a player and cause every living player to shapeshift into the ch
 
 ## Conman
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108956415143465000/image.png?width=1193&height=671">
+<img align="right" width="" height="100" src="https://media.discordapp.net/attachments/1108944832493277264/1108956415143465000/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -3739,3 +3739,4 @@ Gives even more tasks to a player.
 | Additional Long Tasks        | How many additional Long Tasks the Workhorse receives                     |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
