@@ -468,7 +468,7 @@ LowerText:
 __Creating A New Title__:<br>
 Navigate to the `/LOTUS_DATA/Titles` directory<br>
 Create a new yaml file named: `[friendcode].yaml` (example: `buffdulcet#0871.yaml`)<br>
-Setup the title components in the yaml<br>
+Set up the title components in the yaml<br>
 
 __Available Components__:<br>
 
@@ -495,7 +495,7 @@ These are the things you can define for each component to change
 | Spaced   | (Only applicable to Prefix & Suffix) Whether the text should have a space between it and the player's name    |
 
 
-Lastly you can reload your (local) title files with the command '/treload', the change is __immediate__<br>
+Lastly you can reload your (local) title files with the command '/tload', the change is __immediate__<br>
 
 ### Example Tags
 
