@@ -86,7 +86,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 | ----------------------------------------- | --------------- |
 | Paste the text                            | `Ctrl`+`V`      |
 | Go back in chat send history              | `↑`             |
-| Go forward of chat send history           | `↓`             |
+| Go forward in chat send history           | `↓`             |
 
 #### Usable Anywhere
 | Function                                  | HotKey          |
@@ -101,13 +101,13 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ### Host Only
 
-| Function                         | Command                | Aliases     |
-| -------------------------------- | ---------------------- | ----------- |
-| Shows all players and their IDs  | `/id`                  |             |
-| Displays message to ALL players  | `/say [msg]`           | `/s`        |
-| Kicks the provided player        | `/kick [name/id]`      |             |
-| Bans the provided player         | `/ban [name/id]`       |             |
-| Output log to desktop            | `/dump`                | `Ctrl`+`F1` |
+| Function                         | Command                | Aliases      |
+| -------------------------------- | ---------------------- | ------------ |
+| Shows all players and their IDs  | `/id`                  |              |
+| Displays message to ALL players  | `/say [msg]`           | `/s`         |
+| Kicks the provided player        | `/kick [name]`         | `/kick [id]` |
+| Bans the provided player         | `/ban [name]`          | `/kick [id]` |
+| Output log to desktop            | `/dump`                | `Ctrl`+`F1`  |
 
 
 ### All Clients
