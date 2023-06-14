@@ -222,7 +222,7 @@ This table serves as a quick reference for the different variables that can be u
 | NeutralKillersCount   | ${NeutralKillersCount}    | A count of all neutral killers                                                                      |
 | Neutrals              | ${Neutrals}               | All neutral names, separated by comma                                                               |
 | NeutralsCount         | ${NeutralsCount}          | A count of all neutrals                                                                             |
-| OptionName.[Name]     | ${OptionName.[Name]}      | Shows the NAME of an option (as in current lang)                                                    |
+| Option Name           | ${OptionName.[Name]}      | Shows the NAME of an option (as in current lang)                                                    |
 | Options               | ${Options}                | The player's role options                                                                           |
 | Player Count          | ${PlayerCount}            | A count of all players currently in lobby                                                           |
 | Players               | ${Players}                | A list of player names separated by a comma                                                         |
