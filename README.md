@@ -709,7 +709,8 @@ __Base__: Impostor<br>
 __Ability__: Blackmail A Player<br>
 __Indicator/Symbols__: "BLACKMAILED" Text Over Targeted Player<br>
 
-`Original Role & Idea by Tealeaf/단풍잎`<br>
+`Originally Developed by Tealeaf/단풍잎`<br>
+`Idea by Town of Us Reactivated & Town of Us`<br>
 
 #### Role Description
 
