@@ -228,9 +228,11 @@ This table serves as a quick reference for the different variables that can be u
 | Players               | ${Players}                | A list of player names separated by a comma                                                         |
 | Role                  | ${Role}                   | The player's role                                                                                   |
 | Room Code             | ${RoomCode}               | The current room code                                                                               |
+| Tasks Complete        | ${TasksComplete}          | The # of tasks a player has completed                                                               |
+| Tasks Remaining       | ${TasksRemaining}         | The # of tasks a player has remaining                                                               |
 | Time                  | ${Time}                   | The current time (based on host)                                                                    |
-
-
+| Total Tasks           | ${TotalTasks}             | A player's total # of tasks                                                                         |
+| Trigger Meta          | ${TriggerMeta}            | This variable resolves differently based on the trigger the template is invoked from                |
 
 
 ### Template Customization
