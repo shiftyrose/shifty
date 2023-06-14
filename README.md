@@ -650,7 +650,6 @@ __Output__:<br>
 | [Blackmailer](#blackmailer)            | [Alchemist](#alchemist)         | [Agitater](#agitater)             | [Amnesiac](#amnesiac)                  | [Bait](#bait)             |
 | [Bounty Hunter](#bounty-hunter)        | [Bastion](#bastion)             | [Arsonist](#arsonist)             | [Archangel](#archangel)                | [Bewilder](#bewilder)     |
 | [Camouflager](#camouflager)            | [Bodyguard](#bodyguard)         | [Blood Knight](#blood-knight)     | [Copy-Cat](#copy-cat)                  | [Bloodlust](#bloodlust)   |
-| [Conman](#conman)                      | [Chameleon](#chameleon)         | [Demon](#demon)                   | [Executioner](#executioner)            | [Deadly](#deadly)         |
 | [Consort](#consort)                    | [Charmer](#charmer)             | [Egoist](#egoist)                 | [Hacker](#hacker)                      | [Diseased](#diseased)     |
 | [Creeper](#creeper)                    | [Crusader](#crusader)           | [Hitman](#hitman)                 | [Jester](#jester)                      | [Flash](#flash)           |
 | [Disperser](#disperser)                | [Demolitionist](#demolitionist) | [Jackal](#jackal)                 | [Opportunist](#opportunist)            | [Nimble](#nimble)         |
@@ -775,35 +774,6 @@ Shapeshift into a player and cause every living player to shapeshift into the ch
 | Camouflage Cooldown  | The cooldown of the Camouflager's Shapeshift button |     Time     |   17.5s   |
 | Camouflage Duration  | Amount of time players are shifted for              |     Time     |   17.5s   |
 | Can Vent             | Whether the Camouflager has a Vent button or not    |    Toggle    |    ON     |
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Conman
-
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1108956415143465000/image.png?width=1193&height=671">
-
-__Faction__: Impostor<br>
-__Base__: Impostor<br>
-__Ability__: Sabotage Meetings<br>
-__Indicatior/Symbols__: None<br>
-
-`Originally Developed by: Discussions`<br>
-`Idea by yoclobo (Manipulator)`<br>
-
-#### Role Description
-Reporting a body killed by the Conman will sabotage the meeting. The Anonymous Voting option may be toggled (if you had this on, it is now off and vice versa) & Voting/Discussion Time will be decreased (amount predetermined by host in settings). The Conman’s voting and discussion time overwrites the ones of TimeThief. The Conman also has options for a separate Kill-Cooldown.<br>
-
-### Game Options
-|            Name           |                      Description                   |     Type     | Default | 
-| ------------------------- | -------------------------------------------------- | :----------: | :-----: |
-| Conman                    | The probability of the Conman appearing            |  Percentage  |   0%    |
-| Maximum                   | How many Conmans should spawn                      |    Number    |    1    |
-| Kill Cooldown             | The cooldown of the Conman's Kill button           |     Time     | Global  |
-| Discussion Time Decrease  | The amount of time removed from Discussion Time    |     Time     |   30s   |
-| Voting Time Decrease      | The amount of time removed from Voting Time        |     Time     |   15s   |
-| Affect Anonymous Voting   | Whether the Conman's kills affect Anonymous Voting |    Toggle    |   ON    |
-
-_The Global option for Kill Cooldown means that this setting will be the same as the Kill Cooldown in Custom Settings from vanilla Among Us_
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
