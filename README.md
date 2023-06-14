@@ -12,7 +12,7 @@ Project: Lotus is not affiliated with Among Us or Innersloth LLC, and the conten
 
 ## Releases
 
-AmongUs Version: **2023.2.28**
+AmongUs Version: **2023.6.13**
 **Latest Version: [Here]()**
 
 ## Regarding This Mod
@@ -26,11 +26,10 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 #### Benefits Of Being A Modded Client.<br>
 
 - Custom start screen displaying Role Name & Ability/Win Condition (Victory Parameters)
-- Detailed results display featuring player avatars & their game stats
 - Custom victory screen reflecting the Role's unique win condition.
 - Ability to view additional settings in lobby. 
-- Custom buttons in game.
-- More detailed task log.
+- Usable Hotkeys
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,62 +38,62 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 ## Hotkeys (Host Only)
 
 #### Usable in Game
-| Function                       | HotKey               |
-| ------------------------------ | -------------------- |
-| Terminate the game             | `Shift`+`L`+`Enter`  |
-| Skip meeting to end            | `Shift`+`M`+`Enter`  |
-| Force meeting                  | `RShift`+`M`+`Enter` |
+| Function                               | HotKey               |
+| -------------------------------------- | -------------------- |
+| Terminate the game                     | `Shift`+`L`+`Enter`  |
+| Skip meeting to end                    | `Shift`+`M`+`Enter`  |
+| Force meeting                          | `RShift`+`M`+`Enter` |
 
 
 #### Usable In Meeting 
-| Function                               | HotKey           |
-| -------------------------------------- | ---------------- |
-| Execute clicked player                 | `Ctrl`+`RMB`     |
-| Sends *certain* messages to all        | `LShift`+`Enter` |
-| Sends *certain* messages to dead       | `RShift`+`Enter` |
+| Function                               | HotKey               |
+| -------------------------------------- | -------------------- |
+| Execute clicked player                 | `Ctrl`+`RMB`         |
+| Sends *certain* messages to all        | `LShift`+`Enter`     |
+| Sends *certain* messages to dead       | `RShift`+`Enter`     |
 
 
 #### Usable During Countdown
-| Function                       | HotKey      |
-| ------------------------------ | ----------- |
-| Cancel game start & autoplay   | `C`         |
-| Start the game immediately     | `Shift`     |
+| Function                               | HotKey               |
+| -------------------------------------- | -------------------- |
+| Cancel game start & autoplay           | `C`                  |
+| Start the game immediately             | `Shift`              |
 
 
 #### Usable In Settings
-| Function                       | HotKey              |
-| ------------------------------ | ------------------- |
-| Reset default settings/options | `Ctrl`+`Delete`     |
+| Function                               | HotKey               |
+| -------------------------------------- | -------------------- |
+| Reset default settings/options         | `Ctrl`+`Delete`      |
 
 
 #### Usable In Lobby
-| Function                       | HotKey         |
-| ------------------------------ | -------------- |
-| Reload Lang file updates       | `Ctrl` + `T`   |
+| Function                               | HotKey               |
+| -------------------------------------- | -------------------- |
+| Reload language files                  | `Ctrl` + `T`         |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hotkeys (Mod Clients Only)
 
 #### Usable In Lobby
-| Function                       | HotKey          |
-| ------------------------------ | --------------- |
-| Next page in option shower     | `Tab`           |
-| Previous page in option shower | `LCtrl` + `Tab` |
+| Function                                  | HotKey          |
+| ----------------------------------------- | --------------- |
+| Next page in option shower                | `Tab`           |
+| Previous page in option shower            | `LCtrl` + `Tab` |
 
 #### Usable In Chat
-| Function                               | HotKey             |
-| -------------------------------------- | ------------------ |
-| Paste the text                         | `Ctrl`+`V`         |
-| Go back in time of chat send history   | `↑`                |
-| Go future in time of chat send history | `↓`                |
+| Function                                  | HotKey          |
+| ----------------------------------------- | --------------- |
+| Paste the text                            | `Ctrl`+`V`      |
+| Go back in chat send history              | `↑`             |
+| Go forward of chat send history           | `↓`             |
 
 #### Usable Anywhere
-| Function                         | HotKey       |
-| -------------------------------- | ------------ |
-| Increase Resolution              | `Ctrl`+`+`   | 
-| Decrease Resolution              | `Ctrl`+`-`   |
-| Output log to desktop            | `Ctrl`+`F1`  |              
+| Function                                  | HotKey          |
+| ----------------------------------------- | --------------- |
+| Increase Resolution                       | `Ctrl`+`+`      | 
+| Decrease Resolution                       | `Ctrl`+`-`      |
+| Output log to desktop                     | `Ctrl`+`F1`     |              
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,13 +101,13 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 
 ### Host Only
 
-| Function                         | Command                    | Aliases     |
-| -------------------------------- | -------------------------- | ----------- |
-| Shows all players and their IDs  | `/id`                      |             |
-| Displays message to ALL players  | `/say [msg]`               | `/s`        |
-| Kicks the provided player        | `/kick [name \| id]`       |             |
-| Bans the provided player         | `/ban [name \| id]`        |             |
-| Creates a log dump               | `/dump`                    |             |
+| Function                         | Command                | Aliases     |
+| -------------------------------- | ---------------------- | ----------- |
+| Shows all players and their IDs  | `/id`                  |             |
+| Displays message to ALL players  | `/say [msg]`           | `/s`        |
+| Kicks the provided player        | `/kick [name/id]`      |             |
+| Bans the provided player         | `/ban [name/id]`       |             |
+| Output log to desktop            | `/dump`                | `Ctrl`+`F1` |
 
 
 ### All Clients
@@ -131,21 +130,21 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 |------------------------------------|----------------------|-------------|
 | Show Active Roles Settings         | `/now roles`         | `/n r`      |
 | Show Active Settings               | `/now`               | `/n`        |
-| Show Attribute Description         | `/help attributes`   | `/helpatt`  |
-| Show Mode Description              | `/help modes`        | `/helpm`    |
 | Show % for All Roles > 0%          | `/perc`              |             |
-| Show Role Description              | `/roles [Role]`      | `/r [Role]` |
+| Show Role Description              | `/roles [role]`      | `/r [role]` |
 
 
 #### Player Info In Game
-| Function                           | Command         | Aliases     |
-|------------------------------------|-----------------|-------------|
-| Show Basic Role Description        | `/myrole`       | `/m`        |
-| Show Current Role Option           | `/options`      | `/o`        |
-| Show Full Role Description         | `/descriptions` | `/desc`     |
+| Function                           | Command         | Aliases          |
+|------------------------------------|-----------------|------------------|
+| Show Basic Role Description        | `/myrole`       | `/m`             |
+| Show Current Role Option           | `/options`      | `/o`             |
+| Show Full Role Description         | `/description`  | `/desc`          |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Templates (README)
 
 ## Templates
 
@@ -159,7 +158,7 @@ To access your saved templates, you or another player can type /t [tag] (e.g. /t
 
 #### Command Guide
 
-This table serves as a quick reference for the different tags and their corresponding descriptions. The host can use tags to customize the lobby and help players understand the game.
+This table serves as a quick reference for the different commands you can use with the template system. The host can use tags to customize the lobby and help players understand the game.
 
 | Command                      | Alias                 | Description                                                    |
 | ---------------------------- | --------------------- | -------------------------------------------------------------- |
@@ -176,7 +175,6 @@ Project Lotus has a number of built-in tags. These tags will automatically be di
 
 | Tag                |  Description                                                                                                                                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| modifier-info      | The template is used by the @ModsDescriptive tag when displaying modifiers. This template uses ^Role_XXX variables to display its  information.                                             |
 | lobby-join         | Tag for the template shown to players joining the lobby.                                                                                                                                    |
 | autostart          | Template triggered when the autostart timer begins.                                                                                                                                         |
 | meeting-first      | The template to show during the first meeting.                                                                                                                                              |
@@ -211,7 +209,7 @@ This table serves as a quick reference for the different variables that can be u
 | Options          | ${Options}         | The player's role options                                                                           |
 | Faction          | ${Faction}         | The player's faction                                                                                |
 | Modifiers        | ${Modifiers}       | Shows the player's modifiers as a list of names                                                     |
-| Mods Descriptive | ${ModsDescriptive} | Displays descriptive info about each of a player's modifiers                                        |
+| Mods Descriptive | ${ModsDescriptive} | Displays the description for each of a player's modifiers                                           |
 
 
 ### Template Customization
@@ -231,13 +229,13 @@ Here are some basic tools to get you started:
 | `<sub>`        | Subscript text                                         |
 | `<sup>`        | Superscript text                                       |
 | `<mark>`       | Highlighted or marked text                             |
-| `<size= >'     | Size of text (Default AU size is 2)                    |
+| `<size= >`     | Size of text (Default AU size is 2)                    |
 | `<color= >`    | Color of the text (use hex code)                       |
 
 
 #### Usable Unicode Symbols
 
-★ ☀ ☂ ☆ ☹ ☺ ♥ ♡ ♩ ♪ ♫ ♬ ✓ ♠ ◈ ☎ ♀ ♂ ☜ ☝ ☞ ☟ ☯ ☃ ✿ ❀ ☁ ¿ ※ ⁑ ∞ ≠ + ÷ º 乂 ⁂ ¤ § ∮ 彡 个 《 「 」 人 요 〖 〗 ロ 米 卄 王 ī l 【 】 · ㅇ ° ◆ ◇ ◥ ◤ ◢ ◣ 《 》 ︵︶
+乂 ⁂ ¤ § ∮ 彡 个 《 「 」 人 요 〖 〗 ロ 米 卄 王 ī l 【 】 · ㅇ ° ◈ ◆ ◇ ◥ ◤ ◢ ◣ 《 》 ︵︶ ★ ☆ ☀ ☂ ☹ ☺ ♥ ♡ ♩ ♪ ♫ ♬ ✓ ♠  ☎ ♀ ♂ ☜ ☝ ☞ ☟ ☯ ☃ ✿ ❀ ☁ ¿ ※ ⁑ ∞ ≠ + ÷ º
 
 #### Blank Template
 
@@ -412,8 +410,6 @@ The native Among Us friends list is often considered pointless. However, with th
 
 The friend list information is stored in the file `LOTUS_DATA/Friends.txt`.
 
-### Added Friends List (Static File)
-
 Commands:
 
 | Command                     | Function                                        |
@@ -475,20 +471,31 @@ Create a new yaml file named: `[friendcode].yaml` (example: `buffdulcet#0871.yam
 Setup the title components in the yaml<br>
 
 __Available Components__:<br>
-UpperText - Responsible for the text above the player's username<br>
-LowerText - Responsible for the text below the player's username<br>
-Prefix - The text that comes before a player's username<br>
-Suffix - The text that comes after a player's username<br>
-Name - The player's username
 
-__Component Items__: (These are the things you can define for each component to change)<br>
-Text - Sets the text for the component (does not work for Name)<br>
-Gradient - A list of HTML color codes defining a range of colors to apply to the text. (refer to example image)<br>
-Color - If gradient is not specified, a solid color to apply to the text<br>
-Size - The size of the text (default is 2)<br>
-Spaced - (Only applicable to Prefix & Suffix) whether the text should have a space between it and the player's name<br>
+| Components | Description                                             |
+|------------|---------------------------------------------------------|
+| UpperText  | Responsible for the text above the player's username    |
+| LowerText  | Responsible for the text below the player's username    |
+| Prefix     | The text that comes before a player's username          |
+| Suffix     | The text that comes after a player's username           |
+| Name       | The player's username                                   |
 
-Lastly you can reload your (local) title files with the command /t reload, the change is __immediate__<br>
+*The player's username is the name they enter the lobby with or change with /name. It is not specified directly in the yaml file.*
+
+__Component Items__: <br>
+
+These are the things you can define for each component to change
+
+| Item     | Description                                                                                                   |
+|----------|---------------------------------------------------------------------------------------------------------------|
+| Text     | Sets the text for the component (does not work for Name)                                                      |
+| Gradient | A list of HTML color codes defining a range of colors to apply to the text. (Refer to the example image)      |
+| Color    | If gradient is not specified, a solid color to apply to the text                                              |
+| Size     | The size of the text (default is 2)                                                                           |
+| Spaced   | (Only applicable to Prefix & Suffix) Whether the text should have a space between it and the player's name    |
+
+
+Lastly you can reload your (local) title files with the command '/treload', the change is __immediate__<br>
 
 ### Example Tags
 
@@ -514,6 +521,7 @@ Suffix:<br>
 > Text: ∞    <br>
 > Color: "#e1e100"<br>
 > Size: 2 # Default AU size is 2, i believe this is exponential (so 100 would be terrible)<br>
+
   
 __Output__:<br>
 ![Alt text](https://cdn.discordapp.com/attachments/1034687568643641354/1117295347434266674/image.png)
@@ -694,7 +702,7 @@ Always assigned to a host and is ghosted from the start.<br>
 
 ## Blackmailer 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1034687568643641354/1118603471340453938/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -719,7 +727,7 @@ If the player writes a certain number of messages (determined by host) while bla
 
 ## Bounty Hunter
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118396726483615794/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -735,19 +743,19 @@ If the Bounty Hunter kills their target, their kill cooldown is significantly re
 The time it takes for the target to change, the kill cooldown after killing their target, and kill cooldown after killing a non-target are predetermined by host in settings.<br>
 
 ### Game Options
-|               Name                    |                                  Description                              |     Type     |  Default  | 
-| ------------------------------------- | ------------------------------------------------------------------------- | :----------: | :-------: |
-| BountyHunter                          | The probability of the BountyHunter appearing                             |  Percentage  |    0%     |
-| Maximum                               | How many BountyHunters should spawn                                       |    Number    |     1     |
-| Time Until New Target                 | Time before the BountyHunters target is changed                           |     Time     |    60     |
-| Kill Cooldown After Killing Target    | The cooldown of the BountyHunter's Kill button after killing their target |     Time     |    15     |
-| Kill Cooldown After Killing Other     | The cooldown of the BountyHunter's Kill button after killing a non-target |     Time     |   37.5    |
+|               Name                    |                                  Description                               |     Type     |  Default  | 
+| ------------------------------------- | -------------------------------------------------------------------------- | :----------: | :-------: |
+| BountyHunter                          | The probability of the Bounty Hunter appearing                             |  Percentage  |    0%     |
+| Maximum                               | How many Bounty Hunters should spawn                                       |    Number    |     1     |
+| Time Until New Target                 | Time before the Bounty Hunters target is changed                           |     Time     |    60     |
+| Kill Cooldown After Killing Target    | The cooldown of the Bounty Hunter's Kill button after killing their target |     Time     |    15     |
+| Kill Cooldown After Killing Other     | The cooldown of the Bounty Hunter's Kill button after killing a non-target |     Time     |   37.5    |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Camouflager
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955164213264384/Screenshot_2023-05-18_at_11.11.47_PM.png?width=1074&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
@@ -774,7 +782,7 @@ When the duration is over, or if a meeting is called, players return to their no
 
 ## Conman
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108956415143465000/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -806,7 +814,7 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 
 ## Consort 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108954743738478662/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -832,7 +840,7 @@ Role-Blocks prevent killing, reporting dead bodies, calling meetings, shapeshift
 
 ## Creeper
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1110090414498787328/Screenshot_4546.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -861,7 +869,7 @@ You might find yourself lucky and be protected from your bombs with a shield (ex
 
 ## Disperser 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108958172481343499/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -886,7 +894,7 @@ Use Pet button to teleport everyone to a random vent.<br>
 
 ## Escapist
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108954875615789197/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
@@ -913,7 +921,7 @@ This will then put the mark ability back on cooldown.<br>
 
 ## FireWorker
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108959650709245972/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
@@ -947,7 +955,7 @@ The FireWorker can aslo kill normally between placing fireworks.<br>
 
 ## Freezer 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955384791707668/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
@@ -975,7 +983,7 @@ Freezer may kill normally shifted or unshifted.<br>
 
 ## Grenadier
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955095598649374/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -1006,7 +1014,7 @@ During this time The Grenadier may kill undetected.<br>
 
 ## Identity Thief
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1109056495053709322/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Shapeshifter<br>
@@ -1031,7 +1039,7 @@ The disguise lasts until they are ready to kill again, or, optionally, until the
 
 ## Janitor 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397005241258024/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -1058,7 +1066,7 @@ Use Kill button to kill players<br>
 
 ## Mafioso
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1109031674953613382/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Engineer<br>
@@ -1096,7 +1104,7 @@ _The Global option for Gun Cooldown means that this setting will be the same as 
 
 ## Mare
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397087315415150/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1131,7 +1139,7 @@ Be careful! If enabled in settings, your name will appear Purple while your abil
 
 ## Mastermind 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108957020012425246/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1158,7 +1166,7 @@ _The Global option for Manipulation Cooldown means that this setting will be the
 
 ## Miner
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108957388020645938/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1184,7 +1192,7 @@ Kill, vent, and sabotage like any other impostor role.<br>
 
 ## Morphling
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108954649823825963/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
@@ -1209,7 +1217,7 @@ It is a renamed Shapeshifter role in vanilla Among Us.<br>
 
 ## Ninja
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118399352038244453/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter or Impostor<br>
@@ -1248,7 +1256,7 @@ Instead, the target is teleported to the Ninja where the kill will be executed.<
 
 ## Pickpocket
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108959831198531624/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1277,7 +1285,7 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 
 ## Puppeteer
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108954990032191638/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1303,7 +1311,7 @@ It is not possible for puppeteer to perform a normal kill.<br>
 
 ## Serial Killer 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955506074198026/image.png?width=1193&height=671">
 
 __Faction__: Impostors <br>
 __Base__: Impostor<br>
@@ -1329,7 +1337,7 @@ Has a reduced Kill-Cooldown (determined by host). Kill players before cooldown e
 
 ## Sniper
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108959146264514640/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
@@ -1371,7 +1379,7 @@ To shoot, the Sniper must take a few steps in the direction they aim to shoot, a
 
 ## Swooper
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108956267814338721/image.png?width=1187&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -1400,7 +1408,7 @@ Be careful! Depending on the host's options you may be revealed when killing ano
 
 ## Time Thief
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955718532481024/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1427,7 +1435,7 @@ Option: When TimeThief is expelled or killed, time is restored back to normal.<b
 
 ## Vampire
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397285584339004/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1444,15 +1452,15 @@ If the vampire bites [Bait](#Bait), the player will die immediately and a self-r
 
 ### Vampiress 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1034687568643641354/1118604102541267154/image.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__ Impostor<br>
 __Ability__: Delayed & Normal Kills<br>
 __Indicatior/Symbols__: Text Indicator Showing Current Mode<br>
 
-`Created by Discussions`<br>
-`Original Idea by shiftyrose`<br>
+`Originally Developed by: Discussions`<br>
+`Idea by shiftyrose`<br>
 
 #### Vampiress Role Description 
 The Vampiress works exactly like the [Vampire](#vampire) with one exception, it can also make direct kills.<br>
@@ -1474,7 +1482,7 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 
 ## Warlock
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397475837984778/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Shapeshifter<br>
@@ -1502,7 +1510,7 @@ Be Careful! Cursed players can kill Impostors (and even the Warlock themself!).<
 
 ## Witch
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118398828295495720/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1531,7 +1539,7 @@ Curse does not self-report [Bait](#Bait).<br>
 
 ## Yin Yanger
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108955852485963857/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -1561,7 +1569,7 @@ _The Global option for Yin Yang Cooldown means that this setting will be the sam
 
 ## CrewPostor
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397683468611594/image.png?width=1193&height=671">
 
 __Faction__: Neutral<br>
 __Base__: Crewmate<br>
@@ -1592,12 +1600,13 @@ Complete a task to instantly kill the player nearest you (even impostors and oth
 
 ## Madmate
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108957576831434833/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Engineer<br>
-__Ability__: None (The Fallen Impostor)<br>
+__Ability__: None<br>
 __Indicatior/Symbols__: None<br>
+__Win Condition__: Win With Impostors<br>
 
 `Originally Developed by: Discussions`<br>
 `Idea by libhalt`<br>
@@ -1621,12 +1630,13 @@ Act sus. Take suspicion off of Impostors by pretending to fix sabotages, venting
 
 ## Mad Guardian
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108957831140474940/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Crewmate<br>
 __Ability__: Finish Tasks To Become Unkillable<br>
 __Indicatior/Symbols__: None<br>
+__Win Condition__: Win With Impostors<br>
 
 `Originally Developed by: 空き瓶/EmptyBottle`<br>
 `Idea by 空き瓶/EmptyBottle`<br>
@@ -1655,12 +1665,13 @@ Finish tasks to become immune from kills.<br>
 
 ## Mad Snitch
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108960365536088144/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Crewmate or Engineer<br>
 __Ability__: Finish Tasks To See Imps<br>
 __Indicatior/Symbols__: None <br>
+__Win Condition__: Win With Impostors<br>
 
 `Originally Developed by: そうくん`<br>
 `Idea by そうくん`<br>
@@ -1690,12 +1701,13 @@ Has the option to vent.<br>
 
 ## Parasite
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108946171487064144/image.png?width=1193&height=671">
 
 __Faction__: Impostors (MadMates)<br>
 __Base__: Shapeshifter<br>
 __Ability__: Fallen Impostor (Buffed)<br>
-__Indicatior/Symbols__:
+__Indicatior/Symbols__: None<br>
+__Win Condition__: Win With Impostors<br>
 
 `Originally Developed by: Discussions`<br>
 `Idea by Loonie`<br>
@@ -1718,7 +1730,7 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 
 ## Alchemist 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1108957938036510751/image.png?width=1193&height=671">
 
 __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
@@ -1803,7 +1815,7 @@ Once the Alchemist has a potion, they can hold down the pet button to use it, co
 
 ## Bastion 
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118397787562844231/image.png?width=1193&height=671">
 
 __Faction__: Crewmate<br>
 __Base__: Engineer<br>
@@ -1830,7 +1842,7 @@ Be careful! The Bastion can bomb themself by using a vent they've already plante
 
 ## Bodyguard
 
-<img align="right" width="" height="300" src="">
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118399162766082078/image.png?width=1193&height=671">
 
 __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
@@ -2530,6 +2542,8 @@ Finish tasks to gain a speed boost! Depending on the host's options, you may gai
 
 ## Swapper 
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Swap Votes During Meeting<br>
@@ -2550,6 +2564,8 @@ The first two players you vote each meeting will have their votes swapped. After
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tracker 
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
@@ -2717,6 +2733,8 @@ _The Global option for Place Bomb Cooldown means that this setting will be the s
 
 ## Arsonist
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Can Douse & Ignite Players<br>
@@ -2740,6 +2758,8 @@ To win, douse all players and ignite them by using the Pet button.<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Blood Knight
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Blood Knight<br>
@@ -2791,6 +2811,8 @@ Demon is a neutral killing role whose goal is to kill all other players. When De
 
 ## Egoist
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killing<br>
 __Base__: Shapeshifter<br>
 __Ability__: Can See Impostors<br>
@@ -2816,6 +2838,8 @@ Impostors and Egoist cannot kill each other.<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hitman
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -2843,6 +2867,8 @@ Host can choose whether Hitman wins with Executioner/Jester.<br>
 
 ## Jackal
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killer<br>
 __Base__: Impostor<br>
 __Ability__: Can Kill Any Player Without Consequence<br>
@@ -2868,6 +2894,8 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Juggernaut
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -2896,6 +2924,8 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Marksman
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -2927,6 +2957,8 @@ _The Global option for Starting Kill Distance means that this setting will be th
 
 ## Necromancer
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: The Undead<br>
 __Base__: Impostor<br>
 __Ability__: Convert Roles to the Undead<br>
@@ -2957,6 +2989,8 @@ There can only be one Deathknight at a time, and if the Necromancer dies, the De
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Occultist
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -3004,6 +3038,8 @@ _The Global option for Gulp Cooldown means that this setting will be the same as
 
 ## Plague Bearer
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killing <br>
 __Base__: Impostor<br>
 __Ability__: Infect Players & Become Pestilence<br>
@@ -3016,6 +3052,8 @@ __Win Condition__: None (must become Pestilence)<br>
 Use the Kill button to infect everyone. Once everyone is infected, the Plague Bearer turns into Pestilence.
 
 ### Pestilence
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -3043,6 +3081,8 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 
 ## Retributionist
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Get A Second Chance At Living
@@ -3065,6 +3105,8 @@ The Retributionist is a Neutral Killer with a twist. If the Retributionist were 
 
 ## The Glitch
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Shapeshift & Roleblock Players<br>
@@ -3086,6 +3128,8 @@ Use the Kill button to Hack or Kill players. The Pet button can be used to switc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Werewolf
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
@@ -3118,6 +3162,8 @@ NOTE: Werewolf can only kill during rampage!<br>
 
 ## Amnesiac
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Passive<br>
 __Base__: Impostor<br>
 __Ability__: Report a Body and Join Their Team<br>
@@ -3138,6 +3184,8 @@ If `Steals Exact Role` is OFF then the Amnesiac becomes:
  Else (e.g. Impostor Madmate, etc.) = Jester<br>
 
 ### Amalgamation
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Impostor<br>
@@ -3165,6 +3213,8 @@ The Amalgamation gains (becomes) the abilities of every player they report.<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Archangel
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Engineer <br>
@@ -3194,6 +3244,8 @@ If they win, you win.<br>
 
 ## Copycat
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
 __Ability__: Copies Killer's Role When Killed<br>
@@ -3215,6 +3267,8 @@ Depending on the host's options, you may gain their 'progress' as well.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Executioner
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
@@ -3241,6 +3295,8 @@ If the target is the Jester, the Executioner can be an additional winner.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hacker
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
@@ -3276,6 +3332,8 @@ Hacker can be killed by Sheriff.<br>
 
 ## Jester
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate/Engineer<br>
 __Ability__: Options For Impostor Abilities (Venting & Impostor Vision)<br>
@@ -3302,6 +3360,8 @@ Troll players in meetings, act sus in game.<br>
 
 ## Opportunist
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: None<br>
@@ -3322,6 +3382,8 @@ Regardless of the game outcome, Opportunist wins if they survive to the end of t
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Phantom
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
@@ -3352,6 +3414,8 @@ Kill the Phantom before they finish tasks to stop them.<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Postman 
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
@@ -3408,6 +3472,8 @@ The Schrödinger's Cat changes their affiliation with each attack against them! 
 
 ## Survivor 
 
+<img align="right" width="" height="300" src="">
+
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
 __Ability__: Can Protect Self From Attacks<br>
@@ -3432,20 +3498,12 @@ Survive to the end to win. Use your Pet button to protect yourself from attacks 
 
 ## Terrorist 
 
-Create and original idea by 空き瓶/EmptyBottle<br>
-
-__Faction__: Neutral<br>
-__Base__: Engineer<br>
-Victory Conditions : Finish All Tasks, Then Die<br>
-
-The Terrorist are the Neutral Role where they win the game alone if they die with all their tasks completed.<br>
-Any cause of death is acceptable except vote.<br>
-If they die before completing their tasks, or if they survive at the game end, they lose.<br>
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
-__Base__: 
-__Ability__:
-__Win Condition__:
+__Base__: Engineer<br>
+__Ability__: None<br>
+__Win Condition__: Finish All Tasks, Then Die<br>
 
 `Originally Developed by 空き瓶/EmptyBottle`<br>
 `Idea by Foolers Mod`<br>
@@ -3468,6 +3526,8 @@ Finish all tasks and get killed to win. The Terrorist can also be voted out to w
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Vulture
+
+<img align="right" width="" height="300" src="">
 
 __Faction__: Neutral Passive<br>
 __Base__: Crewmate<br>
@@ -3792,3 +3852,4 @@ Gives even more tasks to a player.
 | Additional Long Tasks        | How many additional Long Tasks the Workhorse receives                     |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
