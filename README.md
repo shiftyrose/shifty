@@ -185,31 +185,52 @@ Project Lotus has a number of built-in tags. These tags will automatically be di
 
 This table serves as a quick reference for the different variables that can be utilized in templates.
 
-| Name             | Variable           | Output                                                                                              |
-| ---------------- | ------------------ | --------------------------------------------------------------------------------------------------- |
-| Room Code        | ${RoomCode}        | The current room code                                                                               |
-| Host             | ${Host}            | The host's name                                                                                     |
-| AU Version       | ${AUVersion}       | The current version of Among Us                                                                     |
-| Mod Version      | ${ModVersion}      | The current mod version                                                                             |
-| Mod Name         | ${ModName}         | The current mod name                                                                                |
-| Map              | ${Map}             | The name of the last map selected                                                                   |
-| Game Mode        | ${Gamemode}        | The current game mode selected                                                                      |
-| Date             | ${Date}            | The current date (based on host)                                                                    |
-| Time             | ${Time}            | The current time (based on host)                                                                    |
-| Players          | ${Players}         | A list of player names separated by a comma                                                         |
-| Player Count     | ${PlayerCount}     | A count of all players currently in lobby                                                           |
-| All Roles        | ${AllRoles}        | A categorized list of all roles in the mod                                                          |  
-| All Modifiers    | ${AllModifiers}    | A list of all modifiers in the mod                                                                  |
-| My Role          | ${MyRole}          | Echoes the text of /myrole which shows the player's role and role description.                      |
-| Name             | ${Name}            | The player's name                                                                                   |
-| Color            | ${Color}           | The color of the player's avatar                                                                    |
-| Role             | ${Role}            | The player's role                                                                                   |
-| Blurb            | ${Blurb}           | The player's role blurb                                                                             |
-| Description      | ${Description}     | The player's role description                                                                       |
-| Options          | ${Options}         | The player's role options                                                                           |
-| Faction          | ${Faction}         | The player's faction                                                                                |
-| Modifiers        | ${Modifiers}       | Shows the player's modifiers as a list of names                                                     |
-| Mods Descriptive | ${ModsDescriptive} | Displays the description for each of a player's modifiers                                           |
+| Name                  | Variable                  | Output                                                                                              |
+| --------------------- | ------------------------- | --------------------------------------------------------------------------------------------------- |
+| All Modifiers         | ${AllModifiers}           | A list of all modifiers in the mod                                                                  |
+| All Roles             | ${AllRoles}               | A categorized list of all roles in the mod                                                          |
+| Alive Crewmate Count  | ${AliveCrewmateCount}     | A count of all alive crewmates                                                                      |
+| Alive Impostor Count  | ${AliveImpostorCount}     | A count of all alive impostors                                                                      |
+| Alive Neutrals Count  | ${AliveNeutralsCount}     | A count of all alive neutrals                                                                       |
+| Alive Player Count    | ${AlivePlayerCount}       | A count of all alive players                                                                        |
+| Alive Players         | ${AlivePlayers}           | All alive player names, separated by comma                                                          |
+| AU Version            | ${AUVersion}              | The current version of Among Us                                                                     |
+| Blurb                 | ${Blurb}                  | The player's role blurb                                                                             |
+| Color                 | ${Color}                  | The color of the player's avatar                                                                    |
+| Crewmate Count        | ${CrewmateCount}          | A count of all crewmates                                                                            |
+| Crewmates             | ${Crewmates}              | All crewmate names, separated by comma                                                              |
+| Date                  | ${Date}                   | The current date (based on host)                                                                    |
+| Dead Players          | ${DeadPlayers}            | All dead player names, separated by comma                                                           |
+| Dead Player Count     | ${DeadPlayerCount}        | A count of all dead players                                                                         |
+| Death                 | ${Death}                  | A player's CoD                                                                                      |
+| Description           | ${Description}            | The player's role description                                                                       |
+| Faction               | ${Faction}                | The player's faction                                                                                |
+| Game Mode             | ${Gamemode}               | The current game mode selected                                                                      |
+| Host                  | ${Host}                   | The host's name                                                                                     |
+| ImpostorCount         | ${ImpostorCount}          | A count of all impostors                                                                            |
+| Impostors             | ${Impostors}              | All impostor names, separated by comma                                                              |
+| Killer                | ${Killer}                 | A player's killer                                                                                   |
+| Level                 | ${Level}                  | A player's level                                                                                    |
+| Map                   | ${Map}                    | The name of the last map selected                                                                   |
+| Mod Name              | ${ModName}                | The current mod name                                                                                |
+| Mod Version           | ${ModVersion}             | The current mod version                                                                             |
+| Modifiers             | ${Modifiers}              | Shows the player's modifiers as a list of names                                                     |
+| Mods Descriptive      | ${ModsDescriptive}        | Displays the description for each of a player's modifiers                                           |
+| My Role               | ${MyRole}                 | Echoes the text of /myrole which shows the player's role and role description.                      |
+| Name                  | ${Name}                   | The player's name                                                                                   |
+| NeutralKillers        | ${NeutralKillers}         | All neutral killer names, separated by comma                                                        |
+| NeutralKillersCount   | ${NeutralKillersCount}    | A count of all neutral killers                                                                      |
+| Neutrals              | ${Neutrals}               | All neutral names, separated by comma                                                               |
+| NeutralsCount         | ${NeutralsCount}          | A count of all neutrals                                                                             |
+| OptionName.[Name]     | ${OptionName.[Name]}      | Shows the NAME of an option (as in current lang)                                                    |
+| Options               | ${Options}                | The player's role options                                                                           |
+| Player Count          | ${PlayerCount}            | A count of all players currently in lobby                                                           |
+| Players               | ${Players}                | A list of player names separated by a comma                                                         |
+| Role                  | ${Role}                   | The player's role                                                                                   |
+| Room Code             | ${RoomCode}               | The current room code                                                                               |
+| Time                  | ${Time}                   | The current time (based on host)                                                                    |
+
+
 
 
 ### Template Customization
