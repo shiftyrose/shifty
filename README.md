@@ -149,7 +149,7 @@ Templates (README)
 ## Templates
 
 __Location__: `LOTUS_DATA/Templates.yaml`<br>
-__Chat Command__: /t _or_ /template _or_ /templates [TAG]<br>
+__Chat Command__: /t _or_ /template _or_ /templates [tag]<br>
 
 Templates allow you to send pre-written and frequently used blocks of text in chat. They offer endless possibilities and are commonly used for various purposes, such as welcome messages, rules, first meeting messages, and commonly used statements.
 
