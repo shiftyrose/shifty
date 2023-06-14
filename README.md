@@ -49,8 +49,8 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 | Function                               | HotKey               |
 | -------------------------------------- | -------------------- |
 | Execute clicked player                 | `Ctrl`+`RMB`         |
-| Sends *certain* messages to all        | `LShift`+`Enter`     |
-| Sends *certain* messages to dead       | `RShift`+`Enter`     |
+| Sends role descriptions to all         | `LShift`+`Enter`     |
+| Sends tags & role descriptions to dead | `RShift`+`Enter`     |
 
 
 #### Usable During Countdown
