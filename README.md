@@ -2794,7 +2794,7 @@ Stay Alive! Hitman can win with most teams so long as they are alive at the end 
 
 ## Jackal
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118402056030523402/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118403146088202281/image.png?width=1193&height=671">
 
 __Faction__: Neutral Killer<br>
 __Base__: Impostor<br>
