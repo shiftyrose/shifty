@@ -709,6 +709,8 @@ __Base__: Impostor<br>
 __Ability__: Blackmail A Player<br>
 __Indicator/Symbols__: "BLACKMAILED" Text Over Targeted Player<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 
 Shapeshift into a player to blackmail them. During meeting, the blackmailed player will have text displaying "BLACKMAILED" to all players. If the player writes a certain number of messages (determined by host) while blackmailed, they will be executed.
@@ -1052,6 +1054,8 @@ __Base__: Engineer<br>
 __Ability__: Gain Cash By Completing Tasks<br>
 __Indicatior/Symbols__: Counter Showing Number of Bullets (striked-through until a gun is achieved) AND Cash Counter<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 The Mafioso is a unique impostor role, who cannot kill off the bat. Instead the Mafioso must complete tasks in order to gain cash. During meetings, the Mafioso can use their cash to purchase a couple of different items.<br>
 Type /o to see how much each item costs.<br> 
@@ -1123,6 +1127,8 @@ __Faction__: Impostors<br>
 __Base__: Impostor<br>
 __Ability__: Sabotage Meetings<br>
 __Indicatior/Symbols__: "Manipulated!" text on manipulated players<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 Mastermind marks a player with their Kill button. After a delay, that player will gain text saying they've been Manipulated, and a countdown will begin. That player must kill another player before their countdown ends (by using either Pet or Kill), otherwise they suicide.
@@ -1819,6 +1825,8 @@ __Base__: Engineer<br>
 __Ability__: Camouflage With Your Environment<br>
 __Indicatior/Symbols__: Invisible Duration Counter<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 The Chameleon can use their Vent button to temporarily turn invisible. Their invisible duration is displayed below their name, and after a fixed duration they will re-appear in their current spot.
 
@@ -1842,6 +1850,8 @@ __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Charm Enemies To Join Your Team.<br>
 __Indicatior/Symbols__: Charmed Players Receive Indicator That They've Been Charmed<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 When the Charmer uses their Pet/Kill button on an impostor or neutral killer, they become charmed and join the crewmates team. Charmed players will know they've been charmed, and lose the ability to kill crewmates.  If the Charmer charms a crewmate, they misfire and die.
@@ -1999,6 +2009,8 @@ __Base__: Crewmate<br>
 __Ability__: Prepare A Location, Then Escape!<br>
 __Indicatior/Symbols__: Text Cooldown Displaying Time Until Able to Escape & Until Next Mark<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 First use Pet button to mark a location, then after a set cooldown, you can re-use the Pet button to teleport back to your marked location. This will then put the mark ability back on cooldown.
 
@@ -2021,6 +2033,8 @@ __Faction__: Crewmate<br>
 __Base__: Crewmate<br>
 __Ability__: Plant Blooms to Slowly Gather Info<br>
 __Indicatior/Symbols__: Bloom Counter On Seeded Players & Plant Bloom Cooldown Counter<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 Use your Pet button to plant a seed on a player. After a set period of time, that player's "bloom counter" will increase. After a set number of blooms, use your pet button to reveal that player's role. After a player's role has been revealed, you can continue to reveal it to the nearest player by using the pet button on the same player.
@@ -2250,6 +2264,8 @@ __Base__: Crewmate<br>
 __Ability__: Increased Vision<br>
 __Indicatior/Symbols__: None<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 Finish tasks to gain vision. Depending on the host's options, you may gain a small vision boost upon completing each task, or, a large vision boost when all tasks have been complete.<br>
 
@@ -2441,6 +2457,8 @@ __Faction__: Crewmates<br>
 __Base__: Crewmate<br>
 __Ability__: Increased Speed Upon Task Completion<br>
 __Indicatior/Symbols__: None<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 Finish tasks to gain a speed boost! Depending on the host's options, you may gain a small speed boost (possibly temporarily depending on settings) after completing singular tasks, or, get a large speed boost after reaching a task-threshold.
@@ -2705,6 +2723,8 @@ __Base__: Impostor<br>
 __Ability__: Attack Players To Reduce Their Health<br>
 __Win Condition__: Solo (be the last player alive)<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 Demon is a neutral killing role whose goal is to kill all other players. When Demon is in the game all players spawn in with a green health bar over their heads. When the Demon attacks a player, their health bar will drop some health points. After fully reducing a player's health bar, that player will die. When Demon gets attacked, their health bar also decreases. The Demon heals some health when they kill players.
 
@@ -2871,6 +2891,8 @@ __Base__: Impostor<br>
 __Ability__: Convert Roles to the Undead<br>
 __Win Condition__: Convert Roles to the Undead<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 The Necromancer is the main recruiter for the Undead faction. The first person it kills will become a Deathknight. With the help of the Deathknight, they must work together to convert others to the Undead. If the Necromancer were to die, The Deathknight would turn into Necromancer.<br>
 
@@ -2901,6 +2923,8 @@ __Base__: Impostor<br>
 __Ability__: Curse Players<br>
 __Win Condition__: Curse & Kill Everyone & Be Last Player Alive<br>
 
+`Original Role & Idea by Tealeaf/단풍잎`<br>
+
 #### Role Description
 The Occultist's Kill/Curse Button alternates between cursing and killing players. Players will who are cursed by the Occultist will be seen with a cross during the meeting. If the Occultist is not voted off during this meeting, the cursed player dies. Regular kill self-reports Bait.\nSpell does not self-report Bait.<br>
 
@@ -2922,6 +2946,8 @@ __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Gulp Down the Competiton<br>
 __Win Condition__: Gulp All Players For A Solo Win<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 The Pelican gulps players by using their kill button. Gulped players are teleported out of the map and are unable to interact with the game (including Sabotages). Upon a meeting being called, all gulped players will instantly die. If the Pelican dies or disconnects, all gulped players will return to where the Pelican last was.
@@ -2962,6 +2988,9 @@ __Base__: Impostor<br>
 __Ability__: Immune To (most) Attacks<br>
 __Win Condition__: Kill Everyone & Be The Last Player Alive<br>
 
+`Originally Developed by Discussions`<br>
+`Idea by Town of Us Reactivated`<br>
+
 #### Pestilence Role Description
 Plague Bearer becomes Pestilence when they finish infecting all players. Pestilence cannot be killed (for the most part). Anyone who tries to kill the pestilence will backfire instead. Pestilence can be voted off or killed indirectly (like Warlock or Puppeteer).
 
@@ -2988,8 +3017,9 @@ _The Global option for Kill Cooldown means that this setting will be the same as
 __Faction__: Neutral Killing<br>
 __Base__: Impostor<br>
 __Ability__: Get A Second Chance At Living
-__Win Condition__: Be The Last Player
- Alive<br>
+__Win Condition__: Be The Last Player Alive<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 The Retributionist is a Neutral Killer with a twist. If the Retributionist were to ever die, It would have x seconds (Time configured by Host) to find their killer and kill them to come back to life. the Retributionist can come back multiple times, depending on host's settings.
@@ -3150,6 +3180,8 @@ __Faction__: Neutral Passive<br>
 __Base__: Crewmate <br>
 __Ability__: Copies Killer's Role When Killed<br>
 __Win Condition__: Win's With Killer's Team<br>
+
+`Original Role & Idea by Tealeaf/단풍잎`<br>
 
 #### Role Description
 As Copycat, the first time you get attacked you'll change faction & role. If you were attacked by an impostor, you're now an impostor. If by a solo killer, then you're also a solo killer.<br>
@@ -3739,3 +3771,4 @@ Gives even more tasks to a player.
 | Additional Long Tasks        | How many additional Long Tasks the Workhorse receives                     |    Number    |     1     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
