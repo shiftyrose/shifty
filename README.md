@@ -106,7 +106,7 @@ Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environmen
 | Shows all players and their IDs  | `/id`                  |              |
 | Displays message to ALL players  | `/say [msg]`           | `/s`         |
 | Kicks the provided player        | `/kick [name]`         | `/kick [id]` |
-| Bans the provided player         | `/ban [name]`          | `/kick [id]` |
+| Bans the provided player         | `/ban [name]`          | `/ban [id]`  |
 | Output log to desktop            | `/dump`                | `Ctrl`+`F1`  |
 
 
