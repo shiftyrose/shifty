@@ -3110,7 +3110,7 @@ NOTE: Werewolf can only kill during rampage!<br>
 
 ## Amnesiac
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118401296861495418/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118956193923207218/Amnesiac.png?width=1193&height=671">
 
 __Faction__: Neutral Passive<br>
 __Base__: Impostor<br>
@@ -3133,7 +3133,7 @@ If `Steals Exact Role` is OFF then the Amnesiac becomes:
 
 ### Amalgamation
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118401444572299294/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118956193654775899/Amalgamation.png?width=1193&height=671">
 
 __Faction__: Neutral Passive<br>
 __Base__: Impostor<br>
