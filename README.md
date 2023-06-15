@@ -6,14 +6,12 @@
 
 Project: Lotus is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC. 
 
-![Discord](https://media.discordapp.net/attachments/1069669492076052542/1118792445279338517/Discord_Link.png?width=1191&height=671)
-
-<p align="center"><a href=""><img src="https://discord.gg/Wb7bBE3W"></a></p>
+![Discord(https://media.discordapp.net/attachments/1069669492076052542/1118792445279338517/Discord_Link.png?width=1191&height=671)](https://discord.gg/tohtor)
 
 ## Releases
 
 AmongUs Version: **2023.6.13**
-**Latest Version: [Here]()**
+**Latest Version: [Here](https://www.innersloth.com/games/among-us/)**
 
 ## Regarding This Mod
 
@@ -722,6 +720,25 @@ Always assigned to a host and is ghosted from the start.<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Assassin 
+
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118766968753897522/image.png?width=1185&height=671">
+
+__Team__: Impostor<br>
+__Base__: Impostor<br>
+__Ability__: Guess Crewmate Roles To Kill<br>
+
+#### Role Description 
+Assassin is an evil guesser and part of the Impostor team. While in meeting the Assassin first vote locks in the player they're going to guess. Then the Assassin uses a chat command to guess the role (i.e. /r [role]). The Assassin's second guess locks in the guess. The Assassin has the ability to kill regularly and will suicide if they miss-guess.<br>
+
+### Game Options (incomplete)
+|                  Name                  |                           Description                       |     Type     |  Default  | 
+| -------------------------------------- | ----------------------------------------------------------- | :----------: | :-------: |
+| Assassin                               | The probability of the Assassin appearing                   |  Percentage  |    0%     |
+| Maximum                                | How many Assassins should spawn                             |    Number    |     1     |
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Blackmailer 
 
 <img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1034687568643641354/1118603471340453938/image.png?width=1193&height=671">
@@ -750,7 +767,7 @@ Shapeshift into a player to blackmail them. During meeting, the blackmailed play
 
 ## Bounty Hunter
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118396726483615794/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118912499358629959/Capture_decran_16.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -1081,7 +1098,7 @@ _The Global option for Gun Cooldown means that this setting will be the same as 
 
 ## Mare
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118397087315415150/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118912498997927956/image.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
