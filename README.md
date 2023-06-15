@@ -1,14 +1,14 @@
 # Project: Lotus
 
-![Project:Lotus-Title]()
+![Project:Lotus-Title](https://media.discordapp.net/attachments/1069669492076052542/1118792444994146434/GitHub_Link.png?width=1191&height=671)
 
 ## Disclaimer
 
 Project: Lotus is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC. 
 
-![Discord]()
+![Discord](https://media.discordapp.net/attachments/1069669492076052542/1118792445279338517/Discord_Link.png?width=1191&height=671)
 
-<p align="center"><a href=""><img src=""></a></p>
+<p align="center"><a href=""><img src="https://discord.gg/Wb7bBE3W"></a></p>
 
 ## Releases
 
