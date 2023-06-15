@@ -720,7 +720,7 @@ __Output__:<br>
 The GM (Game Master) is an observer role.<br>
 Their presence has no effect on the game itself, and all players know who the GM is at all times.<br>
 Always assigned to a host and is ghosted from the start.<br>
-
+<br><br><br><br>
 # Impostors
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
