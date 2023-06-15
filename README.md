@@ -714,6 +714,8 @@ __Output__:<br>
 
 ## GM
 
+<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118933409104933016/Screenshot_2023-06-15_092440.png?width=1193&height=671">
+
 The GM (Game Master) is an observer role.<br>
 Their presence has no effect on the game itself, and all players know who the GM is at all times.<br>
 Always assigned to a host and is ghosted from the start.<br>
@@ -846,7 +848,7 @@ Use the Pet button to alternate between Role-Blocking and Killing. Role-Blocks p
 
 ## Creeper
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1110090414498787328/Screenshot_4546.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118932890101755955/Screenshot_2023-06-15_062643.png?width=1193&height=671">
 
 __Faction__: Impostor<br>
 __Base__: Impostor<br>
@@ -1242,7 +1244,7 @@ With this option the Ninja no longer teleports to the target. Instead, the targe
 
 ## Pickpocket
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1108959831198531624/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118932949627326474/Screenshot_2023-06-15_062714.png?width=1193&height=671">
 
 __Faction__: Impostors<br>
 __Base__: Impostor<br>
@@ -3432,7 +3434,7 @@ Survive to the end to win. Use your Pet button to protect yourself from attacks 
 
 ## Terrorist 
 
-<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118402720974503966/image.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118933321385250826/Screenshot_2023-06-15_064530.png?width=1193&height=671">
 
 __Faction__: Neutral Passive<br>
 __Base__: Engineer<br>
