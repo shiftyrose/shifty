@@ -15,6 +15,8 @@ AmongUs Version: **2023.6.13**
 
 ## Regarding This Mod
 
+<img align="right" width="" height="150" src="https://media.discordapp.net/attachments/1105589440010788885/1118532952733798500/Project_Lotus_Icon_2.png?width=671&height=671">
+
 Project: Lotus (The Mod) is considered a Host Only Mod (or, Host Only Environment). This means that only The Host needs to install the mod (on a Windows Operating System) for it to work. Once The Host creates a modded lobby, clients (players) from any device are able to join and enjoy The Mod.<br>
 
 #### The Following Restriction(s) Apply<br>
