@@ -714,7 +714,7 @@ __Output__:<br>
 
 ## GM
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118933409104933016/Screenshot_2023-06-15_092440.png?width=1193&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118933409104933016/Screenshot_2023-06-15_092440.png?width=1193&height=671">
 
 The GM (Game Master) is an observer role.<br>
 Their presence has no effect on the game itself, and all players know who the GM is at all times.<br>
@@ -726,7 +726,7 @@ Always assigned to a host and is ghosted from the start.<br>
 
 ## Assassin 
 
-<img align="right" width="" height="300" src="https://media.discordapp.net/attachments/1108944832493277264/1118766968753897522/image.png?width=1185&height=671">
+<img align="right" width="" height="200" src="https://media.discordapp.net/attachments/1108944832493277264/1118766968753897522/image.png?width=1185&height=671">
 
 __Team__: Impostor<br>
 __Base__: Impostor<br>
