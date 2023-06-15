@@ -1,6 +1,8 @@
 # Project: Lotus
 
-<p align="center"><a height="300"> <src image="https://media.discordapp.net/attachments/1105589440010788885/1118532952733798500/Project_Lotus_Icon_2.png?width=671&height=671"></src></a></p>
+<p align="center">
+  <img width="600" height="200" src="https://media.discordapp.net/attachments/1105589440010788885/1118532952733798500/Project_Lotus_Icon_2.png?width=671&height=671">
+</p>
 
 ## Disclaimer
 
