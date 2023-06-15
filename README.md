@@ -2612,7 +2612,7 @@ __Indicatior/Symbols__: None<br>
 `Idea From: Town of Us Reactivated`<br>
 
 #### Role Description
-Vigilante is a nice guesser and part of the crewmate team. While in meeting the Vigilante's first vote locks in the player they're going to guess. The Vigilante's second guess locks in the role they're guessing.<Br>
+Vigilante is a nice guesser and part of the crewmate team. While in meeting the Vigilante's first vote locks in the player they're going to guess. Then the Vigilante uses a chat command to guess the role (i.e. /r [role]). The Vigilante's second guess locks in the guess. The Vigilante suicides if they misguess.<br>
 
 ### Game Options
 |         Name           |                             Description                             |     Type     |  Default  | 
