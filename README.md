@@ -1,6 +1,6 @@
 # Project: Lotus
 
-![Project:Lotus-Title](https://media.discordapp.net/attachments/1105589440010788885/1118532952733798500/Project_Lotus_Icon_2.png?width=671&height=671)
+<img align="center" width="" height="400" src="https://media.discordapp.net/attachments/1105589440010788885/1118532952733798500/Project_Lotus_Icon_2.png?width=671&height=671)">
 
 ## Disclaimer
 
