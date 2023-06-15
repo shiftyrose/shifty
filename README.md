@@ -6,7 +6,7 @@
 
 Project: Lotus is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC. 
 
-![Discord(https://media.discordapp.net/attachments/1069669492076052542/1118792445279338517/Discord_Link.png?width=1191&height=671)](https://discord.gg/tohtor)
+![Discord](https://github.com/shiftyrose/shifty/assets/118016475/93216866-d1f8-4f8d-8410-282d8e83f578)(https://discord.gg/tohtor)
 
 ## Releases
 
